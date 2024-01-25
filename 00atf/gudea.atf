@@ -5513,7 +5513,7 @@ $ 	broken
 6'.	in-du₃-a
 #lem: du[build]\eE
 
-7'.	|LA.E.GI.LUL| geštin-ka#-ni#
+7'.	LA-E-GI-LUL geštin-ka#-ni#
 #lem: X; ŋeštin[vine]
 
 $ rest broken
@@ -6808,7 +6808,7 @@ $ rest of column broken
 1.    lu₂ si-gi₄-a
 #lem: lu[person]; X
 
-2.    |NITA.UD|
+2.    NITA-UD
 #lem: X
 
 3.    munus kiŋ₂ dug₄-ga
@@ -6965,7 +6965,7 @@ $ rest of column broken
 34.    gid₂-bi 2(u) 5(diš) kuš₃
 #lem: gid[long]; n; n; kuš[unit]
 
-35.    ad-še₃ mu-|AK.AK|
+35.    ad-še₃ mu-AK-AK
 #lem: ad[log]; ak[do] +.
 
 36.    kur-bi im-ta-ed₃
@@ -7034,10 +7034,11 @@ $ rest of column broken
 57.    {ŋeš}tu-lu-bu-um ŋeš-kur
 #lem: tulubum[tree]; ŋeškur[tree]
 
-58.    ad-še₃ mu-|AK.AK|
+58.    ad-še₃ mu-AK-AK
 #lem: ad[log]; ak[do] +.
 
 @m column 5
+
 1.    e₂-ninnu-a
 #lem: Eninnu[1]TN
 
@@ -7777,7 +7778,7 @@ $ rest of column broken
 10.    1/2(diš) sila₃ zid₂-dub-dub
 #lem: n; sila[unit]; ziddubdub[flour heap]
 
-11.    1/2(diš) sila₃ niŋ₂-ar₃-ra imŋaŋaₓ(|ZIZ₂.AN|)
+11.    1/2(diš) sila₃ niŋ₂-ar₃-ra imŋaŋa₃(|ZIZ₂.AN|)
 #lem: n; sila[unit]; niŋara[groats]; imŋaŋa[emmer]
 
 12.    sa₂-dug₄-ba ŋal₂-la-am₃
@@ -8632,7 +8633,7 @@ He transported diorite from the mountain ranges of Magan, fashioned his (own) st
 14.	1(aš) ti₈-uz
 #lem: n; tiʾuz[bird]
 
-15.	7(aš) gambiₓ(|SAL.UŠ.DI.KID|){mušen}
+15.	7(aš) gambi(|SAL.UŠ.DI.KID|){mušen}
 #lem: n; gambi[crane]
 
 16.	1(u@c) 5(aš) kur-gi₁₆{mušen}
@@ -8747,7 +8748,7 @@ $ 1 line blank
 4.	1(aš) ti₈-uz
 #lem: n; tiʾuz[bird]
 
-5.	7(aš) gambiₓ(|SAL.UŠ.DI.KID|){mušen}
+5.	7(aš) gambi(|SAL.UŠ.DI.KID|){mušen}
 #lem: n; gambi[crane]
 
 6.	1(u@c) 5(aš) kur-gi₁₆{mušen}
@@ -9359,7 +9360,7 @@ He organized yokes of oxen, and assigned farmers and ox drivers to them. He ensu
 8.	1(aš) ti₈-uz
 #lem: n; tiʾuz[bird]
 
-9.	7(aš) {mušen}gambiₓ(|SAL.UŠ.DI.KID|)
+9.	7(aš) {mušen}gambi(|SAL.UŠ.DI.KID|)
 #lem: n; gambi[crane]
 
 10.	1(u@c) 5(aš) {mušen}kur-gi₁₆
@@ -9472,7 +9473,7 @@ He organized yokes of oxen, and assigned farmers and ox drivers to them. He ensu
 2.	1(aš) ti₈-uz
 #lem: n; tiʾuz[bird]
 
-3.	7(aš) {mušen}gambiₓ(|SAL.UŠ.DI.KID|)
+3.	7(aš) {mušen}gambi(|SAL.UŠ.DI.KID|)
 #lem: n; gambi[crane]
 
 4.	1(u@c) kur-gi₁₆{mušen}
@@ -11563,8 +11564,8 @@ $ rest broken
 
 #etcsl: line-id=69
 
-12. |NE.GI.BAR| a gal-la du₃-a-me
-#lem: X; a[water]; gal[big]\a; du[build] +.
+12. enₓ(|NE.GI|)-bar a gal-la du₃-a-me
+#lem: enbar[reed]; a[water]; gal[big]\a; du[build] +.
 
 #etcsl: line-id=70
 
@@ -14120,7 +14121,7 @@ $ 1 line missing
 
 #etcsl: line-id=570
 
-6. nemurₓ(|PIRIG.TUR|) piriŋ huš-a gu₂-da la₂-am₃
+6. nemur₂(|PIRIG.TUR|) piriŋ huš-a gu₂-da la₂-am₃
 #lem: nemur[leopard]; piriŋ[lion]; huš[reddish]; gu[neck]; la[hang] +.
 
 #etcsl: line-id=571
@@ -14268,7 +14269,7 @@ $ 1 line missing
 
 #etcsl: line-id=599
 
-7. |A.ŊAR.KA|-bi im-ši-ib₂-suru₅-ne
+7. A-GAR-KA-bi im-ši-ib₂-suru₅-ne
 #lem: A.GAR.KA[~temple]; sur[harness] +.
 
 #etcsl: line-id=600
@@ -14930,7 +14931,7 @@ $ 1 line missing
 
 #etcsl: line-id=728
 
-27. ug nemurₓ(|PIRIG.TUR|) tur-tur šu-ba du₂-ru-na-am₃
+27. ug nemur₂(|PIRIG.TUR|) tur-tur šu-ba du₂-ru-na-am₃
 #lem: ug[lion]; nemur[leopard]; tur[small]; šu[hand]\a; durun[sit] +.
 
 #etcsl: line-id=729
@@ -17439,7 +17440,7 @@ $ 1 line missing
 
 #etcsl: line-id=1214
 
-16. e₂ kug |AN.KA|-ba ninda mu-ni-ŋar-ŋar
+16. e₂ kug AN-KA-ba ninda mu-ni-ŋar-ŋar
 #lem: e[house]; kug[pure]; X\a; ninda[bread]; ŋar[place] +.
 
 #etcsl: line-id=1215
