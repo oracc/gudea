@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esp:page xmlns:esp="http://oracc.org/ns/esp/1.0" xmlns="http://www.w3.org/1999/xhtml" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <esp:name>Home</esp:name>
+  <esp:title>Gudea Corpus</esp:title>
+  <html>
+    <head/>
+    <body>
+      <esp:image file="" description=""/>
+      <p/>
+      <p>You can view the project's content <esp:link url="/gudea/pager">here</esp:link>.</p>
+    </body>
+  </html>
+</esp:page>
