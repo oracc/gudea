@@ -9642,6 +9642,7 @@ For Bau, the kind woman, the child of An, the lady of Iri-kug, the lady of abund
 #atf: use mylines
 #link: source cdli:P232282 = RIME 3/1, p. 051, E3/1.01.07, St I
 #@m=object statue
+#https://www.metmuseum.org/art/collection/search/329072
 @m column 1
 1.	ud {d}nin-ŋir₂-su
 #lem: ud[day]; Ninŋirsuk[1]DN
@@ -11852,7 +11853,7 @@ $ rest broken
 
 #etcsl: line-id=125
 
-13. lu₂ an-gin₇ ri-ba ki-gin₇ ri-ba-eše₂
+13. lu₂ an-gin₇ ri-ba ki-gin₇ ri-ba-še₃
 #lem: lu[person]; an[sky]; rib[surpassing]; ki[place]; rib[surpassing]
 
 #etcsl: line-id=126
@@ -16028,7 +16029,7 @@ $ 1 line missing
 
 #etcsl: line-id=941
 
-9. AN KA# %e mar#-za %s e₂-a SA-ni
+9. AN KA# mar#-za %s e₂-a SA-ni
 #lem: X; KA[unmng]N; marza[rites]; e[house]; X
 
 #etcsl: line-id=942

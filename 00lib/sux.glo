@@ -1,0 +1,27 @@
+@project gudea
+@lang sux
+@name gudea,sux
+
+@entry ak [do] V/t
+@bases AK-AK
+@form mu-AK-AK /AK-AK #mu:~
+@sense V/t to do
+@end entry
+
+@entry A.GAR.KA [~temple] N
+@bases A-GAR-KA
+@form A-GAR-KA-bi /A-GAR-KA #~,bi
+@sense N a part of a temple
+@end entry
+
+@entry marza [rites] N
+@bases mar-za
+@form mar-za /mar-za #~
+@sense N rites
+@end entry
+
+@entry rib [surpassing] V/i
+@bases ri-b·a
+@form ri-ba-še₃ /ri-b·a #~;a,eše
+@sense V/i (to be) surpassing, outstanding
+@end entry
