@@ -1,0 +1,16 @@
+colour-def-blue	blue
+colour-def-maro	#800
+colour-def-gold #edda74
+colour-def-cyan #0ff
+colour-def-yell #ffd
+colour-def-red red
+
+colour-def-dark #800
+colour-def-medium red
+colour-def-light #edda74
+
+colour-bind-maro	banner-bg heading-fg
+colour-bind-gold	banner-fg border bborder
+colour-bind-yell 	hover-bg heading-bg
+colour-bind-blue 	href-fg
+colour-bind-red		hover-fg
