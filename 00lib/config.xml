@@ -3,7 +3,7 @@
     xmlns:xpd="http://oracc.org/ns/xpd/1.0">
   <title>Gudea Corpus</title>
   <name>Gudea Corpus</name>
-  <abbrev>Sumerian/Gudea</abbrev>
+  <abbrev>Gudea</abbrev>
   <project-type>user</project-type>
   <type>corpus</type>
   <logo type="text">Gudea</logo>
