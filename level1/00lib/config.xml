@@ -9,6 +9,7 @@
   <logo type="text">Gudea Bricks etc.</logo>
   <option name="asl-auto" value="yes"/>
   <option name="catalog-build-policy" value="virtual"/>
+  <option name="cbd-oid" value="yes"/>
   <option name="build-approved-policy" value="proxy"/>
   <option name="%sux" value="epsd2 epsd2/names ."/>
   <option name="sum-alias" value="yes"/>
