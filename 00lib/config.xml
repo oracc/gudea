@@ -8,6 +8,7 @@
   <type>corpus</type>
   <logo type="text">Gudea</logo>
   <option name="asl-auto" value="yes"/>
+  <option name="asl-merge" value="00lib/gudea.mrg"/>
   <option name="catalog-build-policy" value="custom"/>
   <option name="cbd-oid" value="yes"/>
   <option name="build-approved-policy" value="atf"/>
