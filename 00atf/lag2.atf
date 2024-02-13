@@ -1,0 +1,4324 @@
+&Q001590 = Hala-Bau 1001 [E3/1.1.0.1001]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020642
+#exx P222297
+1.	{d}šul-šag₄-ga
+#lem: Šulšaga[1]DN
+
+2.	dumu ki aŋ₂
+#lem: dumu[child]; ki[place]; aŋ[measure]
+
+3.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	ha!-la-{d}ba-u₂
+#lem: Halabau[1]PN
+
+6.	dam lugal-iri-da-ke₄
+#lem: dam[spouse]; Lugalirida[1]PN
+
+7.	nam#-til₃-la-ni-še₃
+#lem: namtil[life]
+
+8.	[a] mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001591 = Lagash II Unidentified 1002 [E3/1.1.0.1002]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020643
+#exx P234715
+1.	[{d}]ba-u₂
+#lem: Bau[1]DN
+
+2.	[munus] sag₉-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu# an-na
+#lem: dumu[child]; an[sky]
+
+4.	[nin iri]-kug-ga
+#lem: nin[lady]; Irikug[1]
+
+
+
+
+&Q001592 = Lagash II Unidentified 1003 [E3/1.1.0.1003]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020644
+#exx P234716
+1.	{d#}inana#
+#lem: Inanak[1]DN
+
+2.	[nin] e₂-an#-[na]
+#lem: nin[lady]; Eanak[1]TN
+
+
+
+
+&Q001593 = Lagash II Unidentified 1004 [E3/1.1.0.1004]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020645
+#exx P234717
+1'.	[x] nin# x# [x x]
+#lem: u; nin[lady]; u; u; u
+
+2'.	nam#-til₃-[la-ni-še₃]
+#lem: namtil[life]
+
+3'.	[...]
+#lem: u
+
+
+
+
+&Q001594 = Lagash II Unidentified 1005 [E3/1.1.0.1005]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020646
+#exx P221763
+1.	[{d}mes]-lam-ta-ed₂#-a
+#lem: Meslamtaea[1]DN
+
+2.	[lugal-a]-ni#
+#lem: lugal[king]
+
+3.	[...]-x#
+#lem: u
+
+
+
+
+&Q001595 = Lagash II Unidentified 1006 [E3/1.1.0.1006]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020647
+#exx P234718
+1.	{d}nanše
+#lem: Nanše[1]DN
+
+2.	nin uru₁₆
+#lem: nin[lady]; urun[exalted]
+
+
+
+
+&Q001596 = Lagash II Unidentified 1007 [E3/1.1.0.1007]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020648
+#exx P234719
+1.	{d}nin-e₂#-[gal]
+#lem: Ninegalak[1]DN
+
+2.	nin-a-[ni]
+#lem: nin[lady]
+
+
+
+
+&Q001597 = Lagash II Unidentified 1008 [E3/1.1.0.1008]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020649
+#exx P234720
+1.	{d}nin-ŋir₂-[su]
+#lem: Ninŋirsuk[1]DN
+
+2.	lugal#-[a-ni]
+#lem: lugal[king]
+
+3.	nam-[til₃]
+#lem: namtil[life]
+
+4.	ur#-[...]
+#lem: Ur.X[1]PN
+
+
+
+
+&Q001598 = Lagash II Unidentified 1009 [E3/1.1.0.1009]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020650
+#exx P234721
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+5.	[lugal-a-ni]
+#lem: lugal[king]
+
+6.	[RN]
+#lem: u
+
+$ 	broken
+
+
+
+&Q001599 = Lagash II Unidentified 1010 [E3/1.1.0.1010]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020651
+#exx P234722
+1.	{d}nin-ŋir₂#-[su]
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal#-[ga]
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en#-[lil₂-la₂]
+#lem: Enlil[1]DN
+
+4.	lugal#-[a-ni]
+#lem: lugal[king]
+
+5.	[RN]
+#lem: u
+
+$	broken
+
+
+
+&Q001600 = Lagash II Unidentified 1011 [E3/1.1.0.1011]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020652
+#exx P234723
+1.	{d}LAL₂?-bur-dug₃#-ga
+#lem: LAL₂.burduga[0]DN
+
+2.	[diŋir]-ra-ni
+#lem: diŋir[deity]
+
+3.	[nam]-til₃#
+#lem: namtil[life]
+
+4.	[...] x#
+#lem: u; u
+
+$	broken
+
+
+
+&Q001601 = Lagash II Unidentified 1012 [E3/1.1.0.1012]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020653
+#exx P234724
+1.	[{d}]nin#-hur#-saŋ#
+#lem: Ninhursaŋak[1]DN
+
+
+
+
+&Q001602 = Lagash II Unidentified 1013 [E3/1.1.0.1013]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020654
+#exx P234725
+@m column 1
+1.	{d}nin-sun₂
+#lem: Ninsumunak[1]DN
+
+2.	[...]
+#lem: u
+
+@m column 2
+1.	x# x#
+#lem: u; u
+
+
+
+
+&Q001603 = Lagash II Unidentified 1014 [E3/1.1.0.1014]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020655
+#exx P234726
+1.	{d}nin-šubur
+#lem: Ninšubur[1]DN
+
+2.	sukkal# an!-na
+#lem: sukkal[secretary]; an[sky]
+
+3.	[diŋir]-ra-a-ni
+#lem: diŋir[deity]
+
+4.	nam#-til₃
+#lem: namtil[life]
+
+5.	[...]
+#lem: u
+
+
+
+
+&Q001604 = Lagash II Unidentified 1015 [E3/1.1.0.1015]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020656
+#exx P234727
+1'.	{d}šul#-[...]
+#lem: u
+
+2'.	diŋir-ra-[ni]
+#lem: diŋir[deity]
+
+3'.	e₃-a x#-[x]
+#lem: e[go out]; u
+
+
+
+
+&Q001605 = Lagash II Unidentified 1016 [E3/1.1.0.1016]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020657
+#exx P234728
+1.	{d}utu? x#? [...]
+#lem: Utu[1]DN; u; u
+
+
+
+
+&Q001606 = Lagash II Unidentified 1017 [E3/1.1.0.1017]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020658
+#exx P234729
+@m column 1
+0'.	[DN]
+#lem: u
+
+1'.	nin-[a-ni]
+#lem: nin[lady]
+
+2'.	nam-[til₃ RN]
+#lem: namtil[life]; u
+
+3'.	ensi₂#
+#lem: ensik[ruler]
+
+4'.	lagaš#[{ki}-ka-še₃]
+#lem: Lagaš[1]
+
+5'.	ad-[x-x]
+#lem: u
+
+6'.	ga-eš₈# [GN-ke₄]
+#lem: gaʾeš[trader]; GN[0]GN
+
+@m column 2
+1.	u₃# nam#-til₃#-[la-ni-še₃]
+#lem: u[and]; namtil[life]
+
+2.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001607 = Lagash II Unidentified 1018 [E3/1.1.0.1018]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020659
+#exx P234730
+1'.	[nam-til₃]
+#lem: namtil[life]
+
+2'.	[RN]
+#lem: u
+
+3'.	[ensi₂]
+#lem: ensik[ruler]
+
+4'.	lagaš#[{ki}-ka-še₃]
+#lem: Lagaš[1]
+
+5'.	DU# [...]
+#lem: u; u
+
+6'.	sukkal [...]
+#lem: sukkal[secretary]; u
+
+7'.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001608 = Lagash II Unidentified 1019 [E3/1.1.0.1019]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020660
+#exx P234731
+1'.	[nam-til₃]
+#lem: namtil[life]
+
+2'.	[RN]
+#lem: u
+
+3'.	[ensi₂]
+#lem: ensik[ruler]
+
+4'.	lagaš#[{ki}]-ka-še₃
+#lem: Lagaš[1]
+
+5'.	lu₂-{d}šara₂
+#lem: Lušara[1]PN
+
+6'.	nu-banda₃
+#lem: nubanda[overseer]
+
+7'.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+8'.	nu-banda₃-ke₄
+#lem: nubanda[overseer]
+
+9'.	u₃# nam#-[til₃-la-ni-še₃]
+#lem: u[and]; namtil[life]
+
+10'.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001609 = Lagash II Unidentified 1020 [E3/1.1.0.1020]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020661
+#exx P221761
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#[{ki}-ka-še₃]
+#lem: Lagaš[1]
+
+3'.	|ME#?.DIM.[X]|
+#lem: u
+
+4'.	[x] KI# [...]
+#lem: u; u; u
+
+
+
+
+&Q001610 = Lagash II Unidentified 1021 [E3/1.1.0.1021]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020662
+#exx P221762
+1'.	x# [...]
+#lem: u; u
+
+2'.	nin-lu₂-[x]
+#lem: Nin.lu₂.X[1]PN
+
+3'.	a# mu#-na#-[ru]
+#lem: a[water]; ru[cvve]
+
+4'.	x# x# [...]
+#lem: u; u; u
+
+
+
+
+&Q001611 = Lagash II Unidentified 1022 [E3/1.1.0.1022]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020663
+#exx P234732
+$	broken
+0'.	[nam-til₃ RN]
+#lem: namtil[life]; u
+
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#{ki}-<ka>-še₃#
+#lem: Lagaš[1]
+
+3'.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+4'.	dumu šeš-šeš dam-gar₃-ke₄
+#lem: dumu[child]; Šeššeš[1]PN; damgar[merchant]
+
+5'.	[a] mu#-na-ru
+#lem: a[water]; ru[cvve]
+
+6'.	na₄# diŋir-mu-til₃#-al-ba-ni-dug₄
+#lem: na[stone]; u
+
+8'.	mu-bi
+#lem: mu[name]
+
+
+# @m surface ON
+# 6'.	dijir-mu
+# #lem: dijir[deity]
+# 
+# 7'.	til3# al ba-ni-dug4
+# #lem: til[live]; al[hoe]; dug[speak]
+
+
+
+
+&Q001612 = Lagash II Unidentified 1023 [E3/1.1.0.1023]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020664
+#exx P234733
+1'.	[ensi₂]
+#lem: ensik[ruler]
+
+2'.	lagaš#{ki}-ka-še₃
+#lem: Lagaš[1]
+
+3'.	ur#-{d}šul-pa-ed₂#-[a]
+#lem: Uršulpaea[1]PN
+
+
+
+
+&Q001613 = Lagash II Unidentified 1024 [E3/1.1.0.1024]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020665
+#exx P234734
+1'.	ur-{d}[...]
+#lem: Ur.X[1]PN
+
+
+
+
+&Q001614 = Lagash II Unidentified 1025 [E3/1.1.0.1025]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020666
+#exx P234735
+1'.	[nam]-til₃#-la-ni-še₃
+#lem: namtil[life]
+
+2'.	nam#-til₃ dam dumu#-na-še₃
+#lem: namtil[life]; dam[spouse]; dumu[child]
+
+3'.	a mu#-na-ru
+#lem: a[water]; ru[cvve]
+
+4'.	bur-ba nin-mu#-ba-zi!#-ge
+#lem: bur[bowl]; u
+
+5'.	mu-bi
+#lem: mu[name]
+
+
+# @m surface ON
+# 4'.	nin-mu# ba-zi!#-ge
+# #lem: nin[lady]; zig[rise]
+
+
+
+
+&Q001615 = Lagash II Unidentified 1026 [E3/1.1.0.1026]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020667
+#exx P234736
+1'.	[...]
+#lem: u
+
+2ʾ-3'.	igi-mu-ši-in-ŋal₂-en₃-ha-mu-tar-re
+#lem: Igimušinŋalenhamutare[0]ON
+
+4'.	mu#-bi#
+#lem: mu[name]
+
+
+# @m=locator object ON ON1
+# 2'.	igi mu-szi-in-jal2
+# #lem: igi[eye]; jal[be]
+#
+# 3'.	en3 ha-mu-tar-re
+# #lem: en[cvne]; tar[cut]
+
+
+
+
+&Q001616 = Lagash II Unidentified 1027 [E3/1.1.0.1027]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020668
+#exx P234737
+0'.	[šita₂?-ba]
+#lem: šita[weapon]
+
+1'.	[ON]
+#lem: ON
+
+2'.	mu-bi
+#lem: mu[name]
+
+3'.    e₂# ki# aŋ₂#-ŋa₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+4'.    ki#-be₂! gi₄-gi₄-da
+#lem: ki[place]\l; gi[turn]
+
+@m column 2
+1'.    KASKAL mah#-x#
+#lem: u; u
+
+2'.    gu₃-de₂-a
+#lem: Gudea[1]RN
+
+3'.    ensi₂
+#lem: ensik[ruler]
+
+4'.    lagaš#[{ki}]-ra#
+#lem: Lagaš[1]
+
+@m column 3
+1'.    [...]
+#lem: u
+
+2'.    UR#? [...]
+#lem: u; u
+
+3'.    [...]
+#lem: u
+
+
+
+
+
+
+
+&Q004255 = Lagaš II Unidentified 1028add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004255
+#atf: use unicode
+#link: source cdli:P315451 = FAOS 09/1, Lagaš 01
+@m obverse
+$	broken
+
+1'.	[...] x x
+#lem: u; u; u
+
+2'.	ensi₂#
+#lem: ensik[ruler]
+
+3'.	lagaš#{ki}-ke₄
+#lem: Lagaš[1]SN
+
+@m reverse
+1. [e₂]-{anše}du₂₄-ur₃-ka#-ni
+#lem: Edurak[1]TN
+
+2. [mu-na]-du₃
+#lem: du[build] +.
+
+$ broken
+
+
+
+&Q004256 = Lagaš II Unidentified 1029add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004256
+#atf: use unicode
+#link: source cdli:P247586 = FAOS 09/1, Lagaš 03
+
+$ broken
+
+1'. niŋ₂#-[du₇-e] pa mu-na-e₃
+#lem: niŋdu[appropriate thing]; pa[branch]; e[leave]
+
+2'. e₂-ninnu#-anzud₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+3'. mu-na-du₃
+#lem: du[build] +.
+
+$ broken
+
+
+
+&Q004257 = Lagaš II Unidentified 1030add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004257
+#atf: use unicode
+#link: source cdli:P247587 = FAOS 09/1, Lagaš 04
+
+$ broken
+
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#{ki}-ke₄
+#lem: Lagaš[1]SN
+
+3'. [nam]-til₃-la-ni-še₃
+#lem: namtil[life]
+
+4'. [nam]-til₃# dam# [dumu-na-še₃]
+#lem: namtil[life]; dam[spouse]; dumu[child]
+
+5'. [a mu-na-ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004258 = Lagaš II Unidentified 1031add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004258
+#atf: use unicode
+#link: source cdli:P247575 = FAOS 09/1, Lagaš 05
+
+$ broken
+
+1'. [a mu]-na#-ru
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004259 = Lagaš II Unidentified 1032add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004259
+#atf: use unicode
+#link: source cdli:P247578 = FAOS 09/1, Lagaš 06
+
+$ broken
+
+1'.	[...]-ke₄
+#lem: u
+
+2'. [nam]-til₃#-la-ni-še₃
+#lem: namtil[life]
+
+$ broken
+
+
+
+&Q004260 = Lagaš II Unidentified 1033add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004260
+#atf: use unicode
+#link: source cdli:P247581 = FAOS 09/1, Lagaš 07
+
+$ broken
+
+1'.	{d}[...]
+#lem: u
+
+2'. nin#?-[a-ni]
+#lem: nin[lady]
+
+$ broken
+
+
+
+&Q004261 = Lagaš II Unidentified 1034add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004261
+#atf: use unicode
+
+$ broken
+
+1'. a mu-na-[ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004262 = Lagaš II Unidentified 1035add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004262
+#atf: use unicode
+#link: source cdli:P247582 = FAOS 09/1, Lagaš 09
+
+$ broken
+
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#[{ki}-ke₄]
+#lem: Lagaš[1]SN
+
+$ broken
+
+
+
+&Q004263 = Lagaš II Unidentified 1036add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004263
+#atf: use unicode
+
+$ broken
+
+1'. [nam-til₃]-la-ni-še₃#
+#lem: namtil[life]
+
+2'. [nam]-til₃ [dam dumu-na]-še₃
+#lem: namtil[life]; dam[spouse]; dumu[child]
+
+3'. [a mu-na-ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004264 = Lagaš II Unidentified 1037add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004264
+#atf: use unicode
+#link: source cdli:P247554 = FAOS 09/1, Lagaš 17
+
+$ broken
+
+1'. nin [...]
+#lem: nin[lady]; u
+
+$ broken
+
+
+
+&Q004265 = Lagaš II Unidentified 1038add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004265
+#atf: use unicode
+#link: source cdli:P247555 = FAOS 09/1, Lagaš 18
+
+$ broken
+
+1'.	x# [...]
+#lem: u; u
+
+2'.	ensi₂#
+#lem: ensik[ruler]
+
+$ broken
+
+
+
+&Q004266 = Lagaš II Unidentified 1039add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004266
+#atf: use unicode
+#link: source cdli:P247556 = FAOS 09/1, Lagaš 19
+
+$ broken
+
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#[{ki}-ke₄]
+#lem: Lagaš[1]SN
+
+3'. nam#-til₃-la-[ni-še₃]
+#lem: namtil[life]
+
+4'. [a] mu#-na#-[ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004267 = Lagaš II Unidentified 1040add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004267
+#atf: use unicode
+#link: source cdli:P247557 = FAOS 09/1, Lagaš 20
+
+$	broken
+
+1'.	lagaš#[{ki}-ke₄]
+#lem: Lagaš[1]SN
+
+2'.   e₂ ŋir₂-[su{ki}]-ka-ni 
+#lem: e[house]; Ŋirsu[1]SN
+
+3'.   mu-na-du₃
+#lem: du[build] +.
+
+$ broken
+
+
+
+&Q004268 = Lagaš II Unidentified 1042add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004268
+#atf: use unicode
+#link: source cdli:P247559 = FAOS 09/1, Lagaš 23
+
+@div Fragment a
+$ broken
+1'. [...]-x#
+#lem: u
+@end Fragment a
+
+@div Fragment b
+1'. [a mu-na]-ru#
+#lem: a[water]; ru[cvve] +.
+$ broken
+@end Fragment b
+
+
+
+&Q004269 = Lagaš II Unidentified 1043add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004269
+#atf: use unicode
+#link: source cdli:P247560 = FAOS 09/1, Lagaš 25
+
+$ broken
+
+1'. u₃ nam#-[til₃]-la-ni-[še₃]
+#lem: u[and]; namtil[life]
+
+2'. a mu-na-[ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004270 = Lagaš II Unidentified 1044add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004270
+#atf: use unicode
+#link: source cdli:P247561 = FAOS 09/1, Lagaš 26
+
+$ broken
+
+1'.	dam-[ne₂]
+#lem: dam[spouse]
+
+2'.	u₃ nam-til₃-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+3'.	a mu-na-ru
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004271 = Lagaš II Unidentified 1045add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004271
+#atf: use unicode
+#link: source cdli:P247562 = FAOS 09/1, Lagaš 28
+
+$ broken
+
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#{ki}-ke₄
+#lem: Lagaš[1]SN
+
+3'.	[...] x [...] 
+#lem: u; u; u
+
+
+
+&Q004272 = Lagaš II Unidentified 1046add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004272
+#atf: use unicode
+#link: source cdli:P247563 = FAOS 09/1, Lagaš 30
+
+$ broken
+
+1'.	[...] x#-še₃ x#-ŋu₁₀
+#lem: u; u; u
+
+2'.	mu#-bi
+#lem: mu[name]
+
+
+
+&Q004273 = Lagaš II Unidentified 1047add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004273
+#atf: use unicode
+#link: source cdli:P247564 = FAOS 09/1, Lagaš 32
+
+$ broken
+
+1'.	[...] x
+#lem: u; u
+
+2'.	[...] HAR
+#lem: u; u
+
+
+
+&Q004274 = Lagaš II Unidentified 1048add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004274
+#atf: use unicode
+#link: source cdli:P247565 = FAOS 09/1, Lagaš 34
+
+@m column 1
+$ broken
+
+1'. [...]
+#lem: u
+
+2'. [...]
+#lem: u
+
+3'. [...]
+#lem: u
+
+$ broken
+
+@m column 2
+
+$ broken
+
+1'.	ensi₂#
+#lem: ensik[ruler]
+
+2'.	lagaš#[{ki}]-ka#-[ke₄]
+#lem: Lagaš[1]SN
+
+3'.	nam-til₃-[la-ni-še₃]
+#lem: namtil[life]
+
+4'.	a# mu-na#-[ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004275 = Lagaš II Unidentified 1049add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004275
+#atf: use unicode
+#link: source cdli:P247566 = FAOS 09/1, Lagaš 35
+
+$ broken
+
+1'. x [...]
+#lem: u; u
+
+2'. a mu-na#-[ru]
+#lem: a[water]; ru[cvve] +.
+
+$ broken
+
+
+
+&Q004881 = Lagaš II Unidentified 1050add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004881
+#atf: use unicode
+#link: source cdli:P247567 = FAOS 09/1, Lagaš 36
+
+$ broken
+
+1'. {na₄}[...]
+#lem: u
+
+2'. mu-ba-al#
+#lem: bal[dig]
+
+3'. šita₂ saŋ eš₅
+#lem: šita[weapon]; saŋ[head]; eš[three]
+
+4'. <a> mu-na-ru
+#lem: a[water]; ru[cvve] +.
+
+
+
+&Q004882 = Lagaš II Unidentified 1051add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004882
+#atf: use unicode
+#link: source cdli:P247568 = FAOS 09/1, Lagaš 38
+
+$ broken
+1'. [...] x
+#lem: u; u
+
+2'. [x-a]-ni
+#lem: u
+
+3'. [...]-AN
+#lem: u
+
+4'. [...]-nir?#-ke₄
+#lem: u
+
+5'. [nam-til₃-la]-ni-še₃
+#lem: namtil[life]
+
+6'. [u₃ nam-til₃] dam# dumu-na-še₃
+#lem: u[and]; namtil[life]; dam[spouse]; dumu[child]
+
+7'. [a mu-na]-ru
+#lem: a[water]; ru[cvve] +.
+
+8'. [alan]-ba
+#lem: alan[statue]
+
+9'. [...]-x-a ha-mu-[(x)]-x-x
+#lem: u; u
+
+10'. [mu-bi-im]
+#lem: mu[name] +.
+
+
+
+&Q004883 = Lagaš II Unidentified 1052add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004883
+#atf: use unicode
+#link: source cdli:P247569 = FAOS 09/1, Lagaš 39
+
+$ broken
+
+1'. [ama?] [lagaš?]{ki}
+#lem: ama[mother]; Lagaš[1]SN
+
+2'. [kug? {d}]ŋa₂#-tum₃-dug₃-ge
+#lem: kug[pure]; Ŋatumdug[1]DN
+
+3'. [zid]-de₃#-eš₂ mu-i-i
+#lem: zid[right]; e[speak]
+
+4'. lagaš#{ki}-še₃?#
+#lem: Lagaš[1]SN
+
+5'. [...]-si?#
+#lem: u
+
+6'. [...]-a
+#lem: u
+$ broken
+
+
+
+&Q004884 = Lagaš II Unidentified 1053add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004884
+#atf: use unicode
+#link: source cdli:P247588 = FAOS 09/1, Lagaš 41
+
+$ broken 
+
+1'. ensi₂#
+#lem: ensik[ruler]
+
+2'. lagaš#{ki#}
+#lem: Lagaš[1]SN
+
+3'. lu₂ [e₂-ninnu]
+#lem: lu[person]; Eninnu[1]TN
+
+4'. {d#}[nin-ŋir₂-su-ka]
+#lem: Ninŋirsuk[1]DN
+
+5'. [in-du₃-a]
+#lem: du[build]
+
+$ broken 
+
+
+
+&Q004885 = Lagaš II Unidentified 1054add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004885
+#atf: use unicode
+#link: source cdli:P247570 = FAOS 09/1, Lagaš 42
+
+$ broken
+1'. U₂#? x x
+#lem: u; u; u
+
+2'. a mu-na-ru#
+#lem: a[water]; ru[cvve] +.
+
+
+
+&Q008909 = Lagaš II Unidentified 1055add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q008909
+#atf: use unicode
+#link: source cdli:P247571 = FAOS 09/1, Lagaš 44
+
+$ broken
+1'. ensi₂#
+#lem: ensik[ruler]
+
+2'. lagaš#{ki}
+#lem: Lagaš[1]SN
+
+
+
+&Q004886 = Lagaš II Unidentified 1056add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004886
+#atf: use unicode
+#link: source cdli:P247572 = FAOS 09/1, Lagaš 45
+
+$ broken
+1'. [...] AD [...]
+#lem: u; u; u
+
+2'. [...] ma₂ [...]
+#lem: u; u; u
+
+3'. [...] x-a [...]
+#lem: u; u; u
+
+$ broken
+
+
+
+&Q004887 = Lagaš II Unidentified 1057add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004887
+#atf: use unicode
+#link: source cdli:P247573 = FAOS 09/1, Lagaš 47
+
+@m column 1
+
+$ broken
+1'. [...] NIR#?
+#lem: u; u
+2'. [...] AN#
+#lem: u; u
+$ broken
+
+@m column 2
+
+$ broken
+1'. DUG#? [...]
+#lem: u; u
+
+2'. DUG#? [...]
+#lem: u; u
+
+3'. x [...]
+#lem: u; u
+
+$ broken
+
+
+
+&Q004888 = Lagaš II Unidentified 1058add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004888
+#atf: use unicode
+#link: source cdli:P247574 = FAOS 09/1, Lagaš 48
+
+@m column 1
+$ broken
+1'. [...]-x
+#lem: u
+
+2'. [...]-ke₄
+#lem: u
+
+3'. [...]-x
+#lem: u
+
+4'. [...]-x-x
+#lem: u
+
+$ broken
+
+@m column 2
+$ broken
+
+1'. [...]-ŋa₂-ni
+#lem: u
+
+2'. {d#}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]
+
+3'. dumu {d}en-lil₂-la₂
+#lem: dumu[child]; Enlil[1]DN
+
+4'. [...] x-x-[x]
+#lem: u; u
+$ broken
+
+@m column 3
+
+$ broken
+1'. [...]
+#lem: u
+
+2'. NA?# [...]
+#lem: u; u
+
+$ broken
+
+
+
+&Q004889 = Lagaš II Unidentified 1059add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004889
+#atf: use unicode
+#link: source cdli:P247589 = FAOS 09/1, Lagaš 49
+
+@m column 1
+$ broken
+1'. [{d}nin]-ŋir₂-su-ke₄
+#lem: Ninŋirsuk[1]DN
+
+2'. [...]-ma [šag₄?] kug-ge
+#lem: u; šag[heart]; kug[pure]
+
+3'. [...]-pad₃-da-a
+#lem: u
+$ broken
+
+@m column 2
+1'. kur?#-ta?# [...]-ge DU?#-[...]
+#lem: kur[mountain(s)]; u; u
+
+2'. e₂-[...]
+#lem: u
+
+3'. saŋ-[...]
+#lem: u
+
+4'. mu-[...]
+#lem: u
+$ broken
+
+
+
+&Q004890 = Lagaš II Unidentified 1060add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004890
+#atf: use unicode
+#link: source cdli:P247576 = FAOS 09/1, Lagaš 50
+
+$ broken
+1'. [x] nin# x [x x]
+#lem: u; u; u; u; u
+
+2'. nam#-til₃-[la-ni-še₃]
+#lem: namtil[life]
+
+3'. [...]
+#lem: u
+$ broken
+
+
+
+&Q004891 = Lagaš II Unidentified 1061add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004891
+#atf: use unicode
+#link: source cdli:P247577 = FAOS 09/1, Lagaš 53
+
+$ broken
+1'. nam#-til₃#-la#-[ni]-še₃#
+#lem: namtil[life]
+
+2'. u₃ nam-til₃ dam dumu-na-še₃
+#lem: u[and]; namtil[life]; dam[spouse]; dumu[child]
+
+3'. a mu-na-ru
+#lem: a[water]; ru[cvve] +.
+
+4'. bur-ba
+#lem: bur[bowl]
+
+$ broken
+
+
+
+&Q004892 = Lagaš II Unidentified 1062add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004892
+#atf: use unicode
+#link: source cdli:P234702 = RIME 3/1.01.12.09a, ex. 01
+
+$ broken
+1'. [nin]-ka#-gen₆-na
+#lem: Ninkagina[1]PN
+ 
+2'. [dumu] ka-kug#-ka 
+#lem: dumu[child]; Kakug[1]PN
+
+3'. [...]-MU 
+#lem: u
+
+4'. [...] 
+#lem: u
+
+5'. [u₃ nam-til₃]-la#-[ni]-še₃ 
+#lem: u[and]; namtil[life]
+
+$ broken
+
+
+
+&Q004893 = Lagaš II Unidentified 1063add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004893
+#atf: use unicode
+#link: source cdli:P247579 = FAOS 09/1, Lagaš 61
+
+1. [...] GIM
+#lem: u; u
+
+2. [...]
+#lem: u
+
+
+
+&Q004894 = Lagaš II Unidentified 1064add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004894
+#atf: use unicode
+#link: source cdli:P221759 = FT 2, pl. 40, AO 12108b
+## FAOS 09/1, Lagaš 64
+
+$ broken
+1'. [...] x [...]-de₃?# 
+#lem: u; u; u
+
+2'. [...] en [...]-ra#?-še₃ 
+#lem: u; u; u
+
+3'. [...] TI#
+#lem: u; u
+
+4'. [...] al#?
+#lem: u; u
+
+$ broken
+
+
+
+&Q004895 = Lagaš II Unidentified 1065add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q004895
+#atf: use unicode
+#link: source cdli:P247580 = FAOS 09/1, Lagaš 67
+
+$ broken
+1'. [...] nin [...]
+#lem: u; u; u
+$ broken
+
+
+
+&Q001578 = Nammahni 1 [E3/1.1.12.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020625
+#exx P234673
+1.	{d}ba-u₂
+#lem: Bau[1]DN
+
+2.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu an-na
+#lem: dumu[child]; an[sky]
+
+4.	nin iri-kug-ga
+#lem: nin[lady]; Irikug[1]
+
+5.	nin-a-ni
+#lem: nin[lady]
+
+6.	nam-mah-ni
+#lem: Nammahni[1]RN
+
+7.	ensi₂
+#lem: ensik[ruler]
+
+8.	lagaš{ki}
+#lem: Lagaš[1]
+
+9.	agrig kal-ga-ne₂
+#lem: agrig[steward]; kalag[strong]
+
+10.	{na₄}dur₂ ig-še₃
+#lem: dur[door socket]; ig[door]
+
+11.	mu-na-dim₂
+#lem: dim[create]
+
+
+
+&Q001584 = Nammahni 10 [E3/1.1.12.10]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020634
+#exx P234703
+1'.	[nam-til₃]
+#lem: namtil[life]
+
+2'.	[nam-mah-ni]
+#lem: Nammahni[1]RN
+
+3'.	[ensi₂]
+#lem: ensik[ruler]
+
+4'.	[lagaš]{ki#}-[ka]-še₃#
+#lem: Lagaš[1]
+
+5'.	[nin-inim-gi]-na
+#lem: Nininimgina[1]PN
+
+6'.	[dumu ka-kug]-ke₄#
+#lem: dumu[child]; Kakug[1]PN
+
+7'.	[x]-x# {d}ba-u₂
+#lem: u; Bau[1]DN
+
+8'.	[u₃] nam#-til₃-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+9'.	[a mu]-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q000933 = Nammahni 11 [E3/1.1.12.11]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020635
+#(was Q000152)
+#exx P234704 P234705
+1.	{d}ig-alim#
+#lem: Igalimak[1]DN
+
+2.	lugal-a-ni
+#lem: lugal[king]
+
+3.	nam-til₃
+#lem: namtil[life]
+
+4.	[nam-mah]-ni#
+#lem: Nammahni[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+7.	ur-ab-ba
+#lem: Uraba[1]PN
+
+8.	sukkal-mah
+#lem: sukkalmah[official]
+
+9.	[dumu {d}utu-kam ugula-ke₄]
+#lem: dumu[child]; Utu[1]; ugula[overseer]
+
+10.	[u₃ nam-til₃-la-ni-še₃]
+#lem: u[and]; namtil[life]
+
+11.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001585 = Nammahni 12 [E3/1.1.12.12]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020636
+#exx P234706
+1.	{d}kinda₂-zi
+#lem: Kindazid[1]DN
+
+2.	lugal-a-ni
+#lem: lugal[king]
+
+3.	nam-til₃
+#lem: namtil[life]
+
+4.	nam#-mah-ni
+#lem: Nammahni[1]RN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+6.	lagaš#{ki}-ka#-še₃
+#lem: Lagaš[1]
+
+7.	[x]-ba
+#lem: u
+
+$	broken
+
+
+
+&Q001586 = Nammahni 13 [E3/1.1.12.13]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020637
+#exx P234707
+1.	[{d}]ba#-u₂#
+#lem: Bau[1]DN
+
+2.	[munus] sag₉#-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu# an-na
+#lem: dumu[child]; an[sky]
+
+4.	nin#-a-ni
+#lem: nin[lady]
+
+5.	[nam]-til₃
+#lem: namtil[life]
+
+6.	[nam-mah]-ni#
+#lem: Nammahni[1]RN
+
+7.	ensi₂#
+#lem: ensik[ruler]
+
+8.	[lagaš{ki}-ka-še₃]
+#lem: Lagaš[1]
+
+$	broken
+
+
+
+&Q001587 = Nammahni 14 [E3/1.1.12.14]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020638
+#exx P234708
+1.	{d}nin-šubur
+#lem: Ninšubur[1]DN
+
+2.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+3.	nam-til₃
+#lem: namtil[life]
+
+4.	[nam]-mah#-ni
+#lem: Nammahni[1]RN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+6.	[lagaš{ki}-ka]-še₃
+#lem: Lagaš[1]
+
+$	broken
+
+
+
+&Q001588 = Nammahni 15 [E3/1.1.12.15]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020639
+#exx P234709
+@m column 1
+1.	{d}nin-šubur
+#lem: Ninšubur[1]DN
+
+2.	diŋir-a-ni
+#lem: diŋir[deity]
+
+3.	nam-til₃#
+#lem: namtil[life]
+
+4.	[nam-mah-ni]
+#lem: Nammahni[1]RN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+6.	[lagaš]{ki}-ka-še₃
+#lem: Lagaš[1]
+
+$	broken
+
+@m column 2
+$	broken
+
+
+
+&Q001589 = Nammahni 16 [E3/1.1.12.16]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020640
+#exx P234710
+$	broken
+1'.	[u₃] nam#-[til₃-la-ni-še₃]
+#lem: u[and]; namtil[life]
+
+2'.	a mu-na#-[ru]
+#lem: a[water]; ru[cvve]
+
+3'.	{ŋeš}tukul-ba#
+#lem: tukul[weapon]
+
+4'.	lugal-mu-ba-zi-zi
+#lem: Lugalŋubazizi[0]ON
+
+5'.	mu-bi
+#lem: mu[name]
+
+
+# @m surface ON
+# 4'.	lugal-mu ba-zi-zi
+# #lem: lugal[king]; zig[rise]
+
+
+
+
+&Q000934 = Nammahni 17 [E3/1.1.12.17]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020641
+#(was Q000153)
+#exx P234711 P234712 P234713
+1.	{d}šul-šag₄-ga-na
+#lem: Šulšaganak[1]DN
+
+2.	dumu ki aŋ₂
+#lem: dumu[child]; ki[place]; aŋ[measure]
+
+3.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	nin-he₂-du₇
+#lem: Ninhedu[1]PN
+
+6.	dam nam#-[mah]-ni
+#lem: dam[spouse]; Nammahni[1]RN
+
+7.	ensi₂#
+#lem: ensik[ruler]
+
+8.	lagaš{ki}-ka
+#lem: Lagaš[1]
+
+9.	dumu ur-{d}ba-u₂
+#lem: dumu[child]; Urbau[1]RN
+
+10.	ensi₂
+#lem: ensik[ruler]
+
+11.	lagaš{ki}-ka-ke₄
+#lem: Lagaš[1]
+
+12.	nam-til₃-la-ni-še₃
+#lem: namtil[life]
+
+13.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q000930 = Nammahni 2 [E3/1.1.12.2]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020626
+#(was Q000149)
+#exx P234674 P234675
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	nam-mah-ni
+#lem: Nammahni[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}-ke₄
+#lem: Lagaš[1]
+
+8.	e₂-ninnu-anzu₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+9.	mu-na-du₃
+#lem: du[build]
+
+10.	šag₄-ba gi-gun₄ ki aŋ₂-ŋa₂-ni
+#lem: šag[heart]; giguna[terrace]; ki[place]; aŋ[measure]
+
+11.	{šim}eren-na
+#lem: eren[cedar]
+
+12.	mu-na-ni-du₃
+#lem: du[build]
+
+
+
+
+&Q000931 = Nammahni 3 [E3/1.1.12.3]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020627
+#(was Q000150)
+#exx P234676 P234677 P234678 P234679 P234680 P234681 P234682 P234683 P234684 P234685 P234686 P234687 P234688 P234689 P234690 P234691 P234692 P234693
+1.	nam-mah-ni
+#lem: Nammahni[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]
+
+
+
+&Q001579 = Nammahni 4 [E3/1.1.12.4]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020628
+#exx P234694
+@m column 1
+1'.	[nam-til₃]
+#lem: namtil[life]
+
+@m column 2
+1.	nam#-mah#-ni#
+#lem: Nammahni[1]RN
+
+2.	ensi₂#
+#lem: ensik[ruler]
+
+@m column 3
+1.	lagaš#{ki#}-[ka-še₃]
+#lem: Lagaš[1]
+
+2.	kug-sag₉-ga#
+#lem: Kugsaga[1]PN
+
+@m column 4
+
+
+&Q001580 = Nammahni 5 [E3/1.1.12.5]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020629
+#exx P234695
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	nam-til₃
+#lem: namtil[life]
+
+6.	nam-mah-ni
+#lem: Nammahni[1]RN
+
+7.	ensi₂
+#lem: ensik[ruler]
+
+8.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+9.	nin-he₂-du₇
+#lem: Ninhedu[1]PN
+
+10.	dumu ur-{d}ba-u₂
+#lem: dumu[child]; Urbau[1]RN
+
+11.	ensi₂
+#lem: ensik[ruler]
+
+12.	lagaš{ki}-ka
+#lem: Lagaš[1]
+
+13.	dam-ne₂
+#lem: dam[spouse]
+
+14.	u₃ nam-til₃-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+15.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001581 = Nammahni 6 [E3/1.1.12.6]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020630
+#exx P234696
+@m column 1
+1.	{d}ba-u₂
+#lem: Bau[1]DN
+
+2.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu an-na
+#lem: dumu[child]; an[sky]
+
+4.	nin iri-kug-ga
+#lem: nin[lady]; Irikug[1]
+
+5.	nin-a-ni#
+#lem: nin[lady]
+
+6.	nam-til₃#
+#lem: namtil[life]
+
+7.	[nam-mah-ni]
+#lem: Nammahni[1]RN
+
+8.	ensi₂#
+#lem: ensik[ruler]
+
+9.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+10.	nin-inim#-gi#-na
+#lem: Nininimgina[1]PN
+
+@m column 2
+1.	ama tud-da-ni
+#lem: ama[mother]; utud[bear]
+
+2.	{d}lamma tar-sir₂-sir₂-ra
+#lem: lammar[deity]; Etarsirsir[1]TN
+
+3.	kisal {d}ba-u₂-ka kur₉-kur₉-da-ne₂
+#lem: kisal[courtyard]; Bau[1]DN; kur[bring]
+
+4.	alan-e nin-mu
+#lem: alan[statue]; nin[lady]
+
+5.	ŋeštug₂-ga-ni-a mu-na-ni-ru-gu₂
+#lem: ŋeštug[ear]; rugu[withstand]
+
+6.	sizkur-mu he₂-na-be₂
+#lem: siškur[prayer]; e[speak]
+
+7.	ne-saŋ
+#lem: nesaŋ[offering]
+
+8.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q000932 = Nammahni 7 [E3/1.1.12.7]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020631
+#(was Q000151)
+#exx P234697 P234698 P234699
+1.	{d}kinda₂-zi
+#lem: Kindazid[1]DN
+
+2.	lugal-a-ni
+#lem: lugal[king]
+
+3.	nam-til₃
+#lem: namtil[life]
+
+4.	nam-mah-ni
+#lem: Nammahni[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+7.	nin#-inim#-gi#-na
+#lem: Nininimgina[1]PN
+
+8.	dumu ka-kug-ke₄
+#lem: dumu[child]; Kakug[1]PN
+
+9.	u₃ nam-til₃-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+10.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+11.	šita₂-ba
+#lem: šita[weapon]
+
+12-13.	lugal-mu-ba-zi-ge-he₂-ma-da-zi-zi
+#lem: Lugalŋubazigehemadazizi[0]ON
+
+14.	mu-bi
+#lem: mu[name]
+
+
+# @div ON ON1
+# 12.	lugal-mu ba-zi-ge
+# #lem: lugal[king]; zig[rise]
+#
+# 13.	he2-ma-da-zi-zi
+# #lem: zig[rise]
+
+# @end div
+
+
+
+&Q001582 = Nammahni 8 [E3/1.1.12.8]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020632
+#exx P234700
+1. {d#}nanše
+#lem: Nanše[1]DN
+
+2. nin#-a-ni
+#lem: nin[lady]
+
+3. nam!-til₃
+#lem: namtil[life]
+
+4. nam#-[mah]-ni# ensi₂#
+#lem: Nammahni[1]RN; ensik[ruler]
+
+5. lagaš#{ki}-ka-še₃!
+#lem: Lagaš[1]
+
+6. nin#-inim!-gi!-na#
+#lem: Nininimgina[1]PN
+
+7. [dumu] ka-kug-ke₄
+#lem: dumu[child]; Kakug[1]PN
+
+8. a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001583 = Nammahni 9 [E3/1.1.12.9]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020633
+#exx P234702
+1'.	[nam-til₃]
+#lem: namtil[life]
+
+2'.	[nam-mah-ni]
+#lem: Nammahni[1]RN
+
+3'.	[ensi₂]
+#lem: ensik[ruler]
+
+4'.	lagaš#{ki}-ka-še₃
+#lem: Lagaš[1]
+
+5'.	[nin]-inim#-gi-na
+#lem: Nininimgina[1]PN
+
+6'.	[dumu ka]-kug-ke₄
+#lem: dumu[child]; Kakug[1]PN
+
+7'.	[...] {d}ba#-u₂ [...] x# x# x#?-ra#?
+#lem: u; Bau[1]DN; u; u; u; u
+
+8'.	[...]-x#
+#lem: u
+
+9'.	[...]-x
+#lem: u
+
+
+
+
+&Q000881 = Pirigme 1 [E3/1.1.2.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231806 = RIME 3/1, p. 012, E3/1.1.2.1, ex. 1
+#link: source epsd2/royal:P231807 = RIME 3/1, p. 012, E3/1.1.2.1, ex. 2
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ra
+#lem: Enlil[1]DN
+
+4.	piriŋ-me₃
+#lem: Piriŋme[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}
+#lem: Lagaš[1]
+
+7.	dumu ur-{d}nin-ŋir₂-su
+#lem: dumu[child]; Urninŋirsu[1]RN
+
+8.	ensi₂
+#lem: ensik[ruler]
+
+9.	lagaš{ki}-ka-ke₄
+#lem: Lagaš[1]
+
+10.	šag₄-ge pad₃-da
+#lem: šag[heart]; pad[discover]
+
+11.	{d}nanše-<<ka>>-ke₄
+#lem: Nanše[1]DN
+
+12.	mu pad₃-da
+#lem: mu[name]; pad[name]
+
+13.	{d}nin-ŋir₂-su-ka-ke₄
+#lem: Ninŋirsuk[1]DN
+
+14.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+15.	{d}nin-sun₂-ka-ke₄
+#lem: Ninsumunak[1]DN
+
+16.	ŋeš#-keš₂#-ra₂#
+#lem: ŋeškešda[dam]
+
+17.	id₂-ur-saŋ-a₂-ni-a
+#lem: Idursaŋania[0]WN
+
+18.	mu-na-ak#
+#lem: ak[do]
+
+
+
+&Q008911 = Pirigme 2add
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q008911
+#atf: use unicode
+#link: source cdli:P513484 = RIME 3/1.01.02.add02, ex. 01
+
+1. {d}nin-mar-ki
+#lem: Ninmarkik[1]DN
+
+2. nin-a-ni
+#lem: nin[lady]
+
+3. nam-til₃
+#lem: namtil[life]
+
+4. ur-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[2]RN
+
+5. ensi₂
+#lem: ensik[ruler]
+
+6. lagaš{ki}-ka-še₃
+#lem: Lagaš[1]SN
+
+7. u₃ nam-til₃-la-ni-še₃
+#lem: u[and]CNJ; namtil[life]
+
+8. piriŋ-me₃
+#lem: Piriŋme[1]RN
+
+9. dumu-a#-ne₂
+#lem: dumu[child]
+
+10. a mu-na-ru
+#lem: a[water]; ru[cvve] +.
+
+11. ki aŋ₂
+#lem: ki[place]; aŋ[measure]
+
+12. šag₄-ga-na
+#lem: šag[heart]
+
+13. šag₄-sug₄-ga
+#lem: šagsug[empty]
+
+14.	mu-bi
+#lem: mu[name]
+
+
+
+&Q005345 = Puzur-Inšušinak 2
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q005345
+#atf: use unicode
+#link: source cdli:P462170 = RIME 3/1.add02.01.02 composite
+
+1.  puzur₄-{d}inšušinak
+#lem: Puzurinšušinak[1]RN
+
+2. ensi₂
+#lem: ensik[ruler]
+
+3. šušin{ki}
+#lem: Susa[Susa]SN
+
+
+
+&Q006336 = Ur-Ningirsu I 7add [E3/1.1.1.add07]
+@composite
+#project: epsd2/royal
+#key: after http://oracc.org/etcsri/Q006336
+#atf: use unicode
+#link: source cdli:P201714 = RIME 3/1, p. 011, E3/1.1.1.add07, ex. 01
+
+1.	2(aš) gu₂ na₄
+#lem: n; gun[load]; na[stone]
+ 
+2.	ur#-{d#}nin#-ŋir₂#-su#
+#lem: Urninŋirsu[1]RN
+
+3.	ensi₂#
+#lem: ensik[ruler]
+
+4.	lagaš#{ki#}
+#lem: Lagaš[1]SN
+
+
+
+&Q000882 = Urbau 1 [E3/1.1.6.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231808 = RIME 3/1, p. 015, E3/1.1.6.1, ex. 1
+#link: source epsd2/royal:P231809 = RIME 3/1, p. 015, E3/1.1.6.1, ex. 2
+#link: source epsd2/royal:P231810 = RIME 3/1, p. 015, E3/1.1.6.1, ex. 3
+#link: source epsd2/royal:P231811 = RIME 3/1, p. 015, E3/1.1.6.1, ex. 4
+#link: source epsd2/royal:P231812 = RIME 3/1, p. 015, E3/1.1.6.1, ex. 5
+1.	{d}ba-u₂
+#lem: Bau[1]DN
+
+2.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu an-na-ra
+#lem: dumu[child]; An[1]DN
+
+4.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ke₄
+#lem: Lagaš[1]
+
+7.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+8.	{d}nin-a₂-gal-ka-ke₄
+#lem: Ninagalak[1]DN
+
+9.	e₂ iri-kug-ga-ka-ni
+#lem: e[house]; Irikug[1]
+
+10.	mu-na-du₃
+#lem: du[build]
+
+
+
+&Q001471 = Urbau 10 [E3/1.1.6.10]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232265 = RIME 3/1, p. 022, E3/1.1.6.10
+1'.	nam#-[til₃]
+#lem: namtil[life]
+
+2'.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+3'.	ensi₂#
+#lem: ensik[ruler]
+
+4'.	lagaš{ki#}-ka-[še₃]
+#lem: Lagaš[1]
+
+5'.	lugal-inim#-[gi?-na?]
+#lem: Lugalinimgina[1]PN
+
+6'.	ra₂?-[gaba?]
+#lem: ragaba[rider]
+
+7'.	[u₃ nam-til₃-la-ni-še₃]
+#lem: u[and]; namtil[life]
+
+8'.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001472 = Urbau 11 [E3/1.1.6.11]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232267 = RIME 3/1, p. 023, E3/1.1.6.11
+@m column 1
+1.	{d}ba-u₂
+#lem: Bau[1]DN
+
+2.	dumu an-na-ra
+#lem: dumu[child]; An[1]DN
+
+3.	nam-til₃
+#lem: namtil[life]
+
+4.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+@m column 2
+1.	ur-{d}en-lil₂ |DA.BI.DU.DU|
+#lem: Urenlila[1]PN; X
+
+2.	u₃ nam-til₃
+#lem: u[and]; namtil[life]
+
+3.	dam dumu-na-še₃
+#lem: dam[spouse]; dumu[child]
+
+4.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q000885 = Urbau 12 [E3/1.1.6.12]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232268 = RIME 3/1, p. 024, E3/1.1.6.12, ex. 1
+#link: source epsd2/royal:P232269 = RIME 3/1, p. 024, E3/1.1.6.12, ex. 2
+1.	en#-an-ne₂-pad₃-da
+#lem: Enanepada[1]PN
+
+2.	en {d}nanna
+#lem: en[priest]; Nanna[1]DN
+
+3.	zirruₓ(|EN.NU.NUNUZ.ZI.AN.ŠEŠ.KI|)#
+#lem: zirru[priestess]
+
+4.	dam#? {d}nanna
+#lem: dam[spouse]; Nanna[1]DN
+
+5.	[dumu] ur#-{d}ba-u₂#
+#lem: dumu[child]; Urbau[1]RN
+
+6.	ensi₂#
+#lem: ensik[ruler]
+
+7.	[lagaš{ki}]
+#lem: Lagaš[1]
+
+
+
+&Q000886 = Urbau 13 [E3/1.1.6.13]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232270 = RIME 3/1, p. 025, E3/1.1.6.13, ex. 1
+#link: source epsd2/royal:P232271 = RIME 3/1, p. 025, E3/1.1.6.13, ex. 2
+#link: source epsd2/royal:P232272 = RIME 3/1, p. 025, E3/1.1.6.13, ex. 3
+#link: source epsd2/royal:P232273 = RIME 3/1, p. 025, E3/1.1.6.13, ex. 4
+1.	en#-an#-ne₂#-pad₃-da
+#lem: Enanepada[1]PN
+
+2.	en {d}nanna
+#lem: en[priest]; Nanna[1]DN
+
+3.	dumu ur-{d}ba-u₂
+#lem: dumu[child]; Urbau[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš#{ki#}
+#lem: Lagaš[1]
+
+## GUDEA CORPUS
+
+
+&Q001465 = Urbau 2 [E3/1.1.6.2]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231813 = RIME 3/1, p. 016, E3/1.1.6.2
+1.	{d}en-ki
+#lem: Enki[Enki-god]DN
+
+2.	lugal-a-ni
+#lem: lugal[king]
+
+3.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš{ki}
+#lem: Lagaš[1]
+
+6.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+7.	{d}nin-a₂-gal-ka-ke₄
+#lem: Ninagalak[1]DN
+
+8.	e₂#-a-ni
+#lem: e[house]
+
+9.	mu-na-du₃
+#lem: du[build]
+
+
+
+&Q000883 = Urbau 3 [E3/1.1.6.3]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231814 = RIME 3/1, p. 016, E3/1.1.6.3, ex. 1
+#link: source epsd2/royal:P231815 = RIME 3/1, p. 016, E3/1.1.6.3, ex. 2
+#link: source epsd2/royal:P231816 = RIME 3/1, p. 016, E3/1.1.6.3, ex. 3
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ra
+#lem: Enlil[1]DN
+
+4.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ke₄
+#lem: Lagaš[1]
+
+7.	e₂-a-ni
+#lem: e[house]
+
+8.	mu-na-du₃
+#lem: du[build]
+
+
+
+&Q000884 = Urbau 4 [E3/1.1.6.4]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231817 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 001
+#link: source epsd2/royal:P231818 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 002
+#link: source epsd2/royal:P231819 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 003
+#link: source epsd2/royal:P231820 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 004
+#link: source epsd2/royal:P231821 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 005
+#link: source epsd2/royal:P231823 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 006
+#link: source epsd2/royal:P231824 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 007
+#link: source epsd2/royal:P231825 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 008
+#link: source epsd2/royal:P231826 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 009
+#link: source epsd2/royal:P231827 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 010
+#link: source epsd2/royal:P231828 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 011
+#link: source epsd2/royal:P231829 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 012
+#link: source epsd2/royal:P231830 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 013
+#link: source epsd2/royal:P231831 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 014
+#link: source epsd2/royal:P231832 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 015
+#link: source epsd2/royal:P231833 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 016
+#link: source epsd2/royal:P231834 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 017
+#link: source epsd2/royal:P231835 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 018
+#link: source epsd2/royal:P231836 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 019
+#link: source epsd2/royal:P231837 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 020
+#link: source epsd2/royal:P231838 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 021
+#link: source epsd2/royal:P231839 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 022
+#link: source epsd2/royal:P231840 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 023
+#link: source epsd2/royal:P231841 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 024
+#link: source epsd2/royal:P231842 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 025
+#link: source epsd2/royal:P231843 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 026
+#link: source epsd2/royal:P231844 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 027
+#link: source epsd2/royal:P231845 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 028
+#link: source epsd2/royal:P231846 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 029
+#link: source epsd2/royal:P231847 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 030
+#link: source epsd2/royal:P231848 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 031
+#link: source epsd2/royal:P231849 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 032
+#link: source epsd2/royal:P231850 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 033
+#link: source epsd2/royal:P231851 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 034
+#link: source epsd2/royal:P231852 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 035
+#link: source epsd2/royal:P231853 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 036
+#link: source epsd2/royal:P231854 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 037
+#link: source epsd2/royal:P231855 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 038
+#link: source epsd2/royal:P231856 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 039
+#link: source epsd2/royal:P231857 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 040
+#link: source epsd2/royal:P231858 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 041
+#link: source epsd2/royal:P231859 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 042
+#link: source epsd2/royal:P231860 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 043
+#link: source epsd2/royal:P231861 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 044
+#link: source epsd2/royal:P231862 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 045
+#link: source epsd2/royal:P231863 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 046
+#link: source epsd2/royal:P231864 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 047
+#link: source epsd2/royal:P231865 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 048
+#link: source epsd2/royal:P231866 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 049
+#link: source epsd2/royal:P231867 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 050
+#link: source epsd2/royal:P231868 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 051
+#link: source epsd2/royal:P231869 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 052
+#link: source epsd2/royal:P231870 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 053
+#link: source epsd2/royal:P231871 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 054
+#link: source epsd2/royal:P231872 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 055
+#link: source epsd2/royal:P231873 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 056
+#link: source epsd2/royal:P231874 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 057
+#link: source epsd2/royal:P231875 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 058
+#link: source epsd2/royal:P231876 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 059
+#link: source epsd2/royal:P231877 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 060
+#link: source epsd2/royal:P231878 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 061
+#link: source epsd2/royal:P231879 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 062
+#link: source epsd2/royal:P231880 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 063
+#link: source epsd2/royal:P231881 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 064
+#link: source epsd2/royal:P231882 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 065
+#link: source epsd2/royal:P231883 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 066
+#link: source epsd2/royal:P231884 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 067
+#link: source epsd2/royal:P231885 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 068
+#link: source epsd2/royal:P231886 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 069
+#link: source epsd2/royal:P231887 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 070
+#link: source epsd2/royal:P231888 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 071
+#link: source epsd2/royal:P231889 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 072
+#link: source epsd2/royal:P231890 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 073
+#link: source epsd2/royal:P231891 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 074
+#link: source epsd2/royal:P231892 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 075
+#link: source epsd2/royal:P231893 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 076
+#link: source epsd2/royal:P231894 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 077
+#link: source epsd2/royal:P231895 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 078
+#link: source epsd2/royal:P231896 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 079
+#link: source epsd2/royal:P231897 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 080
+#link: source epsd2/royal:P231898 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 081
+#link: source epsd2/royal:P231899 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 082
+#link: source epsd2/royal:P231900 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 083
+#link: source epsd2/royal:P231901 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 084
+#link: source epsd2/royal:P231902 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 085
+#link: source epsd2/royal:P231903 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 086
+#link: source epsd2/royal:P231904 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 087
+#link: source epsd2/royal:P231905 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 088
+#link: source epsd2/royal:P231906 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 089
+#link: source epsd2/royal:P231907 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 090
+#link: source epsd2/royal:P231908 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 091
+#link: source epsd2/royal:P231909 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 092
+#link: source epsd2/royal:P231910 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 093
+#link: source epsd2/royal:P231911 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 094
+#link: source epsd2/royal:P231912 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 095
+#link: source epsd2/royal:P231913 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 096
+#link: source epsd2/royal:P231914 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 097
+#link: source epsd2/royal:P231915 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 098
+#link: source epsd2/royal:P231916 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 099
+#link: source epsd2/royal:P231917 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 100
+#link: source epsd2/royal:P231918 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 101
+#link: source epsd2/royal:P231919 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 102
+#link: source epsd2/royal:P231920 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 103
+#link: source epsd2/royal:P231921 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 104
+#link: source epsd2/royal:P231922 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 105
+#link: source epsd2/royal:P231923 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 106
+#link: source epsd2/royal:P231924 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 107
+#link: source epsd2/royal:P231925 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 108
+#link: source epsd2/royal:P231926 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 109
+#link: source epsd2/royal:P231927 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 110
+#link: source epsd2/royal:P231928 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 111
+#link: source epsd2/royal:P231929 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 112
+#link: source epsd2/royal:P231930 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 113
+#link: source epsd2/royal:P231931 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 114
+#link: source epsd2/royal:P231932 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 115
+#link: source epsd2/royal:P231933 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 116
+#link: source epsd2/royal:P231934 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 117
+#link: source epsd2/royal:P231935 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 118
+#link: source epsd2/royal:P231936 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 119
+#link: source epsd2/royal:P231937 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 120
+#link: source epsd2/royal:P231938 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 121
+#link: source epsd2/royal:P231939 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 122
+#link: source epsd2/royal:P231940 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 123
+#link: source epsd2/royal:P231941 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 124
+#link: source epsd2/royal:P231942 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 125
+#link: source epsd2/royal:P231943 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 126
+#link: source epsd2/royal:P231944 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 127
+#link: source epsd2/royal:P231945 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 128
+#link: source epsd2/royal:P231946 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 129
+#link: source epsd2/royal:P231947 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 130
+#link: source epsd2/royal:P231948 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 131
+#link: source epsd2/royal:P231949 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 132
+#link: source epsd2/royal:P231950 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 133
+#link: source epsd2/royal:P231951 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 134
+#link: source epsd2/royal:P231952 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 135
+#link: source epsd2/royal:P231953 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 136
+#link: source epsd2/royal:P231954 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 137
+#link: source epsd2/royal:P231955 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 138
+#link: source epsd2/royal:P231956 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 139
+#link: source epsd2/royal:P231957 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 140
+#link: source epsd2/royal:P231958 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 141
+#link: source epsd2/royal:P231959 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 142
+#link: source epsd2/royal:P231960 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 143
+#link: source epsd2/royal:P231961 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 144
+#link: source epsd2/royal:P231962 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 145
+#link: source epsd2/royal:P231963 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 146
+#link: source epsd2/royal:P231964 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 147
+#link: source epsd2/royal:P231965 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 148
+#link: source epsd2/royal:P231966 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 149
+#link: source epsd2/royal:P231967 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 150
+#link: source epsd2/royal:P231968 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 151
+#link: source epsd2/royal:P231969 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 152
+#link: source epsd2/royal:P231970 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 153
+#link: source epsd2/royal:P231971 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 154
+#link: source epsd2/royal:P231972 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 155
+#link: source epsd2/royal:P231973 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 156
+#link: source epsd2/royal:P231974 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 157
+#link: source epsd2/royal:P231975 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 158
+#link: source epsd2/royal:P231976 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 159
+#link: source epsd2/royal:P231977 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 160
+#link: source epsd2/royal:P231978 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 161
+#link: source epsd2/royal:P231979 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 162
+#link: source epsd2/royal:P231980 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 163
+#link: source epsd2/royal:P231981 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 164
+#link: source epsd2/royal:P231982 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 165
+#link: source epsd2/royal:P231983 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 166
+#link: source epsd2/royal:P231984 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 167
+#link: source epsd2/royal:P231985 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 168
+#link: source epsd2/royal:P231986 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 169
+#link: source epsd2/royal:P231987 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 170
+#link: source epsd2/royal:P231988 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 171
+#link: source epsd2/royal:P231989 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 172
+#link: source epsd2/royal:P231990 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 173
+#link: source epsd2/royal:P231991 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 174
+#link: source epsd2/royal:P231992 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 175
+#link: source epsd2/royal:P231993 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 176
+#link: source epsd2/royal:P231994 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 177
+#link: source epsd2/royal:P231995 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 178
+#link: source epsd2/royal:P231996 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 179
+#link: source epsd2/royal:P231997 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 180
+#link: source epsd2/royal:P231998 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 181
+#link: source epsd2/royal:P231999 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 182
+#link: source epsd2/royal:P232000 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 183
+#link: source epsd2/royal:P232001 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 184
+#link: source epsd2/royal:P232002 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 185
+#link: source epsd2/royal:P232003 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 186
+#link: source epsd2/royal:P232004 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 187
+#link: source epsd2/royal:P232005 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 188
+#link: source epsd2/royal:P232006 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 189
+#link: source epsd2/royal:P232007 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 190
+#link: source epsd2/royal:P232008 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 191
+#link: source epsd2/royal:P232009 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 192
+#link: source epsd2/royal:P232010 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 193
+#link: source epsd2/royal:P232011 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 194
+#link: source epsd2/royal:P232012 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 195
+#link: source epsd2/royal:P232013 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 196
+#link: source epsd2/royal:P232014 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 197
+#link: source epsd2/royal:P232015 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 198
+#link: source epsd2/royal:P232016 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 199
+#link: source epsd2/royal:P232017 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 200
+#link: source epsd2/royal:P232018 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 201
+#link: source epsd2/royal:P232019 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 202
+#link: source epsd2/royal:P232020 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 203
+#link: source epsd2/royal:P232021 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 204
+#link: source epsd2/royal:P232022 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 205
+#link: source epsd2/royal:P232023 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 206
+#link: source epsd2/royal:P232024 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 207
+#link: source epsd2/royal:P232025 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 208
+#link: source epsd2/royal:P232026 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 209
+#link: source epsd2/royal:P232027 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 210
+#link: source epsd2/royal:P232028 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 211
+#link: source epsd2/royal:P232029 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 212
+#link: source epsd2/royal:P232030 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 213
+#link: source epsd2/royal:P232031 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 214
+#link: source epsd2/royal:P232032 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 215
+#link: source epsd2/royal:P232033 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 216
+#link: source epsd2/royal:P232034 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 217
+#link: source epsd2/royal:P232035 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 218
+#link: source epsd2/royal:P232036 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 219
+#link: source epsd2/royal:P232037 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 220
+#link: source epsd2/royal:P232038 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 221
+#link: source epsd2/royal:P232039 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 222
+#link: source epsd2/royal:P232040 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 223
+#link: source epsd2/royal:P232041 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 224
+#link: source epsd2/royal:P232042 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 225
+#link: source epsd2/royal:P232043 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 226
+#link: source epsd2/royal:P232044 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 227
+#link: source epsd2/royal:P232045 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 228
+#link: source epsd2/royal:P232046 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 229
+#link: source epsd2/royal:P232047 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 230
+#link: source epsd2/royal:P232048 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 231
+#link: source epsd2/royal:P232049 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 232
+#link: source epsd2/royal:P232050 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 233
+#link: source epsd2/royal:P232051 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 234
+#link: source epsd2/royal:P232052 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 235
+#link: source epsd2/royal:P232053 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 236
+#link: source epsd2/royal:P232054 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 237
+#link: source epsd2/royal:P232055 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 238
+#link: source epsd2/royal:P232056 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 239
+#link: source epsd2/royal:P232057 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 240
+#link: source epsd2/royal:P232058 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 241
+#link: source epsd2/royal:P232059 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 242
+#link: source epsd2/royal:P232060 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 243
+#link: source epsd2/royal:P232061 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 244
+#link: source epsd2/royal:P232062 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 245
+#link: source epsd2/royal:P232063 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 246
+#link: source epsd2/royal:P232064 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 247
+#link: source epsd2/royal:P232065 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 248
+#link: source epsd2/royal:P232066 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 249
+#link: source epsd2/royal:P232067 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 250
+#link: source epsd2/royal:P232068 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 251
+#link: source epsd2/royal:P232069 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 252
+#link: source epsd2/royal:P232070 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 253
+#link: source epsd2/royal:P232071 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 254
+#link: source epsd2/royal:P232072 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 255
+#link: source epsd2/royal:P232073 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 256
+#link: source epsd2/royal:P232074 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 257
+#link: source epsd2/royal:P232075 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 258
+#link: source epsd2/royal:P232076 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 259
+#link: source epsd2/royal:P232077 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 260
+#link: source epsd2/royal:P232078 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 261
+#link: source epsd2/royal:P232079 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 262
+#link: source epsd2/royal:P232080 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 263
+#link: source epsd2/royal:P232081 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 264
+#link: source epsd2/royal:P232082 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 265
+#link: source epsd2/royal:P232083 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 266
+#link: source epsd2/royal:P232084 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 267
+#link: source epsd2/royal:P232085 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 268
+#link: source epsd2/royal:P232086 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 269
+#link: source epsd2/royal:P232087 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 270
+#link: source epsd2/royal:P232088 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 271
+#link: source epsd2/royal:P232089 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 272
+#link: source epsd2/royal:P232090 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 273
+#link: source epsd2/royal:P232091 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 274
+#link: source epsd2/royal:P232092 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 275
+#link: source epsd2/royal:P232093 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 276
+#link: source epsd2/royal:P232094 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 277
+#link: source epsd2/royal:P232095 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 278
+#link: source epsd2/royal:P232096 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 279
+#link: source epsd2/royal:P232097 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 280
+#link: source epsd2/royal:P232098 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 281
+#link: source epsd2/royal:P232099 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 282
+#link: source epsd2/royal:P232100 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 283
+#link: source epsd2/royal:P232101 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 284
+#link: source epsd2/royal:P232102 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 285
+#link: source epsd2/royal:P232103 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 286
+#link: source epsd2/royal:P232104 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 287
+#link: source epsd2/royal:P232105 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 288
+#link: source epsd2/royal:P232106 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 289
+#link: source epsd2/royal:P232107 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 290
+#link: source epsd2/royal:P232108 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 291
+#link: source epsd2/royal:P232109 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 292
+#link: source epsd2/royal:P232110 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 293
+#link: source epsd2/royal:P232111 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 294
+#link: source epsd2/royal:P232112 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 295
+#link: source epsd2/royal:P232113 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 296
+#link: source epsd2/royal:P232114 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 297
+#link: source epsd2/royal:P232115 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 298
+#link: source epsd2/royal:P232116 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 299
+#link: source epsd2/royal:P232117 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 300
+#link: source epsd2/royal:P232118 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 301
+#link: source epsd2/royal:P232119 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 302
+#link: source epsd2/royal:P232120 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 303
+#link: source epsd2/royal:P232121 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 304
+#link: source epsd2/royal:P232122 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 305
+#link: source epsd2/royal:P232123 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 306
+#link: source epsd2/royal:P232124 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 307
+#link: source epsd2/royal:P232125 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 308
+#link: source epsd2/royal:P232126 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 309
+#link: source epsd2/royal:P232127 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 310
+#link: source epsd2/royal:P232128 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 311
+#link: source epsd2/royal:P232129 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 312
+#link: source epsd2/royal:P232130 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 313
+#link: source epsd2/royal:P232131 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 314
+#link: source epsd2/royal:P232132 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 315
+#link: source epsd2/royal:P232133 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 316
+#link: source epsd2/royal:P232134 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 317
+#link: source epsd2/royal:P232135 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 318
+#link: source epsd2/royal:P232136 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 319
+#link: source epsd2/royal:P232137 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 320
+#link: source epsd2/royal:P232138 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 321
+#link: source epsd2/royal:P232139 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 322
+#link: source epsd2/royal:P232140 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 323
+#link: source epsd2/royal:P232141 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 324
+#link: source epsd2/royal:P232142 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 325
+#link: source epsd2/royal:P232143 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 326
+#link: source epsd2/royal:P232144 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 327
+#link: source epsd2/royal:P232145 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 328
+#link: source epsd2/royal:P232146 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 329
+#link: source epsd2/royal:P232147 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 330
+#link: source epsd2/royal:P232148 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 331
+#link: source epsd2/royal:P232149 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 332
+#link: source epsd2/royal:P232150 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 333
+#link: source epsd2/royal:P232151 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 334
+#link: source epsd2/royal:P232152 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 335
+#link: source epsd2/royal:P232153 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 336
+#link: source epsd2/royal:P232154 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 337
+#link: source epsd2/royal:P232155 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 338
+#link: source epsd2/royal:P232156 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 339
+#link: source epsd2/royal:P232157 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 340
+#link: source epsd2/royal:P232158 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 341
+#link: source epsd2/royal:P232159 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 342
+#link: source epsd2/royal:P232160 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 343
+#link: source epsd2/royal:P232161 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 344
+#link: source epsd2/royal:P232162 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 345
+#link: source epsd2/royal:P232163 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 346
+#link: source epsd2/royal:P232164 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 347
+#link: source epsd2/royal:P232165 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 348
+#link: source epsd2/royal:P232166 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 349
+#link: source epsd2/royal:P232167 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 350
+#link: source epsd2/royal:P232168 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 351
+#link: source epsd2/royal:P232169 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 352
+#link: source epsd2/royal:P232170 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 353
+#link: source epsd2/royal:P232171 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 354
+#link: source epsd2/royal:P232172 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 355
+#link: source epsd2/royal:P232173 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 356
+#link: source epsd2/royal:P232174 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 357
+#link: source epsd2/royal:P232175 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 358
+#link: source epsd2/royal:P232176 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 359
+#link: source epsd2/royal:P232177 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 360
+#link: source epsd2/royal:P232178 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 361
+#link: source epsd2/royal:P232179 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 362
+#link: source epsd2/royal:P232180 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 363
+#link: source epsd2/royal:P232181 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 364
+#link: source epsd2/royal:P232182 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 365
+#link: source epsd2/royal:P232183 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 366
+#link: source epsd2/royal:P232184 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 367
+#link: source epsd2/royal:P232185 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 368
+#link: source epsd2/royal:P232186 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 369
+#link: source epsd2/royal:P232187 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 370
+#link: source epsd2/royal:P232188 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 371
+#link: source epsd2/royal:P232189 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 372
+#link: source epsd2/royal:P232190 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 373
+#link: source epsd2/royal:P232191 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 374
+#link: source epsd2/royal:P232192 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 375
+#link: source epsd2/royal:P232193 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 376
+#link: source epsd2/royal:P232194 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 377
+#link: source epsd2/royal:P232195 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 378
+#link: source epsd2/royal:P232196 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 379
+#link: source epsd2/royal:P232197 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 380
+#link: source epsd2/royal:P232198 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 381
+#link: source epsd2/royal:P232199 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 382
+#link: source epsd2/royal:P232200 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 383
+#link: source epsd2/royal:P232201 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 384
+#link: source epsd2/royal:P232202 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 385
+#link: source epsd2/royal:P232203 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 386
+#link: source epsd2/royal:P232204 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 387
+#link: source epsd2/royal:P232205 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 388
+#link: source epsd2/royal:P232206 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 389
+#link: source epsd2/royal:P232207 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 390
+#link: source epsd2/royal:P232208 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 391
+#link: source epsd2/royal:P232209 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 392
+#link: source epsd2/royal:P232210 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 393
+#link: source epsd2/royal:P232211 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 394
+#link: source epsd2/royal:P232212 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 395
+#link: source epsd2/royal:P232213 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 396
+#link: source epsd2/royal:P232214 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 397
+#link: source epsd2/royal:P232215 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 398
+#link: source epsd2/royal:P232216 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 399
+#link: source epsd2/royal:P232217 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 400
+#link: source epsd2/royal:P232218 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 401
+#link: source epsd2/royal:P232219 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 402
+#link: source epsd2/royal:P232220 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 403
+#link: source epsd2/royal:P232221 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 404
+#link: source epsd2/royal:P232222 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 405
+#link: source epsd2/royal:P232223 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 406
+#link: source epsd2/royal:P232224 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 407
+#link: source epsd2/royal:P232225 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 408
+#link: source epsd2/royal:P232226 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 409
+#link: source epsd2/royal:P232227 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 410
+#link: source epsd2/royal:P232228 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 411
+#link: source epsd2/royal:P232229 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 412
+#link: source epsd2/royal:P232230 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 413
+#link: source epsd2/royal:P232231 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 414
+#link: source epsd2/royal:P232232 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 415
+#link: source epsd2/royal:P232233 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 416
+#link: source epsd2/royal:P232234 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 417
+#link: source epsd2/royal:P232235 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 418
+#link: source epsd2/royal:P232236 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 419
+#link: source epsd2/royal:P232237 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 420
+#link: source epsd2/royal:P232238 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 421
+#link: source epsd2/royal:P232239 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 422
+#link: source epsd2/royal:P232240 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 423
+#link: source epsd2/royal:P232241 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 424
+#link: source epsd2/royal:P232242 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 425
+#link: source epsd2/royal:P232243 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 426
+#link: source epsd2/royal:P232244 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 427
+#link: source epsd2/royal:P232245 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 428
+#link: source epsd2/royal:P232246 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 429
+#link: source epsd2/royal:P232247 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 430
+#link: source epsd2/royal:P232248 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 431
+#link: source epsd2/royal:P232249 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 432
+#link: source epsd2/royal:P232250 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 433
+#link: source epsd2/royal:P232251 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 434
+#link: source epsd2/royal:P232252 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 435
+#link: source epsd2/royal:P232253 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 436
+#link: source epsd2/royal:P232254 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 437
+#link: source epsd2/royal:P232255 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 438
+#link: source epsd2/royal:P232256 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 439
+#link: source epsd2/royal:P232257 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 440
+#link: source epsd2/royal:P232259 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 442
+#link: source epsd2/royal:P232260 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 443
+#link: source epsd2/royal:P231822 = RIME 3/1, p. 017, E3/1.1.6.4, ex. 444
+# #link: source epsd2/royal:P232258 = 
+
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ra
+#lem: Enlil[1]DN
+
+4.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}
+#lem: Lagaš[1]
+
+7.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+8.	{d}nin-a₂-gal-ka-ke₄
+#lem: Ninagalak[1]DN
+
+9.	niŋ₂-ul-e pa mu-na-ed₂
+#lem: niŋul[everlasting]; pa[branch]; e[bring out]
+
+10.	e₂-ninnu-anzu₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+11.	mu-na-du₃
+#lem: du[build]
+
+12.	ki-be₂ mu-na-gi₄
+#lem: ki[place]; gi[turn]
+
+
+
+&Q001466 = Urbau 5 [E3/1.1.6.5]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232261 = RIME 3/1, p. 018, E3/1.1.6.5
+@m=locator object statue
+#@surface back
+
+@m column 1
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ra
+#lem: Enlil[1]DN
+
+4.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}
+#lem: Lagaš[1]
+
+7.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+8.	{d}nin-a₂-gal-ka-ke₄
+#lem: Ninagalak[1]DN
+
+9.	šag₄-ge pad₃-da {d}nanše-ke₄
+#lem: šag[heart]; pad[discover]; Nanše[1]DN
+
+10.	a₂ šum₂-ma {d#}nin-ŋir₂-su-ka-ke₄
+#lem: a[arm]; šum[give]; Ninŋirsuk[1]DN
+
+11.	mu# dug₃ še₂₁!-a [{d}]ba-u₂-ke₄
+#lem: mu[name]; dug[good]; še[call]; Bau[1]DN
+
+12.	ŋeštug₂# šum₂-ma {d#}en-ki-ka-ke₄
+#lem: ŋeštug[ear]; šum[give]; Enkik[1]DN
+
+@m column 2
+1.	lu₂ inim-ma sig₁₀-ga {d}inana-ke₄
+#lem: lu[person]; inim[word]; sig[put]; Inanak[1]DN
+
+2.	arad₂ ki aŋ₂ {d}lugal-urub{ki}-ka-ke₄
+#lem: arad[slave]; ki[place]; aŋ[measure]; Lugalurubak[1]DN
+
+3.	ki aŋ₂ {d}dumu-zi-abzu-ka-ke₄
+#lem: ki[place]; aŋ[measure]; Dumuzidabzuk[1]DN
+
+4.	ur-{d}ba-u₂-me
+#lem: Urbau[1]RN
+
+5.	{d}nin-ŋir₂-su lugal#-mu
+#lem: Ninŋirsuk[1]DN; lugal[king]
+
+6.	ki#-[la₂?] 1(u)#? kuš₃ mu#-na#-ba#-al
+#lem: kila[weight]; n; kuš[unit]; bal[dig]
+
+7.	sahar-bi za-gin₇ mu-bul₅-bul₅
+#lem: sahar[dust]; za[bead]; bul[blow]
+
+8.	kug-gin₇ izi i₃-la₂
+#lem: kug[metal]; izi[fire]; la[hang]
+
+@m column 3
+1.	ninda₂-gin₇ ki daŋal-la bi₂-gub
+#lem: ninda[seed-funnel]; ki[place]; daŋal[wide]; gub[stand]
+
+2.	sahar-bi šag₄-ba im-ši-gi₄
+#lem: sahar[dust]; šag[heart]; gi[turn]
+
+3.	uš de₂-bi mu-ak
+#lem: uš[foundation]; de[pour]; ak[do]
+
+4.	uguₓ(REC193)-bi-a ki-sa₂-a 1(u) kuš₃-am₃ bi₂-du₃
+#lem: ugu[top]; kisa[platform]; n; kuš[unit]; du[build]
+
+5.	uguₓ(REC193) ki-sa₂-a-ka
+#lem: ugu[top]; kisa[platform]
+
+6.	e₂-ninnu-anzu₂{mušen}-babbar₂ 3(u) kuš₃-am₃
+#lem: Eninnu-anzubabbar[1]TN; n; kuš[unit]
+
+7.	mu-na-du₃
+#lem: du[build]
+
+8.	{d}nin-hur-saŋ ama diŋir-re-ne-ra
+#lem: Ninhursaŋak[1]DN; ama[mother]; diŋir[deity]
+
+@m column 4
+1.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]
+
+2.	mu-na-du₃
+#lem: du[build]
+
+3.	{d}ba-u₂
+#lem: Bau[1]DN
+
+4.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+5.	dumu an-na-ra
+#lem: dumu[child]; An[1]DN
+
+6.	e₂ iri-kug-ga-ka-ni
+#lem: e[house]; Irikug[1]
+
+7.	mu-na-du₃
+#lem: du[build]
+
+8.	{d}inana nin kug-nun-na-ra
+#lem: Inanak[1]DN; nin[lady]; Kugnuna[1]TN
+
+9.	e₂ urub{ki}-ka-ni
+#lem: e[house]; Urub[1]
+
+10.	mu-na-du₃
+#lem: du[build]
+
+11.	{d}en-ki lugal eridu{ki}-ra
+#lem: Enki[Enki-god]DN; lugal[king]; Eridug[1]
+
+12.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]
+
+@m column 5
+1.	mu-na-du₃
+#lem: du[build]
+
+2.	{d}nin-dar-a lugal uru₁₆-ra
+#lem: Nindara[1]DN; lugal[king]; urun[exalted]
+
+3.	e₂-ni mu-na-du₃
+#lem: e[house]; du[build]
+
+4.	{d}nin-a₂-gal
+#lem: Ninagalak[1]DN
+
+5.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+6.	e₂-a-ni
+#lem: e[house]
+
+7.	mu-na-du₃
+#lem: du[build]
+
+8.	{d}nin-mar{ki}
+#lem: Ninmarkik[1]DN
+
+9.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+10.	dumu-saŋ {d}nanše-ra
+#lem: dumusaŋ[first-born]; Nanše[1]DN
+
+11.	eš₃ gu₂-tur₃ e₂ šag₄-ge pad₃-da-ni
+#lem: eš[shrine]; Gutur[0]TN; e[house]; šag[heart]; pad[discover]
+
+12.	mu-na-du₃
+#lem: du[build]
+
+@m column 6
+1.	[{d}en-sig-nun]
+#lem: Ensignun[1]DN
+
+2.	sipad# [anše {d}nin]-ŋir₂-[su-ka-ra]
+#lem: sipad[shepherd]; anše[equid]; Ninŋirsuk[1]DN
+
+3.	e₂-{anše}[du₂₄]-ur₃-ka-[ni]
+#lem: Edurak[1]TN
+
+4.	mu-na-du₃
+#lem: du[build]
+
+5.	{d}geštin-an-na
+#lem: Ŋeštinanak[1]DN
+
+6.	nin gu₂-a-|SI.A|-ra
+#lem: nin[lady]; X
+
+7.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]
+
+8.	mu-na#-du₃
+#lem: du[build]
+
+9.	{d}dumu-zi-abzu
+#lem: Dumuzidabzuk[1]DN
+
+10.	nin ki-nu-nir{ki}-ra
+#lem: nin[lady]; Kinunir[1]
+
+11.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]
+
+12.	mu-na-du₃
+#lem: du[build]
+
+
+
+&Q001467 = Urbau 6 [E3/1.1.6.6]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232262 = RIME 3/1, p. 020, E3/1.1.6.6
+@m column 1
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ra
+#lem: Enlil[1]DN
+
+4.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}
+#lem: Lagaš[1]
+
+7.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+8.	{d}nin-a₂-gal-ka-ke₄
+#lem: Ninagalak[1]DN
+
+@m column 2
+1.	e₂-ninnu-anzu₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+2.	mu-na-du₃
+#lem: du[build]
+
+3.	e₂-{anše}du₂₄-ur₃-ka-ni
+#lem: Edurak[1]TN
+
+4.	mu-na-du₃
+#lem: du[build]
+
+5.	{d}ba-u₂
+#lem: Bau[1]DN
+
+6.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+7.	dumu an-na-ra
+#lem: dumu[child]; An[1]DN
+
+8.	e₂ iri-kug-ga-ka-ni
+#lem: e[house]; Irikug[1]
+
+9.	mu-na-du₃
+#lem: du[build]
+
+@m column 3
+1.	{d}nin-kug-nun-na
+#lem: Ninkugnunak[1]DN
+
+2.	e₂ urub{ki}-ka-ni
+#lem: e[house]; Urub[1]
+
+3.	mu-na-du₃
+#lem: du[build]
+
+4.	{d}en-ki
+#lem: Enki[Enki-god]DN
+
+5.	lugal-a-ni
+#lem: lugal[king]
+
+6.	e₂-a-ni
+#lem: e[house]
+
+7.	mu-na-du₃
+#lem: du[build]
+
+8.	{d}nin-a₂-gal
+#lem: Ninagalak[1]DN
+
+9.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+10.	e₂-a-ni
+#lem: e[house]
+
+11.	mu-na-du₃
+#lem: du[build]
+
+
+
+&Q001468 = Urbau 7 [E3/1.1.6.7]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232263 = RIME 3/1, p. 021, E3/1.1.6.7
+1.	{d}ig#-[alim]
+#lem: Igalimak[1]DN
+
+2.	lugal-a-ni#
+#lem: lugal[king]
+
+3.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+4.	ensi₂# <lagaš{ki}-ke₄>
+#lem: ensik[ruler]; Lagaš[1]
+
+5.	[nam]-til₃-la-ni-še₃
+#lem: namtil[life]
+
+6.	[a] mu#-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001469 = Urbau 8 []
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+# #link: source epsd2/royal:P232264 = 
+1.	{d}lamma
+#lem: lammar[deity]
+
+2.	tar-sir₂-sir₂-ra
+#lem: Etarsirsir[1]TN
+
+3.	ur-{d}ba-u₂
+#lem: Urbau[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš{ki}
+#lem: Lagaš[1]
+
+6.	dumu tud-da
+#lem: dumu[child]; utud[bear]
+
+7.	{d}nin-a₂-gal-ka-ke₄
+#lem: Ninagalak[1]DN
+
+8.	nam-til₃-la-ni-še₃
+#lem: namtil[life]
+
+9.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001470 = Urbau 9 [E3/1.1.6.9]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P232266 = RIME 3/1, p. 022, E3/1.1.6.9
+1'. [ur-{d}]ba#-u₂
+#lem: Urbau[1]RN
+
+2'. ensi₂#
+#lem: ensik[ruler]
+
+3'. lagaš{ki#}-ke₄#
+#lem: Lagaš[1]
+
+4'. nam#-[til₃-la-ni-še₃]
+#lem: namtil[life]
+
+5'. [a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+$    (break)
+
+
+
+&Q001574 = Urgar 1 [E3/1.1.9.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020621
+#exx P234669
+1.	{d}šul-šag₄-ga-na
+#lem: Šulšaganak[1]DN
+
+2.	dumu ki aŋ₂
+#lem: dumu[child]; ki[place]; aŋ[measure]
+
+3.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	nam-til₃
+#lem: namtil[life]
+
+6.	ur-ŋar
+#lem: Ur.GAR[1]RN
+
+7.	ensi₂
+#lem: ensik[ruler]
+
+8.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+9.	nin-inim-gi-na
+#lem: Nininimgina[1]PN
+
+10.	dumu ka-[kug]
+#lem: dumu[child]; Kakug[1]PN
+
+11.	dam#-[ne₂]
+#lem: dam[spouse]
+
+12.	[u₃ nam-til₃-la-ni-še₃]
+#lem: u[and]; namtil[life]
+
+13.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+
+&Q001575 = Urgar 2 [E3/1.1.9.2]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020622
+#exx P234670
+@m=locator col 1
+1.	nam#-til₃
+#lem: namtil[life]
+
+2.	ur-ŋar
+#lem: Ur.GAR[1]RN
+
+3.	ensi₂
+#lem: ensik[ruler]
+
+4.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+5.	[PN]
+#lem: u
+
+@m column 2
+1.	dumu ur-{d}ba-u₂
+#lem: dumu[child]; Urbau[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}-ka-ke₄
+#lem: Lagaš[1]
+
+4.	u₃ nam-til₃-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+5.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001576 = Urgar 3 [E3/1.1.9.3]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020623
+#exx P234671
+1.	{d}lamma#
+#lem: lammar[deity]
+
+2.	[tar-sir₂-sir₂-ra]
+#lem: Etarsirsir[1]TN
+
+3.	nin-a-ni
+#lem: nin[lady]
+
+4.	nam-til₃
+#lem: namtil[life]
+
+5.	ur-ŋar
+#lem: Ur.GAR[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš#[{ki}-ka-še₃]
+#lem: Lagaš[1]
+
+1'.	[PN] dub-sar
+#lem: u; dubsar[scribe]
+
+2'.	dumu pu₂-ta ugula
+#lem: dumu[child]; Puta[1]PN; ugula[overseer]
+
+3'.	u₃ nam-[til₃]-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+4'.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001577 = Urmama 1 [E3/1.1.11.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020624
+#exx P234672
+1.	[{d}nin]-mar{ki}
+#lem: Ninmarkik[1]DN
+
+2.	[munus] sag₉#-ga
+#lem: munus[woman]; sag[good]
+
+3.	[nam]-til₃
+#lem: namtil[life]
+
+4.	[ur]-ma-ma
+#lem: Urmama[1]PN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+6.	lagaš#{ki#}-[ka]-še₃#
+#lem: Lagaš[1]
+
+$	broken
+
+
+&Q001459 = Urningirsu I 1 [E3/1.1.1.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231800 = RIME 3/1, p. 007, E3/1.1.1.1
+1.	{d}nin-mar{ki}
+#lem: Ninmarkik[1]DN
+
+2.	munus sag₉-ga#
+#lem: munus[woman]; sag[good]
+
+3.	dumu-saŋ {d}nanše#
+#lem: dumusaŋ[first-born]; Nanše[1]DN
+
+4.	ur-{d}nin-ŋir₂#-[su]
+#lem: Urninŋirsu[1]RN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-[ke₄]
+#lem: Lagaš[1]
+
+7.	e₂-MI₂ gil-sa-ka-[ni?]
+#lem: E.MI₂[0]TN; gilsa[treasure]
+
+8.	mu-na-[du₃]
+#lem: du[build]
+
+
+
+&Q001460 = Urningirsu I 2 [E3/1.1.1.2]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231801 = RIME 3/1, p. 008, E3/1.1.1.2
+@m column 1
+$	broken
+0'.	[maš-e]
+#lem: maš[goat]
+
+1'.	[mu]-na-pad₃
+#lem: pad[discover]
+
+2'.	[{d}]lamma# sag₉-ga
+#lem: lammar[deity]; sag[good]
+
+3'.	[{d}]nin#-sun₂
+#lem: Ninsumunak[1]DN
+
+4'.	[diŋir]-ra-ni
+#lem: diŋir[deity]
+
+5'.	[e₂] iri-kug-ga-ka-ni
+#lem: e[house]; Irikug[1]
+
+6'.	mu#-na-du₃
+#lem: du[build]
+
+7'.	{d#}za-za-ru
+#lem: Zazaru[1]DN
+
+$ 	broken
+@m column 2
+$	broken
+2'.	{d}ur₂#-nun-ta-ed₂-a
+#lem: Urnuntaʾea[1]DN
+
+3'.	dumu# {d}nin-ŋir₂-su-<ka>-ra
+#lem: dumu[child]; Ninŋirsuk[1]DN
+
+4'.	e₂ iri-kug-ga-ka-ni
+#lem: e[house]; Irikug[1]
+
+5'.	mu-na#-du₃
+#lem: du[build]
+
+6'.	{d}nin-mar{ki}
+#lem: Ninmarkik[1]DN
+
+7'.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+8'.	šita-ab-ba
+#lem: šitaʾaba[priest]
+
+9'.	maš-e mu-na-pad₃
+#lem: maš[goat]; pad[discover]
+
+
+
+&Q001461 = Urningirsu I 3 [E3/1.1.1.3]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231802 = RIME 3/1, p. 009, E3/1.1.1.3
+1.	{d}[nin]-mar{ki}
+#lem: Ninmarkik[1]DN
+
+2.	nin#-a-ni
+#lem: nin[lady]
+
+3.	nam#-til₃
+#lem: namtil[life]
+
+4.	ur-[{d}]nin-ŋir₂-[su]
+#lem: Urninŋirsu[1]RN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+6.	lagaš#[{ki}]-ka-[še₃]
+#lem: Lagaš[1]
+
+7.	|ME.DIM.SAL.[X]|
+#lem: ME.DIM.SAL.X[0]PN
+
+8.	[x] |SI.X#.URI#| [(x)]
+#lem: u; u; u
+
+9.	[u₃] nam#-til₃-la#-[ni-še₃]
+#lem: u[and]; namtil[life]
+
+10. 	[a] mu#-[na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001462 = Urningirsu I 4 [E3/1.1.1.4]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231803 = RIME 3/1, p. 010, E3/1.1.1.4
+1.	{d}lamma
+#lem: lammar[deity]
+
+2.	{d}ba-u₂
+#lem: Bau[1]DN
+
+3.	nin-a-ni
+#lem: nin[lady]
+
+4.	nam-til₃
+#lem: namtil[life]
+
+5.	ur-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+8.	nin-NIGIN₃-e-si
+#lem: Ninniŋaresi[1]PN
+
+9.	dam-ne₂
+#lem: dam[spouse]
+
+10.	u₃ nam-til₃-la-ni-<še₃>
+#lem: u[and]; namtil[life]
+
+11.	a mu-na-ri
+#lem: a[water]; ru[cvve]
+
+12.	maš-da-re-a-ba
+#lem: mašdarea[payment]
+
+13.	nin-mu-he₂-ma-zi-zi
+#lem: Ninŋuhemazizi[0]ON
+
+14.	mu-bi
+#lem: mu[name]
+
+# @m surface ON1
+
+# 13. nin-mu he2-ma-zi-zi
+# #lem: nin[lady]; zig[rise]
+
+
+
+&Q001463 = Urningirsu I 5 [E3/1.1.1.5]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231804 = RIME 3/1, p. 010, E3/1.1.1.5
+1'.	nam#-til₃#
+#lem: namtil[life]
+
+2'.	ur#-{d}nin-ŋir₂-su#
+#lem: Urninŋirsu[1]RN
+
+3'.	ensi₂
+#lem: ensik[ruler]
+
+4'.	lagaš{ki}-ka-še₃
+#lem: Lagaš[1]
+
+5'.	ur-DUB
+#lem: Ur.DUB[1]PN
+
+6'.	dumu# [x-x]-DU-ka-ke₄#
+#lem: dumu[child]; X.DU[1]PN
+
+7'.	u₃# nam#-til₃#-la#-ni#-še₃!
+#lem: u[and]; namtil[life]
+
+8'.	[a mu-na-ru]
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001464 = Urningirsu I 6 [E3/1.1.1.6]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#link: source epsd2/royal:P231805 = RIME 3/1, p. 011, E3/1.1.1.6
+@m column 1
+1.	[{d}]ba#-u₂
+#lem: Bau[1]DN
+
+2.	[nin]-a-ni
+#lem: nin[lady]
+
+3.	[nam]-til₃!
+#lem: namtil[life]
+
+4.	[ur-{d}nin]-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+5.	ensi₂#
+#lem: ensik[ruler]
+
+@m column 2
+1.	lagaš{ki}-ka!-še₃
+#lem: Lagaš[1]
+
+2.	ur-{d}lugal-eden-na a-zu
+#lem: Urlugaledena[1]PN; azu[doctor]
+
+3.	u₃ nam-til₃-la-ni-še₃
+#lem: u[and]; namtil[life]
+
+4.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001566 = Urningirsu II 1 [E3/1.1.8.1]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020611
+#exx P234648
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	ur-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}
+#lem: Lagaš[1]
+
+8.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+9.	ensi₂
+#lem: ensik[ruler]
+
+10.	lagaš{ki}-ka
+#lem: Lagaš[1]
+
+11.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+12.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+13.	im-du₃-a-ke₄
+#lem: du[build]
+
+14.	mu-na-dim₂
+#lem: dim[create]
+
+
+
+&Q001573 = Urningirsu II 10 [E3/1.1.8.10]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020620
+#exx P234668
+1'.	[ur-{d}nin-ŋir₂-su]
+#lem: Urninŋirsu[1]RN
+
+2'.	ensi₂#
+#lem: ensik[ruler]
+
+3'.	lagaš{ki}
+#lem: Lagaš[1]
+
+4'.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+5'.	ensi₂ lagaš{ki}
+#lem: ensik[ruler]; Lagaš[1]
+
+
+
+
+&Q000928 = Urningirsu II 2 [E3/1.1.8.2]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020612
+#(was Q000147)
+#exx P234649 P234650 P234651 P234652 P234653 P234654 P234655 P234656 P234657 P234658 P234790
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	ur-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}
+#lem: Lagaš[1]
+
+8.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+9.	ensi₂
+#lem: ensik[ruler]
+
+10.	lagaš{ki}-ka
+#lem: Lagaš[1]
+
+11.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+12.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+13.	in-du₃-a-ke₄
+#lem: du[build]
+
+14.	gi-gun₄ ki aŋ₂-ni
+#lem: giguna[terrace]; ki[place]; aŋ[measure]
+
+15.	{šim}eren-na
+#lem: eren[cedar]
+
+16.	mu-na-ni-du₃
+#lem: du[build]
+
+
+
+&Q000929 = Urningirsu II 3 [E3/1.1.8.3]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020613
+#(was Q000148)
+#exx P234659 P234660 P234661
+1.	{d}nin-ŋir₂-su#
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ! kal#-ga#
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en#-lil₂#-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	ur-{d}nin-ŋir₂-su#
+#lem: Urninŋirsu[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}
+#lem: Lagaš[1]
+
+8.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+10.	ensi₂
+#lem: ensik[ruler]
+
+11.	lagaš#{ki}-ka#
+#lem: Lagaš[1]
+
+12.	lu₂ e₂-ninnu#
+#lem: lu[person]; Eninnu[1]TN
+
+13.	{d}nin-ŋir₂-su-ka#
+#lem: Ninŋirsuk[1]DN
+
+14.	in-du₃-a-ke₄
+#lem: du[build]
+
+15.	abul inim si sa₂#-a#-ke₄
+#lem: abula[gate]; inim[word]; si[horn]; sa[equal]
+
+16.	e₂ {d}nanše# mu-na-us₂
+#lem: e[house]; Nanše[1]DN; us[follow]
+
+
+
+&Q001567 = Urningirsu II 4 [E3/1.1.8.4]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020614
+#exx P234662
+1.	{d}nin-[ŋir₂-su]
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ# [kal-ga]
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-[lil₂-la₂]
+#lem: Enlil[1]DN
+
+4.	lugal#-[a-ni]
+#lem: lugal[king]
+
+5.	ur-{d}[nin-ŋir₂-su]
+#lem: Urninŋirsu[1]RN
+
+6.	ensi₂#
+#lem: ensik[ruler]
+
+7.	[lagaš{ki}]
+#lem: Lagaš[1]
+
+
+
+&Q001568 = Urningirsu II 5 [E3/1.1.8.5]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020615
+#exx P234663
+1.	{d}nin#-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kal-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]
+
+5.	ur#-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}
+#lem: Lagaš[1]
+
+8.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+9.	ensi₂
+#lem: ensik[ruler]
+
+10.	lagaš{ki}-ka-ke₄
+#lem: Lagaš[1]
+
+11.	nam-til₃-la-ni-še₃
+#lem: namtil[life]
+
+12.	a mu-na-ru
+#lem: a[water]; ru[cvve]
+
+
+
+&Q001569 = Urningirsu II 6 [E3/1.1.8.6]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020616
+#exx P234664
+@m=locator col 1
+1.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+2.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+3.	ur-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš{ki}
+#lem: Lagaš[1]
+
+6.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+7.	ensi₂
+#lem: ensik[ruler]
+
+8.	lagaš{ki}-ka
+#lem: Lagaš[1]
+
+9.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+10.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+11.	in-du₃-a-ke₄
+#lem: du[build]
+
+@m column 2
+1.	alan-na-ni
+#lem: alan[statue]
+
+2.	mu-tu
+#lem: utud[bear]
+
+3.	alan-ba
+#lem: alan[statue]
+
+4-5.	lu₂-diŋir-ra-ne₂-ki-aŋ₂-me-nam-til₃-mu-he₂-sud
+#lem: Ludiŋiranekiʾaŋamenamtilŋuhesud[0]ON
+
+6.	mu-še₃ mu-na-še₂₁!
+#lem: mu[name]; še[call]
+
+7.	e₂-a-ni mu-na-ni-kur₉
+#lem: e[house]; kur[bring]
+
+
+# @m=locator object ON ON1
+# 
+# @m=locator col 2
+# 4.	lu2 dijir-ra-ne2 ki aj2-me
+# #lem: lu[person]; dijir[deity]; ki[place]; aj[measure]
+# 
+# 5.	nam-til3-mu he2-sud
+# #lem: namtil[life]; sud[distant]
+
+
+
+
+&Q001570 = Urningirsu II 7 [E3/1.1.8.7]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020617
+#exx P234665
+@m=locator col 1
+1.	{d}nin-ŋeš-zi#-da#
+#lem: Ningišzida[1]DN
+
+2.	diŋir-ra-ni#
+#lem: diŋir[deity]
+
+3.	ur-{d}nin-ŋir₂-[su]
+#lem: Urninŋirsu[1]RN
+
+4.	ensi₂#
+#lem: ensik[ruler]
+
+5.	lagaš{ki#}
+#lem: Lagaš[1]
+
+6.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+7.	ensi₂
+#lem: ensik[ruler]
+
+8.	lagaš{ki}-ka
+#lem: Lagaš[1]
+
+@m=locator col 2
+$ 	broken
+
+
+
+&Q001571 = Urningirsu II 8 [E3/1.1.8.8]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020618
+#exx P234666
+1.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+2.	diŋir-ra-a!-ni
+#lem: diŋir[deity]
+
+3.	nam-til₃#
+#lem: namtil[life]
+
+4.	ur-{d}nin-ŋir₂-su#
+#lem: Urninŋirsu[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ka-[še₃]
+#lem: Lagaš[1]
+
+$	broken
+
+
+
+&Q001572 = Urningirsu II 9 [E3/1.1.8.9]
+@composite
+#project: epsd2/royal
+#atf: use unicode
+#atf: use mylines
+#was Q020619
+#exx P234667
+1.	ur-{d}nin-ŋir₂-su
+#lem: Urninŋirsu[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]
+
+4.	dumu gu₃-de₂-a
+#lem: dumu[child]; Gudea[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}
+#lem: Lagaš[1]
+
+
+
+
