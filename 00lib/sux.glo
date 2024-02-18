@@ -14,6 +14,14 @@
 @sense N a part of a temple
 @end entry
 
+@entry kur [enter] V/i
+@bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634))
+@form mu-na-ni-kur₉(REC145) /kur₉(REC145) #mu.na.ni:~
+@form i₃-ib₂-ku₄(KWU634)-ku₄(KWU634) /ku₄(KWU634)-ku₄(KWU634) #V.b:~
+@sense V/i to enter, be brought in
+@sense V/t to bring into
+@end entry
+
 @entry marza [rites] N
 @bases mar-za
 @form mar-za /mar-za #~
