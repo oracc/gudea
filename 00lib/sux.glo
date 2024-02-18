@@ -17,7 +17,7 @@
 @entry kur [enter] V/i
 @bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634))
 @form mu-na-ni-kur₉(REC145) /kur₉(REC145) #mu.na.ni:~
-@form i₃-ib₂-ku₄(REC145)-ku₄(REC145) /ku₄(KWU634)-ku₄(KWU634) #V.b:~
+@form i₃-ib₂-ku₄(KWU634)-ku₄(KWU634) /ku₄(KWU145)-ku₄(KWU145) #V.b:~
 @sense V/i to enter, be brought in
 @sense V/t to bring into
 @end entry
