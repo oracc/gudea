@@ -18,7 +18,7 @@
   <option name="outline-default-sort-fields" value="designation"/>
   <option name="outline-default-sort-labels" value="designation"/>
   <option name="outline-default-catalog-widths" value="15,5,20,15,30"/>
-  <option name="%sux" value="epsd2 epsd2/names ."/>
+  <option name="%sux" value=". epsd2 epsd2/names"/>
   <option name="sum-alias" value="yes"/>
   <option name="fuzzy-alias" value="yes"/>
 </project>
