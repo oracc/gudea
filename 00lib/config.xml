@@ -17,7 +17,8 @@
   <option name="outline-default-select" value="false"/>
   <option name="outline-default-sort-fields" value="period,ruler"/>
   <option name="outline-default-sort-labels" value="period,ruler"/>
-  <option name="outline-default-catalog-widths" value="15,5,20,15,30"/>
+  <option name="outline-default-catalog-fields" value="designation,primary_edition,distribution"/>
+  <option name="outline-default-catalog-widths" value="25,20,30"/>
   <option name="%sux" value=". epsd2 epsd2/names"/>
   <option name="sum-alias" value="yes"/>
   <option name="fuzzy-alias" value="yes"/>
