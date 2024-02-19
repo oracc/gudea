@@ -1,8 +1,5 @@
 id_composite	designation	supergenre	genre	subgenre	period	primary_edition	publication_history	place	ruler	keywords	provenience	distribution	sources	provdist	project
-Q000377	The building of Ningirsu's temple (Gudea, cylinders A and B)	LIT	Literary	Compositions with a historical background	Lagaš II		[http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.7&display=Crit&charenc=gcirc ETCSL 2.1.7]	Girsu		King lists and other compositions					epsd2/royal
-Q000385	A tigi to Bau for Gudea (Gudea A)	LIT	Literary	Royal praise poetry	Old Babylonian		[http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.3.2&display=Crit&charenc=gcirc ETCSL 2.3.2]	Girsu		Gudea	Nippur	Nippur [1]	P264398	Nippur (CBS 6984 (STVC 36))	epsd2/literary
-Q000586	Letter from Gudea-Enlila to Dingir-manšum	LIT	Literary	Other letters and letter-prayers	Old Babylonian			Girsu		Other letters and letter-prayers	Nippur	Nippur [1]	P345645	Nippur (HS 1522 (TMH NF 3 57))	epsd2/literary
-Q000592	Letter from Gudea to his personal deity	LIT	Literary	Other letters and letter-prayers	Old Babylonian		[http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.3.3.20&display=Crit&charenc=gcirc ETCSL 3.3.20]	Girsu		Other letters and letter-prayers	Nippur	Nippur [2]	P256617 P345644	Nippur (HS 1444 (TMH NF 3 56), UM 29-15-995)	epsd2/literary
+Q000377	The building of Ningirsu's temple (Gudea, cylinders A and B)	LIT	Literary	Compositions with a historical background	Lagaš II		[http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.2.1.7&display=Crit&charenc=gcirc ETCSL 2.1.7]	Girsu	Gudea	King lists and other compositions					epsd2/royal
 Q000887	Gudea 001	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 107, E3/1.1.7.1		Girsu	Gudea		uncertain	uncertain [2]	P232309 P232310	uncertain (VA 00056 = RIME 3/1.01.07.001, ex. 01, AO 11946 = RIME 3/1.01.07.001, ex. 02)	epsd2/royal
 Q000888	Gudea 002	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 108, E3/1.1.7.2		Girsu	Gudea		Ur	Ur [1], Girsu [1], uncertain [1]	P232311 P232312 P232313	Ur (BM 116450 = RIME 3/1.01.07.002, ex. 02); uncertain (VA 04859 = RIME 3/1.01.07.002, ex. 01); Girsu (AO 12764 = RIME 3/1.01.07.002, ex. 03)	epsd2/royal
 Q000889	Gudea 003	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 109, E3/1.1.7.3		Girsu	Gudea		Girsu	Girsu [10], Lagash [1], Tell Jidr [1], uncertain [6]	P232314 P232315 P232316 P232317 P232318 P232319 P232320 P232321 P232322 P232323 P232324 P232325 P232327 P232328 P232329 P232330 P232331 P417450	Girsu [10], Lagash [1], Tell Jidr [1], and 6 more exx.	epsd2/royal
@@ -95,7 +92,6 @@ Q001520	Gudea 088	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.88	
 Q001521	Gudea 089	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.89		Girsu	Gudea		Girsu	Girsu [1]	P234636	Girsu (AO 00015 = RIME 3/1.01.07.089, ex. 01)	epsd2/royal
 Q001522	Gudea 090	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.90		Girsu	Gudea		Girsu	Girsu [1]	P234637	Girsu (AO 29931 = RIME 3/1.01.07.090, ex. 01)	epsd2/royal
 Q001523	Gudea 091	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.91		Girsu	Gudea		Girsu	Girsu [1]	P234638	Girsu (NBCWC — = RIME 3/1.01.07.091, ex. 01)	epsd2/royal
-Q001524	Šulgi 99add (formerly Gudea 092)	LIT	Royal Inscription		Ur III	RIME 3/1, p. xx, E3/1.1.7.92		Ur	Gudea		Girsu	Girsu [1]	P234639	Girsu (AO 00058 = RIME 3/2.01.02.add099, ex. 01)	epsd2/royal
 Q001525	Gudea 093	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.93		Girsu	Gudea		uncertain	uncertain [1]	P234640	uncertain (YBC 02202 = RIME 3/1.01.07.093, ex. 01)	epsd2/royal
 Q001526	Gudea 094	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.94		Girsu	Gudea		Girsu	Girsu [1]	P234641	Girsu (AO 00226 = RIME 3/1.01.07.094, ex. 01)	epsd2/royal
 Q001527	Gudea 095	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.95		Girsu	Gudea		Ur	Ur [1]	P234642	Ur (IM 001155 = RIME 3/1.01.07.095, ex. 01)	epsd2/royal
@@ -139,15 +135,15 @@ Q001565	Gudea Statue AA	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1
 Q003220	Gudea 55b	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. xx, E3/1.1.7.55		Girsu	Gudea		Girsu	Girsu [2]	P234435 P390442	Girsu (AO 26693b = RIME 3/1.01.07.055b, ex. 01, AO 26639a = RIME 3/1.01.07.055a, ex. 01)	epsd2/royal
 Q003228	Gudea 101	LIT	Royal Inscription		Lagaš II			Girsu	Gudea		Girsu	Girsu [1]	P388525	Girsu (JRL 1091 = RIME 3/1.01.07.add101, ex. 01)	epsd2/royal
 Q003229	Gudea 102	LIT	Royal Inscription		Lagaš II			Girsu	Gudea						epsd2/royal
-Q004877	Gudea 103add	LIT	Royal Inscription		Lagaš II			Girsu							epsd2/royal
-Q005312	Gudea Statue L	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07, Statue L	Girsu			Girsu	Girsu [1]	P232284	Girsu (AO 00028 = RIME 3/1.01.07, St L witness)	epsd2/royal
-Q005314	Gudea 104add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add104	Girsu			uncertain	uncertain [1]	P433110	uncertain (X.3.132 = RIME 3/1.01.07.add104, ex. 01)	epsd2/royal
-Q005315	Gudea 105add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add105	Girsu			uncertain	uncertain [1]	P461059	uncertain (FLP unn70 = RIME 3/1.01.07.add105, ex. 01)	epsd2/royal
-Q005316	Gudea 106add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add106	Girsu			uncertain	uncertain [1]	P471579	uncertain (RIME 3/1.01.07.add106, ex. 01)	epsd2/royal
-Q008903	Gudea 2001add (formerly Šu-Suen 2003)	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2001	Girsu			Girsu	Girsu [3]	P111016 P226577 P458279	Girsu (CDLI Seals 005569 (composite), ITT 2 04216 = TCTI 2 04216 = L. 04216, L. 09827)	epsd2/royal
-Q008904	Gudea 2002add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2002	Girsu			Girsu	Girsu [1]	P388883	Girsu (LB 0360)	epsd2/royal
-Q008905	Gudea 2003add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2003	Girsu			Girsu	Girsu [10]	P102103 P112862 P116294 P116362 P116363 P116585 P116587 P116588 P116590 P374210	Girsu [10]	epsd2/royal
-Q008906	Gudea 2004add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2004	Girsu			Girsu	Girsu [2]	P131122 P455790	Girsu (CDLI Seals 003080 (composite), SAT 1 012 = BM 020962+A)	epsd2/royal
+Q004877	Gudea 103add	LIT	Royal Inscription		Lagaš II			Girsu	Gudea						epsd2/royal
+Q005312	Gudea Statue L	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07, Statue L	Girsu	Gudea		Girsu	Girsu [1]	P232284	Girsu (AO 00028 = RIME 3/1.01.07, St L witness)	epsd2/royal
+Q005314	Gudea 104add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add104	Girsu	Gudea		uncertain	uncertain [1]	P433110	uncertain (X.3.132 = RIME 3/1.01.07.add104, ex. 01)	epsd2/royal
+Q005315	Gudea 105add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add105	Girsu	Gudea		uncertain	uncertain [1]	P461059	uncertain (FLP unn70 = RIME 3/1.01.07.add105, ex. 01)	epsd2/royal
+Q005316	Gudea 106add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add106	Girsu	Gudea		uncertain	uncertain [1]	P471579	uncertain (RIME 3/1.01.07.add106, ex. 01)	epsd2/royal
+Q008903	Gudea 2001add (formerly Šu-Suen 2003)	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2001	Girsu	Gudea		Girsu	Girsu [3]	P111016 P226577 P458279	Girsu (CDLI Seals 005569 (composite), ITT 2 04216 = TCTI 2 04216 = L. 04216, L. 09827)	epsd2/royal
+Q008904	Gudea 2002add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2002	Girsu	Gudea		Girsu	Girsu [1]	P388883	Girsu (LB 0360)	epsd2/royal
+Q008905	Gudea 2003add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2003	Girsu	Gudea		Girsu	Girsu [10]	P102103 P112862 P116294 P116362 P116363 P116585 P116587 P116588 P116590 P374210	Girsu [10]	epsd2/royal
+Q008906	Gudea 2004add	LIT	Royal Inscription		Lagaš II		RIME 3/1.01.07.add2004	Girsu	Gudea		Girsu	Girsu [2]	P131122 P455790	Girsu (CDLI Seals 003080 (composite), SAT 1 012 = BM 020962+A)	epsd2/royal
 Q000881	Pirigme 1	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 012, E3/1.1.2.1		Girsu	Pirigme		Girsu	Girsu [3]	P231806 P231807 P513482	Girsu (AO 15300 = RIME 3/1.01.02.01, ex. 01, IM — = RIME 3/1.01.02.01, ex. add03, AO 15301 = RIME 3/1.01.02.01, ex. 02)	epsd2/royal
 Q000882	Ur-Bau 01	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 015, E3/1.1.6.1		Girsu	Ur-Bau		Girsu	Girsu [2], uncertain [3]	P231808 P231809 P231810 P231811 P231812	Girsu [2], uncertain [3]	epsd2/royal
 Q000883	Ur-Bau 03	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 016, E3/1.1.6.3		Girsu	Ur-Bau		Girsu	Girsu [4]	P231814 P231815 P231816 P452216	Girsu [4]	epsd2/royal
@@ -247,22 +243,22 @@ Q004272	Lagaš II Unidentified 1046add	LIT	Royal Inscription		Lagaš II	FAOS 09/
 Q004273	Lagaš II Unidentified 1047add	LIT	Royal Inscription		Lagaš II	FAOS 09/1, Lagaš 32		Lagaš	Lagaš II		uncertain	uncertain [1]	P247564	uncertain (AO 02886j = RIME 3/1.01.x0.add1047, ex. 01)	epsd2/royal
 Q004274	Lagaš II Unidentified 1048add	LIT	Royal Inscription		Lagaš II	FAOS 09/1, Lagaš 34		Lagaš	Lagaš II		uncertain	uncertain [1]	P247565	uncertain (AO 02886l = RIME 3/1.01.x0.add1048, ex. 01)	epsd2/royal
 Q004275	Lagaš II Unidentified 1049add	LIT	Royal Inscription		Lagaš II	FAOS 09/1, Lagaš 35		Lagaš	Lagaš II		uncertain	uncertain [1]	P247566	uncertain (AO 02886m = RIME 3/1.01.x0.add1049, ex. 01)	epsd2/royal
-Q004881	Lagaš II Unidentified 1050add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247567	uncertain (unknown = RIME 3/1.01.x0.add1050, ex. 01)	epsd2/royal
-Q004882	Lagaš II Unidentified 1051add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247568	uncertain (Ashm 1942-0169 = RIME 3/1.01.x0.add1051, ex. 01)	epsd2/royal
-Q004883	Lagaš II Unidentified 1052add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247569	uncertain (AO 16649 = RIME 3/1.01.x0.add1052, ex. 01)	epsd2/royal
-Q004884	Lagaš II Unidentified 1053add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247588	uncertain (AO 26662 = RIME 3/1.01.x0.add1053, ex. 01)	epsd2/royal
-Q004885	Lagaš II Unidentified 1054add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247570	uncertain (AO 20014 = RIME 3/1.01.x0.add1054, ex. 01)	epsd2/royal
-Q004886	Lagaš II Unidentified 1056add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247572	uncertain (AO 26647 = RIME 3/1.01.x0.add1056, ex. 01)	epsd2/royal
-Q004887	Lagaš II Unidentified 1057add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247573	uncertain (AO 26649 = RIME 3/1.01.x0.add1057, ex. 01)	epsd2/royal
-Q004888	Lagaš II Unidentified 1058add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247574	uncertain (AO 26631 = RIME 3/1.01.x0.add1058, ex. 01)	epsd2/royal
-Q004889	Lagaš II Unidentified 1059add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247589	uncertain (AO 26632 = RIME 3/1.01.x0.add1059, ex. 01)	epsd2/royal
-Q004890	Lagaš II Unidentified 1060add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247576	uncertain (VA 02341 = RIME 3/1.01.x0.add1060, ex. 01)	epsd2/royal
-Q004891	Lagaš II Unidentified 1061add	LIT	Royal Inscription		Lagaš II			Lagaš							epsd2/royal
-Q004892	Lagaš II Unidentified 1062add	LIT	Royal Inscription		Lagaš II			Lagaš			Girsu	Girsu [1]	P234702	Girsu (AO 00271d = RIME 3/1.01.12.09a, ex. 01)	epsd2/royal
-Q004893	Lagaš II Unidentified 1063add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247579	uncertain (AO 00272 = RIME 3/1.01.x0.add1063, ex. 01)	epsd2/royal
-Q004894	Lagaš II Unidentified 1064add	LIT	Royal Inscription		Lagaš II			Lagaš							epsd2/royal
-Q004895	Lagaš II Unidentified 1065add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247580	uncertain (AO 12775k = RIME 3/1.01.x0.add1065, ex. 01)	epsd2/royal
+Q004881	Lagaš II Unidentified 1050add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247567	uncertain (unknown = RIME 3/1.01.x0.add1050, ex. 01)	epsd2/royal
+Q004882	Lagaš II Unidentified 1051add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247568	uncertain (Ashm 1942-0169 = RIME 3/1.01.x0.add1051, ex. 01)	epsd2/royal
+Q004883	Lagaš II Unidentified 1052add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247569	uncertain (AO 16649 = RIME 3/1.01.x0.add1052, ex. 01)	epsd2/royal
+Q004884	Lagaš II Unidentified 1053add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247588	uncertain (AO 26662 = RIME 3/1.01.x0.add1053, ex. 01)	epsd2/royal
+Q004885	Lagaš II Unidentified 1054add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247570	uncertain (AO 20014 = RIME 3/1.01.x0.add1054, ex. 01)	epsd2/royal
+Q004886	Lagaš II Unidentified 1056add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247572	uncertain (AO 26647 = RIME 3/1.01.x0.add1056, ex. 01)	epsd2/royal
+Q004887	Lagaš II Unidentified 1057add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247573	uncertain (AO 26649 = RIME 3/1.01.x0.add1057, ex. 01)	epsd2/royal
+Q004888	Lagaš II Unidentified 1058add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247574	uncertain (AO 26631 = RIME 3/1.01.x0.add1058, ex. 01)	epsd2/royal
+Q004889	Lagaš II Unidentified 1059add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247589	uncertain (AO 26632 = RIME 3/1.01.x0.add1059, ex. 01)	epsd2/royal
+Q004890	Lagaš II Unidentified 1060add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247576	uncertain (VA 02341 = RIME 3/1.01.x0.add1060, ex. 01)	epsd2/royal
+Q004891	Lagaš II Unidentified 1061add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II						epsd2/royal
+Q004892	Lagaš II Unidentified 1062add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		Girsu	Girsu [1]	P234702	Girsu (AO 00271d = RIME 3/1.01.12.09a, ex. 01)	epsd2/royal
+Q004893	Lagaš II Unidentified 1063add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247579	uncertain (AO 00272 = RIME 3/1.01.x0.add1063, ex. 01)	epsd2/royal
+Q004894	Lagaš II Unidentified 1064add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II						epsd2/royal
+Q004895	Lagaš II Unidentified 1065add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247580	uncertain (AO 12775k = RIME 3/1.01.x0.add1065, ex. 01)	epsd2/royal
 Q005345	Puzur-Inšušinak 2	LIT	Royal Inscription		Lagaš II		RIME 3/1.add02.01.02	Susa			Susa	Susa [2]	P215554 P462170	Susa (RIME 3/1.add02.01.02 composite, Sb — ? = RIME 3/1.add02.01.02, ex. 01)	epsd2/royal
-Q006336	Ur-Ningirsu I 7	LIT	Royal Inscription		Lagaš II			Girsu			uncertain	uncertain [1]	P201714	uncertain (BM 104724)	epsd2/royal
-Q008909	Lagaš II Unidentified 1055add	LIT	Royal Inscription		Lagaš II			Lagaš			uncertain	uncertain [1]	P247571	uncertain (AO 26648 = RIME 3/1.01.x0.add1055, ex. 01)	epsd2/royal
-Q008911	Pirigme 2add	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 012, E3/1.1.2.2add		Girsu			uncertain	uncertain [1]	P513484	uncertain (IMJ 98.071.0000 = RIME 3/1.01.02.add02, ex. 01)	epsd2/royal
+Q006336	Ur-Ningirsu I 7	LIT	Royal Inscription		Lagaš II			Girsu	Ur-Ningirsu I		uncertain	uncertain [1]	P201714	uncertain (BM 104724)	epsd2/royal
+Q008909	Lagaš II Unidentified 1055add	LIT	Royal Inscription		Lagaš II			Lagaš	Lagaš II		uncertain	uncertain [1]	P247571	uncertain (AO 26648 = RIME 3/1.01.x0.add1055, ex. 01)	epsd2/royal
+Q008911	Pirigme 2add	LIT	Royal Inscription		Lagaš II	RIME 3/1, p. 012, E3/1.1.2.2add		Girsu	Pirigme		uncertain	uncertain [1]	P513484	uncertain (IMJ 98.071.0000 = RIME 3/1.01.02.add02, ex. 01)	epsd2/royal
