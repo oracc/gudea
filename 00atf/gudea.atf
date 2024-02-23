@@ -5886,32 +5886,14 @@ $ broken
 #lem: a[water]; ru[cvve]
 
 
-
-&Q001524 = Gudea 92 [E3/1.1.7.92]
+&X001524 = Gudea 92 [E3/1.1.7.92]
 @composite
 #project: gudea
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P234639 = RIME 3/1, p. 175, E3/1.1.7.92
-1.	{d}ba-u₂
-#lem: Bau[1]DN
 
-2.	nin#-a-ni
-#lem: nin[lady]\ra
-
-3.	nam#-til₃#
-#lem: namtil[life]
-
-4.	gu₃#-de₂#-a#
-#lem: Gudea[1]RN
-
-5.	ensi₂#
-#lem: ensik[ruler]
-
-6.	[lagaš{ki}-ka-še₃]
-#lem: Lagaš[1]SN
-
-$ broken
+$ (Attribution uncertain, possibly Shulgi)
 
 
 
@@ -15461,7 +15443,7 @@ $ 1 line missing
 
 #etcsl: line-id=830
 
-17. kiŋ₂-sigₓ(SAR) udu dab₅-be₂ udu im-ma-a-tah
+17. kiŋ₂-sig₁₉ udu dab₅-be₂ udu im-ma-a-tah
 #lem: kiŋsig[meal]\ak; udu[sheep]; dab[seize]\l; udu[sheep]; tah[add] +.
 
 #etcsl: line-id=831
@@ -15738,7 +15720,7 @@ $ 1 line missing
 
 #etcsl: line-id=884
 
-27. kiŋ₂-sigₓ(SAR)-ge bi₂-dib
+27. kiŋ₂-sig₁₉-ge bi₂-dib
 #lem: kiŋsig[meal]\l; dib[pass] +.
 
 #etcsl: line-id=885

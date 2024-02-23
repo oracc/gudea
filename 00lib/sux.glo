@@ -14,6 +14,13 @@
 @sense N a part of a temple
 @end entry
 
+@entry kiŋsig [meal] N
+@bases kiŋ₂-sig₁₇; kiŋ₂-sig₁₉
+@form kiŋ₂-sig₁₉\ak /kiŋ₂-sig₁₉ #~,ak
+@form kiŋ₂-sig₁₉-ge\l /kiŋ₂-sig₁₉ +-ge=g.e #~,e
+@sense N afternoon meal
+@end entry
+
 @entry kur [enter] V/i
 @bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634))
 @form mu-na-ni-kur₉(REC145) /kur₉(REC145) #mu.na.ni:~
