@@ -14,6 +14,30 @@
 @sense N a part of a temple
 @end entry
 
+@entry dur [donkey] N
+@bases {anše}dur₉{+ur₃}
+@form {anše}dur₉{+ur₃} /{anše}dur₉{+ur₃} #~
+@sense N young male donkey
+@end entry
+
+@entry esir [bitumen] N
+@bases esir₂(|LAGAB×HAL|)
+@form esir₂(|LAGAB×HAL|) /esir₂(|LAGAB×HAL|) #~
+@sense N bitumen, pitch
+@end entry
+
+@entry IGI.LAGAB×KUL [~bitumen] N
+@bases IGI-|LAGAB×HAL|
+@form IGI-|LAGAB×HAL| /IGI-|LAGAB×HAL| #~
+@sense N a designation of bitumen
+@end entry
+
+@entry ildag [poplar] N
+@bases ildag₂(|A.GUD×KUR|)
+@form ildag₂(|A.GUD×KUR|) /ildag₂(|A.GUD×KUR|) #~
+@sense N poplar, black poplar
+@end entry
+
 @entry kiŋsig [meal] N
 @bases kiŋ₂-sig₁₇; kiŋ₂-sig₁₉
 @form kiŋ₂-sig₁₉\ak /kiŋ₂-sig₁₉ #~,ak
@@ -22,9 +46,10 @@
 @end entry
 
 @entry kur [enter] V/i
-@bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634))
+@bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634)); kur₉(LIL)
 @form mu-na-ni-kur₉(REC145) /kur₉(REC145) #mu.na.ni:~
 @form i₃-ib₂-ku₄(KWU634)-ku₄(KWU634) /ku₄(REC145)-ku₄(REC145) #V.b:~
+@form u₃-mu-na-da-kur₉(LIL)-re /kur₉(LIL) +-re=r.e #u.mu.na.da:~;e
 @sense V/i to enter, be brought in
 @sense V/t to bring into
 @end entry
@@ -39,4 +64,16 @@
 @bases ri-b·a
 @form ri-ba-še₃ /ri-b·a #~;a,eše
 @sense V/i (to be) surpassing, outstanding
+@end entry
+
+@entry saŋŋasimug [smith] N
+@bases saŋŋa-simug(UMUM@s)
+@form saŋŋa-simug(UMUM@s)\ra /saŋŋa-simug(UMUM@s) #~,*ra
+@sense N chief smith
+@end entry
+
+@entry Aratta [1] GN
+@bases aratta(|LAM.KUR.RU|){ki}
+@form aratta(|LAM.KUR.RU|){ki} %sux /aratta(|LAM.KUR.RU|){ki} #~
+@sense GN 1
 @end entry
