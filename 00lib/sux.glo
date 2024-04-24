@@ -77,3 +77,9 @@
 @form aratta(|LAM.KUR.RU|){ki} %sux /aratta(|LAM.KUR.RU|){ki} #~
 @sense GN 1
 @end entry
+
+@entry Keš [1] SN
+@bases keš₃(|U.AN.HI×GAD|){ki}
+@form keš₃(|U.AN.HI×GAD|){ki} /keš₃(|U.AN.HI×GAD|){ki} #~
+@sense SN 1
+@end entry

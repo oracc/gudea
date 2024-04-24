@@ -1,5 +1,5 @@
 @project gudea
 @signlist corpus
 
-@images ogsl:00etc/im-gcsl.tab
+@images osl:00etc/im-gcsl.tab
 
