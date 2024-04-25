@@ -14130,8 +14130,8 @@ $ 1 line missing
 
 #etcsl: line-id=575
 
-11. e₂-a sa₂ 7 nam-mi-sig₁₀
-#lem: e[house]; sa[equal]; n; sig[put] +.
+11. e₂-a sa₂ imin nam-mi-sig₁₀
+#lem: e[house]; sa[equal]; imin[seven]; sig[put] +.
 
 #etcsl: line-id=576
 
@@ -14363,8 +14363,8 @@ $ 1 line missing
 
 #etcsl: line-id=620
 
-4. ud 7-kam-ma-ka e₂-e im-mi-dab₆
-#lem: ud[sun]; n\a; e[house]\l; dab[surround] +.
+4. ud imin-kam-ma-ka e₂-e im-mi-dab₆
+#lem: ud[sun]; X; e[house]\l; dab[surround] +.
 
 #etcsl: line-id=621
 
@@ -15184,8 +15184,8 @@ $ 1 line missing
 
 @column 29
 
-1. na 7 e₂-e dab₆-ba-bi
-#lem: na[stone]; n; e[house]\l; dab[surround]
+1. na imin e₂-e dab₆-ba-bi
+#lem: na[stone]; imin[seven]; e[house]\l; dab[surround]
 
 #etcsl: line-id=781
 
@@ -16164,8 +16164,10 @@ $ 1 line missing
 
 #etcsl: line-id=970
 
-12. šita₂ saŋ 7 šu du₈-a-da
-#lem: šita[weapon]; saŋ[head]; n\eL; šu[hand]; du[spread]
+12. šita₂ saŋ imin šu du₈-a-da
+#lem: šita[weapon]; saŋ[head]; imin[seven]; šu[hand]; du[spread]
+
+### add \eL on imin
 
 #etcsl: line-id=971
 
@@ -16653,8 +16655,8 @@ $ 1 line missing
 
 #etcsl: line-id=1065
 
-11. dumu maš 7 {d}ba-u₂-me
-#lem: dumu[child]; maš[twin]; n; Bau[1]DN\ak
+11. dumu maš imin {d}ba-u₂-me
+#lem: dumu[child]; maš[twin]; imin[seven]; Bau[1]DN\ak
 
 #etcsl: line-id=1066
 
@@ -16973,8 +16975,8 @@ $ 1 line missing
 
 #etcsl: line-id=1127
 
-21. šita₂ saŋ 7 tukul huš me₃
-#lem: šita[weapon]; saŋ[head]; n\ak; tukul[weapon]; huš[reddish]; me[battle]\ak
+21. šita₂ saŋ imin tukul huš me₃
+#lem: šita[weapon]; saŋ[head]; imin[seven]; tukul[weapon]; huš[reddish]; me[battle]\ak
 
 #etcsl: line-id=1128
 
