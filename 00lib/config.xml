@@ -8,6 +8,7 @@
   <type>corpus</type>
   <logo type="text">Gudea</logo>
   <option name="asl-auto" value="yes"/>
+  <option name="asl-font" value="gudea"/>
   <option name="asl-merge" value="00lib/gudea.mrg"/>
   <option name="asl-stats" value="yes"/>
   <option name="gvl-ivs" value="00lib/gudea.oiv"/>
