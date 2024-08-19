@@ -46,10 +46,10 @@
 @end entry
 
 @entry kur [enter] V/i
-@bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634)); kur₉(LIL)
+@bases kur₉(REC145) (kur₉(KWU634)); ku₄(REC145)-ku₄(REC145) (ku₄(KWU634)-ku₄(KWU634)); kurₓ(LIL)
 @form mu-na-ni-kur₉(REC145) /kur₉(REC145) #mu.na.ni:~
 @form i₃-ib₂-ku₄(KWU634)-ku₄(KWU634) /ku₄(REC145)-ku₄(REC145) #V.b:~
-@form u₃-mu-na-da-kur₉(LIL)-re /kur₉(LIL) +-re=r.e #u.mu.na.da:~;e
+@form u₃-mu-na-da-kurₓ(LIL)-re /kurₓ(LIL) +-re=r.e #u.mu.na.da:~;e
 @sense V/i to enter, be brought in
 @sense V/t to bring into
 @end entry
