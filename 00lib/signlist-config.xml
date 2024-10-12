@@ -1,0 +1,14 @@
+<project n="gudea/signlist" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <name>Gudea/Gudea Signlist</name>
+  <abbrev>Gudea/signlist</abbrev>
+  <project-type>user</project-type>
+  <type>signlist</type>
+  <logo type="text">gudea/signlist</logo>
+  <image>lak25.png</image>
+  <option name="asl-stats" value="yes"/>
+  <option name="asl-suxword" value="yes"/>
+  <option name="asl-font" value="gudea"/>
+  <blurb>Browsable/searchable version of Gudea corpus signlist</blurb>
+</project>
