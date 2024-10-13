@@ -1,5 +1,6 @@
 <wrapper xmlns:struct="http://oracc.org/ns/esp-struct/1.0">
   <struct:page file="signlist-x-sortorder.xml" id="sortorder" type="page"/>
   <struct:page file="signlist-x-csl-need.xml" id="csl-need" type="page"/>
+  <struct:page file="signlist-x-csl-miss.xml" id="csl-miss" type="page"/>
   <struct:page file="signlist-x-freq-table.xml" id="freq-table" type="page"/>
 </wrapper>
