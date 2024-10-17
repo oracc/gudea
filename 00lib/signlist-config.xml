@@ -9,6 +9,6 @@
   <image>lak25.png</image>
   <option name="asl-stats" value="yes"/>
   <option name="asl-suxword" value="yes"/>
-  <option name="asl-font" value="gudea"/>
+  <option name="asl-script" value="gudea"/>
   <blurb>Browsable/searchable version of Gudea corpus signlist</blurb>
 </project>
