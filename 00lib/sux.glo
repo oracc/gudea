@@ -15,8 +15,9 @@
 @end entry
 
 @entry dur [donkey] N
-@bases {anše}dur₉{+ur₃}
+@bases {anše}dur₉{+ur₃}; dur₃(|ANŠE.ARAD×KUR|)
 @form {anše}dur₉{+ur₃} /{anše}dur₉{+ur₃} #~
+@form dur₃(|ANŠE.ARAD×KUR|) /dur₃(|ANŠE.ARAD×KUR|) #~
 @sense N young male donkey
 @end entry
 
@@ -24,6 +25,12 @@
 @bases esir₂(|LAGAB×HAL|)
 @form esir₂(|LAGAB×HAL|) /esir₂(|LAGAB×HAL|) #~
 @sense N bitumen, pitch
+@end entry
+
+@entry Igalimak [1] DN
+@bases {d}ig-alim
+@form {d}ig-alim-ka-ke₄ /{d}ig-alim +-ka=k.a #~,.ak.e
+@sense DN 1
 @end entry
 
 @entry IGI.LAGAB×KUL [~bitumen] N
@@ -52,6 +59,12 @@
 @form u₃-mu-na-da-kurₓ(LIL)-re /kurₓ(LIL) +-re=r.e #u.mu.na.da:~;e
 @sense V/i to enter, be brought in
 @sense V/t to bring into
+@end entry
+
+@entry Lagaš [1] SN
+@bases lagašₓ(|LA.NU₁₁.BUR|){ki}
+@form lagašₓ(|LA.NU₁₁.BUR|){ki} /lagašₓ(|LA.NU₁₁.BUR|){ki} #~
+@sense SN 1
 @end entry
 
 @entry marza [rites] N
