@@ -1,0 +1,114 @@
+&Q001540 = Gudea Statue A [E3/1.01.07]
+@composite
+#project: gudea/statues
+#atf: use unicode
+#atf: use mylines
+#cfy: ccf gudea-statue.ccf
+#link: source cdli:P232274 = RIME 3/1.01.07, St A
+#@m=object shoulder
+
+#@surface arm
+
+1.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]SN\ake
+
+4.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+5.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+6.	in-du₃-a
+#lem: !du[build]\am +.
+
+#@m=object statue
+
+#@surface body
+
+@m column 1
+1.	{d}nin-hur-saŋ
+#lem: Ninhursaŋak[1]DN
+
+2.	nin iri-da mu₂-a
+#lem: nin[lady]; iri[city]; mu[grow]
+
+3.	ama dumu-dumu-ne
+#lem: ama[mother]; dumu[child]\ak
+
+4.	nin-a-ni
+#lem: nin[lady]\ra
+
+5.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}-ke₄
+#lem: Lagaš[1]SN
+
+8.	e₂ iri ŋir₂-su{ki}-ka-ni
+#lem: e[house]; iri[city]; Ŋirsu[1]SN
+
+9.	mu-na-du₃
+#lem: !du[build] +.
+
+@m column 2
+1.	dub-šen kug-ga-ni
+#lem: dubšen[chest]; kug[pure]
+
+2.	mu-na-dim₂
+#lem: dim[create] +.
+
+3.	{ŋeš}dur₂-ŋar mah nam-nin-ka-ni
+#lem: durŋar[chair]; mah[great]; namnin[ladyship]
+
+4.	mu-na-dim₂
+#lem: dim[create] +.
+
+5.	e₂ mah-ni-a mu-na-ni-kur₉
+#lem: e[house]; mah[great]\a; kur[bring] +.
+
+6.	kur ma₂-gan{ki}-ta
+#lem: kur[land]; Magan[1]GN
+
+@m column 3
+1.	{na₄}esi im-ta-ed₃
+#lem: esi[diorite]; ed[ascend\t] +.
+
+2.	alan-na-ni-še₃
+#lem: alan[statue]
+
+3.	mu-tud
+#lem: utud[bear] +.
+
+4.	nin an ki-a nam tar-re-de₃
+#lem: nin[lady]; (RRC an[sky]; ki[place]\a; nam[fate]; tar[cut] )
+
+5.	{d}nin-tur₅
+#lem: Nintur[1]DN
+
+6.	ama diŋir-re-ne-ke₄
+#lem: ama[mother]; diŋir[deity]
+
+7.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+@m column 4
+1.	lu₂ e₂ du₃-a-ka
+#lem: lu[person]; e[house]; !du[build]
+
+2.	nam-til₃-la-ni mu-sud
+#lem: namtil[life]; sud[distant] +.
+
+3.	mu-še₃ mu-na-še₂₁
+#lem: mu[name]; še[call] +.
+
+4.	e₂-a mu-na-ni-kur₉
+#lem: e[house]\a; kur[bring] +.

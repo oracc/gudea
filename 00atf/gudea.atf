@@ -6499,6 +6499,7 @@ $ broken
 #project: gudea
 #atf: use unicode
 #atf: use mylines
+#cfy: ccf gudea-statue.ccf
 #link: source cdli:P232274 = RIME 3/1.01.07, St A
 #@m=object shoulder
 
@@ -6766,10 +6767,10 @@ $ rest of column broken
 9.    sipad zid-še₃ kalam-ma ba-ni-pad₃-da-a
 #lem: sipad[shepherd]; zid[right]; kalam[land]; pad[find]\a
 
-10.    šag₄ lu₂ šar₂-gal-ta
+10.    šag₄ lu₂ šargalₓ(|ŠAR₂×U@g|)-ta
 #lem: šag[heart]; lu[person]; šargal[216000]
 
-#note: szar2xu-gunu (like kug); I do not know from where szar2-gal came in.
+#note: |ŠAR₂×U@g|; LAK827^c; |ŠAR₂×U| = 36,000; šargalₓ(|ŠAR₂×U@g|)=216000?
 
 11.    šu-ni ba-ta-an-dab₅-ba-a
 #lem: šu[hand]; dab[seize]\a
@@ -7576,7 +7577,7 @@ $ rest of column broken
 #lem: Ninhursaŋak[1]DN\eE
 
 47.    {d}en-ki dug₄-ga# zid-da-ke₄#
-#lem: Enki[Enki-god]DN; dug[speak]; zid[right]\eE
+#lem: Enki[1]DN; dug[speak]; zid[right]\eE
 
 48.    {d}suen mu-ni lu₂ nu-duh-de₃
 #lem: Suen[1]DN; mu[name]; lu[person]; duh[loosen]\eE

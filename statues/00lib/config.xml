@@ -1,12 +1,12 @@
-<project n="gudea" 
+<project n="gudea/statues" 
     xmlns="http://oracc.org/ns/xpd/1.0"
     xmlns:xpd="http://oracc.org/ns/xpd/1.0">
-  <title>Gudea Corpus</title>
-  <name>Gudea Corpus</name>
-  <abbrev>Gudea</abbrev>
+  <title>Gudea Statues</title>
+  <name>Gudea Statues</name>
+  <abbrev>Gudea Statues</abbrev>
   <project-type>user</project-type>
   <type>corpus</type>
-  <logo type="text">Gudea</logo>
+  <logo type="text">Gudea Statues</logo>
   <option name="asl-auto" value="yes"/>
   <!--<option name="asl-font" value="gudea"/>-->
   <!--<option name="asl-merge" value="00lib/gudea.mrg"/>-->
@@ -14,14 +14,14 @@
   <option name="asl-stats" value="yes"/>
   <option name="catalog-build-policy" value="custom"/>
   <option name="cbd-oid" value="yes"/>
-  <option name="cfy-key" value="cfy-gudea-ss01,ss02,cv01-150-middle-."/>
+  <option name="cfy-key" value="cfy-gudeamon-0-150-middle-."/>
   <option name="build-approved-policy" value="atf"/>
   <option name="outline-default-select" value="false"/>
   <option name="outline-default-sort-fields" value="period,ruler"/>
   <option name="outline-default-sort-labels" value="period,ruler"/>
   <option name="outline-default-catalog-fields" value="designation,primary_edition,distribution"/>
   <option name="outline-default-catalog-widths" value="25,35,35"/>
-  <option name="%sux" value=". epsd2 epsd2/names"/>
+  <option name="%sux" value=". gudea epsd2 epsd2/names"/>
   <option name="sum-alias" value="yes"/>
   <option name="fuzzy-alias" value="yes"/>
 </project>
