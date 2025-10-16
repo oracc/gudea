@@ -5,9 +5,12 @@
 #atf: use mylines
 #cfy: ccf gudea-statue.ccf
 #link: source cdli:P232274 = RIME 3/1.01.07, St A
-#@m=object shoulder
 
-#@surface arm
+@m=object statue
+
+@m=surface arm
+
+@h1 Inscription on Arm
 
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN
@@ -29,7 +32,9 @@
 
 #@m=object statue
 
-#@surface body
+@m=surface body
+
+@h1 Inscription on Body
 
 @m column 1
 1.	{d}nin-hur-saŋ
