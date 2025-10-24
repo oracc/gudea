@@ -2,5 +2,6 @@ cfy-key	cfy-gudeamon-0-200-middle-gudea
 cfy-format char-penult
 cfy-format ruled
 cfy-format boxed
-cfy-grid object auto
-cfy-grid surface auto
+cfy-grid surfaces auto
+cfy-grid columns auto
+cfy-ui no-CuneifyBar
