@@ -10,6 +10,8 @@
 
 @m=surface shoulder
 
+@h1 Shoulder
+
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN\eE
 
@@ -20,6 +22,8 @@
 #lem: Lagaš[1]SN\akam +.
 
 @m=surface body
+
+@h1 Back, upper panel
 
 @m column 1
 1.	{d}ba-u₂
@@ -83,7 +87,7 @@
 19.	nin-a-ne₂
 #lem: nin[lady]
 
-20.	šag₄ kug-ga-ne₂ ba-an-pad₃-da-a
+20.	šag₄ kug-ga-ne₂ ba;-an-pad₃-da-a
 #lem: šag[heart]; kug[pure]\l; pad[find]\a
 
 @m column 2
@@ -263,6 +267,8 @@
 #lem: gub[stand]
 
 @m=surface lower back
+
+@h1 Back, lower panel
 
 @m column 5
 
@@ -554,7 +560,8 @@ $ 1 line blank
 #lem: namtil[life]; ba[allot]
 
 3.	ud SAG DUH; i₃-du₃
-#lem: ud[day]; dug[speak]\a; !du[build]
+#lem: ud[day]; X; X; !du[build]
+### #lem: ud[day]; dug[speak]\a; !du[build]
 
 4.	mu-še₃ mu-na-še₂₁
 =:	mu-še₃ mu-na-HU;-NA₂
@@ -563,7 +570,7 @@ $ 1 line blank
 5.	e₂-a mu-na-ni;-kur₉(REC145)
 #lem: e[house]\a; kur[bring]
 
-6.	\>alan
+6.	\> alan
 #lem: alan[statue]
 
 7.	lu₂ e₂ {d}ba#-u₂

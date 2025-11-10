@@ -10,7 +10,8 @@
 
 @m=surface caption
 
-@m column 1
+@h1 Caption
+
 1.	{d}nin-ŋeš-zid-da
 #lem: Ninŋešzidak[1]DN\eE
 
@@ -30,6 +31,8 @@
 #lem: !du[build] +.
 
 @m=surface back
+
+@h1 Back
 
 @m column 1
 

@@ -57,6 +57,7 @@
 @form mu-na-ni-kur₉(REC145) /kur₉(REC145) #mu.na.ni:~
 @form i₃-ib₂-ku₄(KWU634)-ku₄(KWU634) /ku₄(REC145)-ku₄(REC145) #V.b:~
 @form u₃-mu-na-da-kurₓ(LIL)-re /kurₓ(LIL) +-re=r.e #u.mu.na.da:~;e
+@form mu-na-da-ku₄(REC145)-ku₄(REC145) /ku₄(REC145)-ku₄(REC145) #mu.na.da:~;e
 @sense V/i to enter, be brought in
 @sense V/t to bring into
 @end entry
@@ -77,6 +78,12 @@
 @bases ri-b·a
 @form ri-ba-še₃ /ri-b·a #~;a,eše
 @sense V/i (to be) surpassing, outstanding
+@end entry
+
+@entry rig [donate] V/t
+@bases rigₓ(|PA.TUK.DU|)
+@form im-mi-rigₓ(|PA.TUK.DU|) /rigₓ(|PA.TUK.DU|) #Vmma.i:~
+@sense V/t to donate
 @end entry
 
 @entry saŋŋasimug [smith] N

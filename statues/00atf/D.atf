@@ -9,6 +9,9 @@
 @m=object statue
 
 @m=surface shoulder
+
+@h1 Shoulder
+
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN\eE
 
@@ -19,7 +22,9 @@
 #lem: Lagaš[1]SN\akam +.
 
 
-@m=surface front
+@m=surface Body
+
+@h1 Body
 
 @m column 1
 1.	{d}nin-ŋir₂-su
