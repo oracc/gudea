@@ -1,0 +1,585 @@
+&Q001544 = Gudea Statue E [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#cfy: ccf gudea-statue.ccf
+#link: source cdli:P232278 = RIME 3/1, p. 042, E3/1.01.07, St E
+
+@m=object shoulder
+
+@m=surface shoulder
+
+1.	gu₃-de₂-a
+#lem: Gudea[1]RN\eE
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]SN\akam +.
+
+@m=surface body
+
+@m column 1
+1.	{d}ba-u₂
+#lem: Bau[1]DN
+
+2.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu an-na
+#lem: dumu[child]; An[1]DN
+
+4.	nin iri-kug-ga
+#lem: nin[lady]; Irikug[1]SN
+
+5.	nin he₂-ŋal₂
+#lem: nin[lady]; heŋal[plenty]\ak
+
+6.	nin ŋir₂-su{ki}-a; nam tar-re
+#lem: nin[lady]; Ŋirsu[1]SN\a; nam[fate]; tar[cut]
+
+7.	nin di-kud iri-na
+#lem: nin[lady]; dikud[judge]; iri[city]
+
+8.	nin saŋ-e ki aŋ₂
+#lem: nin[lady]; saŋ[head]; ki[place]; aŋ[measure]\n
+
+# #~;*a
+
+## saj\l ?
+
+9.	nin niŋ₂ u₂-gu₃ de₂-a
+#lem: nin[lady]; niŋ[thing]; ugu[cvne]; de[pour]\ak
+
+10.	nin-a-ni
+#lem: nin[lady]\ra
+
+11.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+12.	ensi₂
+#lem: ensik[ruler]
+
+13.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+14.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+15.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+16.	e₂-ŋidru e₂ ub imin
+#lem: Eŋidruk[1]TN; e[house]; ub[corner]; imin[seven]
+
+17.	mu-du₃-a
+#lem: !du[build]\eE
+
+18.	ud {d}ba-u₂
+#lem: ud[day]; Bau[1]DN
+
+19.	nin-a-ne₂
+#lem: nin[lady]
+
+20.	šag₄ kug-ga-ne₂ ba-an-pad₃-da-a
+#lem: šag[heart]; kug[pure]\l; pad[find]\a
+
+@m column 2
+1.	arad₂ ni₂-tuku
+#lem: arad[slave]; nituku[pious]
+
+2.	nin-a-na-kam
+#lem: nin[lady] +.
+
+3.	nam-mah nin-a-na
+#lem: nammah[greatness]; nin[lady]
+
+4.	mu-zu-zu
+#lem: zu[know]#mu:~ +.
+
+5.	bi₃-lu₅-da
+#lem: biluda[rituals]
+
+6.	{d}ba-u₂
+#lem: Bau[1]DN
+
+7.	nin-a-na-še₃
+#lem: nin[lady]
+
+8.	en₃ im-ma-ši-tar
+#lem: en[cvne]; tar[cut]
+
+9.	niŋ₂ e₂-ninnu
+#lem: niŋ[thing]; Eninnu[1]TN
+
+10.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+11.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+12.	lugal-a-ni
+#lem: lugal[king]\ra
+
+13.	mu-na-du₃-a-gin₇
+#lem: !du[build]
+
+14.	ud {d}ba-u₂
+#lem: ud[day]; Bau[1]DN
+
+15.	dumu an-na
+#lem: dumu[child]; An[1]DN
+
+16.	nin iri-kug-ga
+#lem: nin[lady]; Irikug[1]SN
+
+17.	nin-a-ni
+#lem: nin[lady]\ra
+
+18.	e₂-tar-sir₂-sir₂
+#lem: Etarsirsir[1]TN
+
+19.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+20.	mu-na-du₃-a
+#lem: !du[build]
+
+21.	iri mu-kug
+#lem: iri[city]; kug[pure] +.
+
+22.	izi im-ma-ta-la₂
+#lem: izi[fire]; la[hang] +.
+
+@m column 3
+1.	bisaŋ {ŋeš}u₃-šub-ba-ka
+#lem: bisaŋ[frame]; ušub[brick-mold]\a
+
+2.	ŋeš ba-hur
+#lem: ŋeš[tree]; hur[scratch]
+
+3.	ka-al-ka
+#lem: kalak[trench]\a
+
+4.	{ŋeš}urin ba-mul
+#lem: urin[standard]; mul[star//to shine]N'V/t +.
+
+5.	im-bi ki dadag-<ga-a>
+#lem: im[clay]; ki[place]; dadag[bright]\a
+
+6.	im-mi-lu 
+#lem: lu[mix] +.
+
+7.	šeg₁₂-bi ki sikil-a
+#lem: šeg[brick]; ki[place]; sikil[pure]\a
+
+8.	im-mi-du₈
+#lem: du[spread] +.
+
+9.	šeg₁₂ {ŋeš}<u₃>-šub-ba i₃-ŋar
+#lem: šeg[brick]; ušub[brick-mold]\a; ŋar[place]
+
+10.	niŋ₂-du₇-<e> pa bi₂;-e₃
+#lem: niŋdu[appropriate thing]\l; pa[branch]; e[go out]
+
+11.	uš-bi mu-kug
+#lem: uš[foundation]; kug[pure]
+
+12.	izi im-ta-la₂
+#lem: izi[fire]; la[hang]
+
+13.	temen-be₂
+#lem: temen[foundation]\l
+
+14.	i₃ ir nun-ka
+#lem: i[oil]; ir[scent]; nun[prince]\a
+
+15.	šu tag ba-ni;-dug₄
+#lem: šu[hand]; tag[touch]; dug[speak]
+
+16.	{d}ba-u₂
+#lem: Bau[1]DN
+
+17.	nin-a-ni
+#lem: nin[lady]
+
+18.	nin iri-kug-ge
+#lem: nin[lady]; Irikug[1]SN\l
+
+19.	ni₂ si-am₃
+#lem: ni[fear]; si[fill]\ra
+
+20.	iri-kug-ga
+#lem: Irikug[1]SN\a
+
+@m column 4
+1.	ki dadag-ga-a
+#lem: ki[place]; dadag[bright]\a
+
+2.	e₂ mu-na-du₃
+#lem: e[house]; !du[build]
+
+3.	{ŋeš}dur₂-ŋar mah
+#lem: durŋar[chair]; mah[great]
+
+4.	nam-nin-ka-ni
+#lem: namnin[ladyship]
+
+5.	mu-na-dim₂
+#lem: dim[create]
+
+6.	ki di kud-na
+#lem: ki[place]; did[lawsuit]; kud[cut]\a
+
+7.	mu-na-gub
+#lem: gub[stand]
+
+8.	dub-šen kug-ga-ni
+#lem: dubšen[chest]; kug[pure]
+
+9.	mu-na-dim₂
+#lem: dim[create]
+
+10.	e₂!(KISAL) mah-<<a>>-e
+#lem: e[house]; mah[great]\l
+
+11.	mu-na-ni-kur₉(REC145)
+#lem: kur[bring]
+
+12.	balaŋ nin an-da; gal-di
+#lem: balaŋ[drum]; nin[lady]; An[1]DN; galdi[exalted]
+
+# SJT: collation indicates previous correction of di!(KI) to be incorrect; inscription has DI.
+
+13.	mu-na-dim₂
+#lem: dim[create]
+
+14.	kisal mah-na
+#lem: kisal[courtyard]; mah[great]\a
+
+15.	mu-na-ni-gub
+#lem: gub[stand]
+
+@m=surface lower back
+
+@m column 5
+
+$ (Blank space four lines high.)
+
+1.	ud zag-mu
+#lem: ud[day]; zagmuk[new year]\ak
+
+2.	ezen {d}ba-u₂
+#lem: ezem[festival]; Bau[1]DN
+
+3.	niŋ₂-mussa ak-da
+#lem: niŋmussa[gift]; ak[do]
+
+4.	1(aš) gud niga
+#lem: n; gud[ox]; niga[fattened]
+
+5.	1(aš) udu i₃
+#lem: n; udu[sheep]; i[oil]
+
+6.	3(aš) udu niga
+#lem: n; udu[sheep]; niga[fattened]
+
+7.	6(aš) udu nita
+#lem: n; udu[sheep]; nita[male]
+
+8.	2(aš) sila₄
+#lem: n; sila[lamb]
+
+9.	7(aš) kurum₆ zu₂-lum
+#lem: n; kurum[ration]; zulum[date]
+
+10.	7(aš) sab i₃-nun
+#lem: n; sab[jar]; inun[ghee]
+
+11.	7(aš) šag₄ ŋešnimbar
+#lem: n; šag[heart]; ŋešnimbar[palm]
+
+12.	7(aš) <is>-hu {ŋeš}peš₃
+#lem: n; ishu[string?]; peš[fig]
+
+13.	7(aš) ŋiri₃-lam
+#lem: n; ŋirlam[basket]
+
+14.	1(aš) ti₈-uz
+#lem: n; tiʾuz[bird]
+
+15.	7(aš) gambi(|SAL.UŠ.DI.KID|){mušen}
+#lem: n; gambi[crane]
+
+16.	1(u@c) 5(aš) kur-gi₁₆{mušen}
+#lem: n; n; kurgi[goose]
+
+17.	1(geš₂) mušen di₄-di₄
+#lem: n; mušen[bird]; didila[smaller]
+
+18.	is-hu-bi 1(u@c) 5(aš)
+#lem: ishu[string?]; n; n
+
+19.	1(geš₂) TUN₃-KU₆-SUHUR-a
+#lem: n; suhurtunbar[fish]
+
+20.	is-hu-bi 3(u@c)
+#lem: ishu[string?]; n
+
+21.	4(u@c) gun₂ lu{sar}
+#lem: n; gun[load]; lub[turnip]
+
+22.	7(aš) gun₂ enₓ(|NE.GI|)-bar
+#lem: n; gun[load]; enbar[reed]
+
+@m column 6
+1.	1(geš₂) gun₂ {ŋeš}ma-nu
+#lem: n; gun[load]; manu[wood]
+
+2.	niŋ₂-mussa {d}ba-u₂
+#lem: niŋmussa[gift]; Bau[1]DN
+
+3.	e₂ libir!(|IGI.ŠE₃|)
+#lem: e[house]; libir[old]\ak
+
+4.	ud-bi-ta-kam
+#lem: udbita[former]
+
+5.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}-ke₄
+#lem: Lagaš[1]SN
+
+8.	ud {d}nin-ŋir₂-su
+#lem: ud[day]; Ninŋirsuk[1]DN
+
+9.	lugal-a-ni
+#lem: lugal[king]\ra
+
+10.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+11.	e₂-ninnu
+#lem: Eninnu[1]TN
+
+12.	mu-na-du₃-a
+#lem: !du[build]\a
+
+13.	{d}ba-u₂
+#lem: Bau[1]DN
+
+14.	nin-a-ni
+#lem: nin[lady]\ra
+
+15.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+16.	e₂-tar-sir₂-sir₂
+#lem: Etarsirsir[1]TN
+
+17.	mu-na-du₃-a
+#lem: !du[build]\a
+
+$ 1 line blank
+
+19.	2(aš) gud niga
+#lem: n; gud[ox]; niga[fattened]
+
+20.	2(aš) udu i₃
+#lem: n; udu[sheep]; i[oil]
+
+21.	1(u@c) udu niga
+#lem: n; udu[sheep]; niga[fattened]
+
+22.	2(aš) sila₄
+#lem: n; sila[lamb]
+
+23.	7(aš) kurum₆ zu₂-lum
+#lem: n; kurum[ration]; zulum[date]
+
+24.	7(aš) sab i₃-nun
+#lem: n; sab[jar]; inun[ghee]
+
+25.	7(aš) šag₄ ŋešnimbar
+#lem: n; šag[heart]; ŋešnimbar[palm]
+
+26.	7(aš) <is>-hu {ŋeš}peš₃
+#lem: n; ishu[string?]; peš[fig]
+
+@m column 7
+1.	7(aš) giri₃-lam
+#lem: n; ŋirlam[basket]
+
+2.	1(u@c) 4(aš) a₂-an zu₂-lum
+#lem: n; n; aʾan[spadix]; zulum[date]
+
+3.	1(u@c) 4(aš) ukuš₂ dusu
+#lem: n; n; ukuš[cucumber]; dupsik[basket]
+
+4.	1(aš) ti₈-uz
+#lem: n; tiʾuz[bird]
+
+5.	7(aš) gambi(|SAL.UŠ.DI.KID|){mušen}
+#lem: n; gambi[crane]
+
+6.	1(u@c) 5(aš) kur-gi₁₆{mušen}
+#lem: n; n; kurgi[goose]
+
+7.	7(aš) i-zi{mušen}
+#lem: n; ezi[bird]
+
+8.	1(geš₂) mušen di₄-di₄
+#lem: n; mušen[bird]; didila[smaller]
+
+9.	is-hu-bi 1(u@c) 5(aš)
+#lem: ishu[string?]; n; n
+
+10.	1(geš₂) TUN₃-KU₆-SUHUR-a
+#lem: n; suhurtunbar[fish]
+
+11.	is-hu-bi 3(u@c)
+#lem: ishu[string?]; n
+
+12.	4(u@c) gun₂ lu{sar}
+#lem: n; gun[load]; lub[turnip]
+
+13.	7(aš) gun₂ enₓ(|NE.GI|)-bar
+#lem: n; gun[load]; enbar[reed]
+
+14.	1(geš₂) gun₂ {ŋeš}ma-nu
+#lem: n; gun[load]; manu[wood]
+
+15.	niŋ₂-mussa {d}ba-u₂
+#lem: niŋmussa[gift]; Bau[1]DN
+
+16.	e₂ gibil
+#lem: e[house]; gibil[new]\ak
+
+17.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+18.	ensi₂
+#lem: ensik[ruler]
+
+19.	lagaš{ki}-a
+#lem: Lagaš[1]SN
+
+20.	lu₂ e₂ du₃!-a;-ke₄
+#lem: lu[person]; e[house]; !du[build]
+
+21.	ba-an-dah-ha-am₃
+#lem: tah[add]
+
+22.	e₂ {d}ba-u₂
+#lem: e[house]; Bau[1]DN
+
+23.	ki-be₂ gi₄-a-da
+#lem: ki[place]\l; gi[turn]
+
+24.	he₂-ŋal₂-bi
+#lem: heŋal[plenty]
+
+@m column 8
+1.	pa e₃ ak-da
+#lem: pa[branch]; e[go out]; ak[do]\da
+
+2.	{ŋeš}dur₂-ŋar lagaš;{ki}-ka
+#lem: durŋar[chair]; Lagaš[1]SN
+
+3.	suhuš-bi gi-na;-da
+#lem: suhuš[foundation]; gin[establish]
+
+4.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}-ka
+#lem: Lagaš[1]SN
+
+7.	ŋidru inim gi-na
+#lem: ŋidru[scepter]; inim[word]; gin[establish]\ak
+
+8.	šu-na ŋal₂-la-da
+#lem: šu[hand]; !ŋal[be]
+
+9.	nam-til₃-la-na
+#lem: namtil[life]
+
+10.	ud-bi sud-a;-da
+#lem: ud[day]; sud[distant]
+
+11.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+12.	{d}nin-ŋeš-zid;-da
+#lem: Ningišzida[1]DN
+
+13.	{d}ba-u₂
+#lem: Bau[1]DN
+
+14.	e₂ iri-kug-ga-<ka>-na
+#lem: e[house]; Irikug[1]SN\a
+
+15.	mu-na-da-ku₄(REC145);-ku₄(REC145)
+#lem: kur[enter]
+
+16.	šag₄ mu-ba#-ka
+#lem: šag[heart]; mu[year]\a
+
+17.	kur ma₂-gan{ki}-ta
+#lem: kur[land]; Magan[1]GN
+
+18.	{na₄}esi im-ta-ed₃
+#lem: esi[diorite]; ed[ascend\t]
+
+19.	alan-na-še₃
+#lem: alan[statue]
+
+20.	mu-tud
+#lem: utud[bear]
+
+@m column 9
+1.	nin-ŋu₁₀ ba-zig₃;-ge
+#lem: nin[lady]; zig[rise]
+
+2.	nam-til₃ ba#
+#lem: namtil[life]; ba[allot]
+
+3.	ud SAG DUH; i₃-du₃
+#lem: ud[day]; dug[speak]\a; !du[build]
+
+4.	mu-še₃ mu-na-še₂₁
+=:	mu-še₃ mu-na-HU;-NA₂
+#lem: mu[name]; še[call]
+
+5.	e₂-a mu-na-ni;-kur₉(REC145)
+#lem: e[house]\a; kur[bring]
+
+6.	\>alan
+#lem: alan[statue]
+
+7.	lu₂ e₂ {d}ba#-u₂
+#lem: lu[person]; e[house]; Bau[1]DN
+
+8.	mu-du₃-a-kam
+#lem: !du[build] -.
+
+9.	ki-gub-ba-bi
+#lem: kigub[station]
+
+10.	lu₂ nu-zi;-zi
+#lem: lu[person]; zig[rise]
+
+11.	sa₂-dug₄-bi
+#lem: sadug[offerings]
+
+12.	lu₂ la-ba;-ni-lal-e
+#lem: lu[person]; lal[small]
