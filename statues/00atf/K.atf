@@ -1,0 +1,117 @@
+&Q001549 = Gudea Statue K [E3/1.1.7]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232283 = RIME 3/1, p. 053, E3/1.1.7, St K
+#@m=object statue
+@m column 1
+$ broken
+1'.	[...] x# [...] x#
+#lem: u; u; u; u
+
+2'.	[...] x# AN
+#lem: u; u; u
+
+@m column 2
+$ broken
+1.	[...] x# [...] x#
+#lem: u; u; u; u +.
+
+2.	[kur ma₂-gan]{ki}-ta
+#lem: kur[land]; Magan[1]GN
+
+3.	[{na₄}]esi# im-[ta]-ed₃#
+#lem: esi[diorite]; ed[ascend\t] +.
+
+4.	alan#-na-ni-še₃
+#lem: alan[statue]
+
+5.	[mu]-tud
+#lem: utud[bear] +.
+
+6.	[arad₂] lugal-ne₂
+#lem: arad[slave]; lugal[king]
+
+7.	[ki] aŋ₂-me
+#lem: ki[place]; aŋ[measure]
+
+8.	[nam]-til₃-ŋu₁₀ he₂-sud
+#lem: namtil[life]; sud[distant]
+
+9.	mu#-še₃ mu-na-še₂₁
+#lem: mu[name]; še[call] +.
+
+10.	e₂-ninnu-a mu-na-ni-kur₉
+#lem: Eninnu[1]TN\a; kur[enter] +.
+
+@m column 3
+1.	lu₂ mu-sar-bi
+#lem: lu[person]; musara[inscription]
+
+2.	[šu ib₂?]-ta-ab-[ur₃-a]
+#lem: šu[hand]; ur[drag]
+
+$ about 2 lines broken
+
+5.	[x-zi]-zi#-a
+#lem: zig[rise]#x:~;a/zi-zi
+
+6.	[1(aš)] sila₃# zi₃-dub-dub
+#lem: n; sila[unit]; ziddubdub[flour heap]
+
+7.	1(aš) sila₃ niŋ₂-ar₃-ra imŋaŋa₃
+#lem: n; sila[unit]; niŋara[groats]; imŋaŋa[emmer]
+
+8.	sa₂-dug₄-bi
+#lem: sadug[offerings]
+
+9.	ba-ni-ib₂-lal-a
+#lem: lal[small]\ak
+
+10.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+11.	lugal {ŋeš}tukul-ke₄
+#lem: lugal[king]; tukul[weapon]
+
+12.	{d}ba-u₂
+#lem: Bau[1]DN
+
+13.	dumu an-na-ke₄
+#lem: dumu[child]; An[1]DN
+
+14.	{d}ig-alim
+#lem: Igalimak[1]DN
+
+15.	{d}šul-šag₄-ga-na
+#lem: Šulšaganak[1]DN
+
+16.	dumu ki aŋ₂
+#lem: dumu[child]; ki[place]; aŋ[measure]
+
+17.	{d}nin-ŋir₂-su-ka-ke₄-ne
+#lem: Ninŋirsuk[1]DN\eE
+
+18.	suhuš-a-ni he₂-burₓ(|KA×ŠU|)-re-ne
+#lem: suhuš[foundation]; bur[tear] +.
+
+19.	numun-a-ni he₂-til-ne
+#lem: numun[seed]; til[complete] +.
+
+@translation unitary en project
+@unit 1
+@span i 1' - ii 1
+....
+
+@unit 2
+@span ii 2 - ii 10
+He transported diorite from the mountains of Magan, fashioned his statue from it, named it for her his sake “As I am ... loved by his master, may my life be prolonged!”, and brought it before him into the E-ninnu. 
+
+@unit 3
+@span iii 1 - iii 19
+Whoever erases its inscription, removes ..., or curtails its regular offering, (which is now) 1 @sila of flour (and) 1 @sila of groats of husked emmer, may Ninŋirsu, the king of the weapons, Bau, the child of An, and Ig-alim and Šulšagana, the beloved children of Ninŋirsu, uproot him, (and) put an end to his lineage!
+
+
+
+

@@ -1,0 +1,109 @@
+&Q001556 = Gudea Statue R [E3/1.01.07]
+@composite
+#project: gudea
+#key: after http://oracc.org/etcsri/Q001556
+#atf: use unicode
+#link: source cdli:P232290 = RIME 3/1, p. 059, E3/1.01.07, St R
+#@m=locator object statue
+@m column 1
+1.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]
+
+4.	sipad zid inim gen₆-na
+#lem: sipad[shepherd]; zid[right]; inim[word]; gin[establish]
+
+5.	{d}nin-ŋir₂-su-ka-ke₄
+#lem: Ninŋirsuk[1]DN
+
+6.	lu₂ bi₃-lu₅-da diŋir-re-ne-ke₄
+#lem: lu[person]; biluda[rituals]; diŋir[deity]
+
+7.	si bi₂-sa₂-sa₂-a
+#lem: si[horn]; sa[equal]
+
+8.	ud# e₂-ninnu
+#lem: ud[day]; Eninnu[1]TN
+
+9.	[{d}]nin#-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+@m column 2
+1.	in-du₃-a-ta
+#lem: du[build]
+
+2.	nam-ha-ni gala-mah
+#lem: Nammahni[1]PN; galamah[singer]
+
+3.	<e₂>-munus-gil-sa!(E₂)-ka-ra
+#lem: Emunusgilsak[1]TN
+
+4.	kug-babbar zabar
+#lem: kugbabbar[silver]; zabar[bronze]
+
+5.	dupsik sahar-ra
+#lem: dupsik[basket]; sahar[dust]
+
+6.	u₃ niŋ₂ en-na ŋal₂-la-aš
+#lem: u[and]; niŋ[thing]; enna[until]; ŋal[be]
+
+7.	e₂-a-na lu₂ nu-ku₄(REC145)-ku₄(REC145)-de₃
+#lem: e[house]; lu[person]; kur[enter]
+
+8.	ama-ar-gi₄-bi mu-na#-[ŋar]
+#lem: amargi[reversion]; ŋar[place] +.
+
+9.	mu-bi-a 6(bur₃) NE@s E GABA ašag
+#lem: mu[year]; n; u; u; u; ašag[field]
+
+10.	inim mu-na-gen₆
+#lem: inim[word]; gin[establish] +.
+
+@m column 3
+$	1 line missing
+
+2.	[...] x# x# x# x# x#
+#lem: u; u; u; u; u; u
+
+3.	NI [...] x#
+#lem: u; u; u
+
+4.	TUR [...] UR# [...]
+#lem: u; u; u; u
+
+5.	MU# [...]
+#lem: u; u
+
+6.	MU# [...]
+#lem: u; u
+
+$	1 line missing
+
+@m column 4
+$	1 line missing 
+2.	[...] x# x# x#
+#lem: u; u; u; u
+
+3.	e₂#?-munus#-gil#-sa#-ka#
+#lem: Emunusgilsak[1]TN
+
+4.	<ud> dug₄-gaba mu#-[na]-ni-gub#
+#lem: ud[day]; X; gub[stand] +.
+
+5.	alan#-ba#
+#lem: alan[statue]
+
+6.	gu₃#-de₂-a ma-ba?#
+#lem: Gudea[1]RN; ba[allot] +.
+
+7.	mu#-bi
+#lem: mu[name]
+
+
+
+

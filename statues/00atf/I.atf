@@ -1,0 +1,187 @@
+&Q001548 = Gudea Statue I [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232282 = RIME 3/1, p. 051, E3/1.01.07, St I
+#@m=object statue
+#https://www.metmuseum.org/art/collection/search/329072
+@m column 1
+1.	ud {d}nin-ŋir₂-su
+#lem: ud[day]; Ninŋirsuk[1]DN
+
+2.	ur-saŋ kalag-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ke₄
+#lem: Enlil[1]DN
+
+4.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+5.	dumu {d}nin-a-zu
+#lem: dumu[child]; Ninazu[1]DN
+
+6.	ki aŋ₂ diŋir-re-ne-ra
+#lem: ki[place]; aŋ[measure]; diŋir[deity]
+
+7.	iri-a ki-ur₃
+#lem: iri[city]\a; kiʾur[foundation]
+
+8.	  mu-na-ni-ŋar-a
+#lem: ŋar[place]\a
+
+@m column 2
+1.	ašag-ga gana₂ id₂
+#lem: ašag[field]; gana[field]; id[river]
+
+2.	mu-na-ni-ŋar-a
+#lem: ŋar[place]\a
+
+3.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+6.	lu₂ si-sa₂
+#lem: lu[person]; sisa[fair]
+
+7.	diŋir-ra-ne₂
+#lem: diŋir[deity]
+
+8.	ki aŋ₂-e
+#lem: ki[place]; aŋ[measure]
+
+9.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+10.	lugal-a-ni
+#lem: lugal[king]\ra
+
+11.	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+12.	e₂-ŋidru e₂ ub imin-na-ni
+#lem: Eŋidruk[1]TN; e[house]; ub[corner]; imin[seven]
+
+13.	mu-na-du₃!(NI)-a
+#lem: !du[build]\a
+
+14.	{d}nanše
+#lem: Nanše[1]DN
+
+15.	nin uru₁₆
+#lem: nin[lady]; urun[exalted]
+
+16.	nin-a-ni
+#lem: nin[lady]\ra
+
+@m column 3
+1.	e₂-sirara₆
+#lem: Esirara[1]TN
+
+2.	kur e₂-ta il₂-la-ni
+#lem: kur[mountain(s)]; e[house]; il[raise]
+
+3.	mu-na-du₃
+#lem: !du[build] +.
+
+4.	diŋir gal-gal lagaš{ki}-ke₄-ne
+#lem: diŋir[deity]; gal[big]; Lagaš[1]SN\ra
+
+5.	e₂-ne-ne
+#lem: e[house]
+
+6.	mu-ne-du₃
+#lem: !du[build] +.
+
+7.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+8.	diŋir-ra-ni
+#lem: diŋir[deity]\ra
+
+9.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]SN
+
+10.	mu-na-du₃
+#lem: !du[build] +.
+
+11.	lu₂ diŋir-ŋu₁₀-gin₇
+#lem: lu[person]; diŋir[deity]
+
+12.	{d}nin-ŋir₂-su-ke₄
+#lem: Ninŋirsuk[1]DN
+
+13.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+@m column 4
+1.	uŋ₃-ŋa₂ gu₃ u₃-mu-na-ni-de₂-a
+#lem: uŋ[people]\a; gu[voice]; de[pour]\eE
+
+2.	e₂ diŋir-ŋa₂-ke₄
+#lem: e[house]; diŋir[deity]\l
+
+3.	igi X-la
+#lem: igi[eye]; u
+
+4.	na-ab-ak-ke₄
+#lem: ak[do] +.
+
+5.	mu-bi he₂-pad₃-de₃
+#lem: mu[name]; pad[name] +.
+
+6.	lu₂-bi gu₅-li-ŋu₁₀ he₂-am₃
+#lem: lu[person]; guli[friend]; me[be] +.
+
+7. 	mu-ŋu₁₀ he₂-pad₃-de₃
+#lem: mu[name]; pad[name] +.
+
+@m column 5
+1.	alan-na-e
+#lem: alan[statue]\l
+
+2.	mu-tud
+#lem: utud[bear] +.
+
+3.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+# sjt -- fixed de3 to de2 without collating
+
+4.	lu₂ e₂ du₃-a-ka
+#lem: lu[person]; e[house]; !du[build]
+
+5.	nam-ti-il!
+#lem: namtil[life]
+
+6.	mu-na-šum₂
+#lem: šum[give]
+
+7.	mu-še₃ mu-na-še₂₁
+#lem: mu[name]; še[call] +.
+
+8.	e₂-a mu-na-ni-kur₉
+#lem: e[house]\a; kur[bring] +.
+
+@translation unitary en project
+@unit 1
+@span i 1 - iii 10
+When Ninŋirsu, the powerful warrior of Enlil, had established a dwelling in the city and established fields and canals on the agricultural land for Ninŋešzida, child of Ninazu, the beloved of the gods, (and when) for Ninŋirsu, his master, Gudea, ruler of Lagaš, the just person who is loved by his personal god, had built his E-ninnu-anzud-babbar and the E-ŋidru, his temple of seven niches, then for Nanše, the mighty lady, his lady, he built her E-sirara, the mountain rising from among the houses, for the great gods of Lagaš, he built their temples, (and) for Ninŋešzida, his personal god, he built his temple in Ŋirsu.
+
+@unit 2
+@span iii 11 - iv 7
+The person whose personal god, just like my personal god, will have been addressed by Ninŋirsu in the crowd should not @?take exception?@ to the temple of my personal god, may he rather regard it with respect! May this person be my friend, (and) preserve my memory!
+
+@unit 3
+@span v 1 - v 8
+(Gudea) fashioned his (own) statue, named it for his sake "(Ninŋešzida) granted well-being to Gudea, the temple-builder”, and brought it before him into the temple.
+
+
+
+

@@ -1,0 +1,29 @@
+&Q001562 = Gudea Statue X [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232296 = RIME 3/1, p. 065, E3/1.01.07, St X
+#@m=object statue
+
+1.	[{d}meš₃-lam]-ta#-[e₃]-a
+#lem: Meslamtaea[1]DN
+
+2.	[lugal-a]-ni#
+#lem: lugal[king]\ra
+
+3.	[gu₃]-de₂#-a
+#lem: Gudea[1]RN
+
+4.	ensi₂#
+#lem: ensik[ruler]
+
+$	broken
+
+@translation unitary en project
+@unit 1
+@span 1 - 4
+For Meslamta-ea, his master, Gudea, ruler ….
+
+
+

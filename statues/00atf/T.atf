@@ -1,0 +1,50 @@
+&Q001558 = Gudea Statue T [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232292 = RIME 3/1, p. 061, E3/1.01.07, St T
+#@m=object statue
+@m column 1'
+1.	{d}nisaba
+#lem: Nisabak[1]DN
+
+2.	nin ŋeštug₂
+#lem: nin[lady]; ŋeštug[ear]
+
+3.	nin# [...]
+#lem: nin[lady]; u
+
+$ rest of column broken
+
+@m column 2'
+
+$	broken
+
+1'.	ma₂#-gid₂
+#lem: magid[boat-tower]
+
+2'.	{d}en-lil₂-ke₄
+#lem: Enlil[1]DN
+
+3'.	alan-na-ni mu-tud
+#lem: alan[statue]; utud[bear]
+
+4'.	nam-til₃-la-ni-še₃
+#lem: namtil[life]
+
+5'.	e₂-a# mu#-na-ni-gub
+#lem: e[house]\a; gub[stand]
+
+@translation unitary en project
+@unit 1
+@span i 1 - i 3
+For Nisaba, lady of wisdom, … lady ….
+
+@unit 2
+@span ii 1' - ii 5'
+…, the boat-tower of Enlil, fashioned his (own) statue, (and) set it up in the temple before her for his well-being.
+
+
+
+

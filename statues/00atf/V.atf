@@ -1,0 +1,23 @@
+&Q001560 = Gudea Statue V [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232294 = RIME 3/1, p. 063, E3/1.01.07, St V
+#@m=object statue
+
+@m column 1
+1.	[...] x#
+#lem: u; u
+
+$ rest of column broken
+
+@m column 2
+1.	[...] x#
+#lem: u; u
+
+$ rest of column broken
+
+
+
+

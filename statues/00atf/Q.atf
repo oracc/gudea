@@ -1,0 +1,59 @@
+&Q001555 = Gudea Statue Q [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232289 = RIME 3/1, p. 058, E3/1.01.07, St Q
+#@m=object statue
+@m column 1
+1.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+2.	diŋir-ra-ni
+#lem: diŋir[deity]\ra
+
+3.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+6.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+7.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+@m column 2
+1.	in-du₃-a
+#lem: !du[build]\eE
+
+2.	alan-na-ni
+#lem: alan[statue]
+
+3.	mu-tud
+#lem: utud[bear] +.
+
+4.	e₂ mu-ni-tum₂
+#lem: e[house]; tum[suitable]
+
+5.	mu-še₃ mu-na-še₂₁ 
+#lem: mu[name]; še[call] +.
+
+6.	e₂-a-ni-a
+#lem: e[house]\a
+
+7.	mu-na-ni-kur₉(REC145)
+#lem: kur[bring] +.
+
+@translation unitary en project
+@unit 1
+@span  i 1 - ii 7
+For Ninŋešzida, his personal god, Gudea, ruler of Lagaš, the builder of Ninŋirsu's E-ninnu, fashioned his (own) statue, named it for his sake "(Gudea) made the temple worthy of (Ninŋešzida)", and brought it before him into the temple.
+
+
+
+

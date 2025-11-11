@@ -1,0 +1,54 @@
+&Q001565 = Gudea Statue AA [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232299 = RIME 3/1, p. 067, E3/1.01.07, St AA
+#@m=object statue
+
+@m column 1
+
+$	broken
+
+1'.	[...] x#
+#lem: u; u
+
+2'.	e₂# ki# aŋ₂#-ŋa₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+3'.	ki#-be₂# gi₄-gi₄-da
+#lem: ki[place]\l; gi[turn]
+
+$ rest of column broken
+
+@m column 2
+
+$	broken
+
+1'.	KASKAL mah# x#
+#lem: u; mah[great]; u
+
+2'.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+3'. 	lagaš#[{ki}]-ra
+#lem: Lagaš[1]SN
+
+$ rest of column broken
+
+@m column 3
+
+$	broken
+
+1'.	UR#? [...]
+#lem: u; u
+
+$ rest of column broken
+
+@translation unitary en project
+@unit 1
+@span i 1' - iii 1'
+… restoring his beloved temple …. … for Gudea, ruler of Lagaš, …. 
+
+
+

@@ -1,0 +1,65 @@
+&Q001557 = Gudea Statue S [E3/1.1.7]
+@composite
+#project: gudea
+#key: after http://oracc.org/etcsri/Q001557
+#atf: use unicode
+#link: source cdli:P232291 = RIME 3/1, p. 060, E3/1.01.07, St S
+
+@m column 1
+$	broken
+
+@m column 2
+1.	e₂#-x# e₂# diŋir-ra-ta [...]
+#lem: X; e[house]; diŋir[deity]; u
+
+2.	[...]
+#lem: u
+
+3.	[{d}]nanše#
+#lem: Nanše[1]DN
+
+4.	[nin in-dub]-ba#-ke₄
+#lem: nin[lady]; induba[boundary]
+
+5.	[{d}nin]-ŋir₂#-su
+#lem: Ninŋirsuk[1]DN
+
+6.	[lugal {ŋeš}tukul]-ke₄
+#lem: lugal[king]; tukul[weapon]
+
+7.	[{d}ŋa₂]-tum₃#-dug₃
+#lem: Ŋatumdug[1]DN
+
+8.	[ama lagaš{ki}]-ke₄
+#lem: ama[mother]; Lagaš[1]
+
+9.	[{d}ig]-alim#
+#lem: Igalimak[1]DN
+
+10.	[dumu ki] aŋ₂#
+#lem: dumu[child]; ki[place]; aŋ[measure]
+
+@m column 3
+1.	[{d}nin-ŋir₂-su-ka-ke₄]
+#lem: Ninŋirsuk[1]DN
+
+$	2 lines broken
+
+4. 	lu₂#-[kur₂?]
+#lem: lukur[stranger]
+
+5.	{ŋeš}dur₂-ŋar-na [...] ha-bi₂-dur₂#-[ne?]
+#lem: durŋar[chair]; u; durun[sit] +.
+
+6.	numun-na-ni#
+#lem: numun[seed]
+
+7.	he₂-eb₂-til-ne#
+#lem: til[complete] +.
+
+8.	mu-ni he₂-eb₂-ha-lam-e-ne#
+#lem: mu[name]; halam[destroy] +.
+
+
+
+

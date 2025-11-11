@@ -1,0 +1,39 @@
+&Q001563 = Gudea Statue Y [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232297 = RIME 3/1, p. 065, E3/1.01.07, St Y
+#@m=object statue
+
+@m column 1
+1'.	[{d}nin-ŋir₂-su]
+#lem: Ninŋirsuk[1]DN
+
+2'.	[ur-saŋ] kalag#-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3'.	[{d}en]-lil₂-la₂-ra
+#lem: Enlil[1]DN
+
+4'.	gu₃#-de₂-a
+#lem: Gudea[1]RN
+
+5'.	ensi₂#
+#lem: ensik[ruler]
+
+$ rest of column broken
+
+@m column 2
+1'.	e₂#-[...]
+#lem: u
+
+$ rest of column broken
+
+@translation unitary en project
+@unit 1
+@span i 1' - ii 1'
+For Ninŋirsu, the powerful warrior of Enlil, Gudea, ruler ….
+
+
+

@@ -1,0 +1,231 @@
+&Q005312 = P431893 = RIME 3/1.01.07 St L composite
+@composite
+#project: gudea
+#key: after http://cdli.ucla.edu/P431893
+#atf: use unicode
+#atf: lang sux
+# object composite text
+# surface a
+$ beginning broken
+1'. [...]
+#lem: u
+
+2'. [...]-bi
+#lem: u
+
+3'. {d}nin?-dar-a
+#lem: Nindara[1]DN
+
+4'. x-ib₂-be₂
+#lem: X
+
+5'. ka₂ me₃
+#lem: kan[gate]; me[battle]
+
+6'. {d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+7'. x-bi
+#lem: u
+
+8'. x-x-bi
+#lem: u
+
+$ n lines broken
+9'. gu₃-de₂-a
+#lem: Gudea[1]RN
+
+10'. ensi₂
+#lem: ensik[ruler]
+
+11'. lagaš{ki}-ke₄
+#lem: Lagaš[1]SN
+
+12'. {d}nin-gir₂-su
+#lem: Ninŋirsuk[1]DN
+
+13'. lugal-a-ni
+#lem: lugal[king]
+
+14'. gu₄-apin ka keš₂-ra₂
+#lem: gudapin[plow ox]; kag[mouth]; kešed[bind]
+
+15'. engar gu₄-ra
+#lem: engar[farmer]; gudrah[drover]
+
+16'. še si-bi
+#lem: še[barley]; si[fill]
+
+17'. udu hi-a
+#lem: udu[sheep]; hi[mix]
+
+18'. sipa-bi
+#lem: sipad[shepherd]
+
+19'. i₃-ib₂-ku₄(KWU634)-ku₄(KWU634)
+#lem: kur[enter]
+
+20'. {d}ba-ba₆
+#lem: Bau[1]DN
+
+$ n lines broken
+21'. [...]-ka?
+#lem: u
+
+22'. n ma-na siki-ta
+#lem: n; mana[a unit of weight]; siki[hair]
+
+23'. i₃-ba-e-ne
+#lem: ba[allot]
+
+24'. 2(aš) {tug₂}bur₂
+#lem: n; bur[garment]
+
+25'. 2(aš) gada |ZI&ZI|-a-ku₅ gu limmu
+#lem: n; gada[flax]; X; gu[cord]; limmu[four]
+
+26'. {munus}ama tuku₅-a-bi-ne
+#lem: ama[mother]; tuku[beat]
+
+27'. 3(aš@c) ma-na siki-ta
+#lem: n; mana[a unit of weight]; siki[hair]
+
+28'. i₃-ba-e-ne
+#lem: ba[allot]
+
+29'. 2(aš) {tug₂}ib₂-la₂ gu tab-ba
+#lem: n; ibla[belt]; gu[cord]; tab[double]
+
+30'. uš-bar i₃-tuku₅-tuku₅-ne
+#lem: ušbar[weaver]; tuku[weave]
+
+31'. [...]
+#lem: u
+
+$ n lines broken
+32'. [...]
+#lem: u
+
+33'. x [...]
+#lem: u; u
+
+34'. [...]
+#lem: u
+
+35'. [...]
+#lem: u
+
+36'. mi₂ i₃-e
+#lem: mi[cvne]; e[speak]
+
+37'. e₂-mah-be₂
+#lem: Emah[1]TN
+
+38'. kar ka₂-sur-ra-ka
+#lem: kar[harbor]; Kasura[1]SN
+
+39'. i₇-da
+#lem: id[river]
+
+40'. a-a su-su-da-be₂
+#lem: a[water]; su[sink]
+
+41'. nar a₂-la₂
+#lem: nar[musician]; ala[a wooden drum]
+
+42'. igi-še₃ ba-gub
+#lem: igi[face]; gub[stand]
+
+43'. 1(aš) gu₄ 4(aš) udu 1(aš) maš₂
+#lem: aš[one]; gud[bull]; n; udu[sheep]; aš[one]; maš[goat]
+
+44'. ba-sa₆ mi₂ i₃-e
+#lem: X; mi[cvne]; e[speak]
+
+45'. bur-gi₄-a-bi
+#lem: burgia[offering]
+
+46'. 1(aš)! gu₄ 4(aš) udu 1(aš) maš₂
+#lem: aš[one]; gud[bull]; n; udu[sheep]; aš[one]; maš[goat]
+
+47'. ma₂-gin₂ gal?-x?
+#lem: ma₂.DUN₃@g[caulker]; X
+
+$ n lines broken
+48'. ma₂-gi₄-lum
+#lem: Magilum[1]DN
+
+49'. en x [...]
+#lem: en[lord]; u; u
+
+50'. esir₂ ba-al?
+#lem: esir[bitumen]; bal[dig]
+
+51'. lu₂ [...]
+#lem: lu[person]; u
+
+52'. da? [...]
+#lem: dag[side]; u
+
+$ n lines broken
+53'. [...]
+#lem: u
+
+54'. [...] x [...] x
+#lem: u; u; u; u
+
+55'. [...]-e
+#lem: dug[speak]
+
+56'. [...]
+#lem: u
+
+$ n lines broken
+57'. x-x-am₃
+#lem: u
+
+58'. 1(aš) gu₄ 6(aš) udu
+#lem: aš[one]; gud[bull]; n; udu[sheep]
+
+59'. {d}nin-gir₂-su
+#lem: Ninŋirsuk[1]DN
+
+60'. 1(aš) gu₄ 6(aš) udu
+#lem: aš[one]; gud[bull]; n; udu[sheep]
+
+61'. {d}nanše
+#lem: Nanše[1]DN
+
+62'. 1(aš) gu₄ 6(aš) udu
+#lem: aš[one]; gud[bull]; n; udu[sheep]
+
+63'. [...]
+#lem: u
+
+$ n lines broken
+64'. x x x x
+#lem: u; u; u; u
+
+65'. gi-bi
+#lem: gi[reed]
+
+66'. geš-gi-ta
+#lem: ŋešgi[reed thicket]
+
+67'. lu₂ dub-ke₄?
+#lem: lu[person]; X
+
+68'. im-ta-[...]
+#lem: u
+
+69'. 1(aš) tug₂ nig₂-[...]
+#lem: aš[one]; tug[textile]; u
+
+70'. x [...]
+#lem: u; u
+
+$ rest broken
+
+
+
+

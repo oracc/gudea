@@ -1,0 +1,88 @@
+&Q001553 = Gudea Statue O [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232287 = RIME 3/1, p. 057, E3/1.01.07, St O
+#@m=object statue
+#@surface shoulder
+1.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+4.	lu₂ e₂ {d}nin-ŋeš-zid-da
+#lem: lu[person]; e[house]; Ningišzida[1]DN
+
+5.	u₃ e₂ {d}geštin-an-na-ka
+#lem: u[and]; e[house]; Ŋeštinanak[1]DN
+
+6.	mu-du₃-a
+#lem: !du[build] +.
+
+@m column 1
+1.	{d}geštin-an-na
+#lem: Ŋeštinanak[1]DN
+
+2.	nin A NE mu₂-a
+#lem: nin[lady]; u; u; mu[grow]
+
+3.	dam ki aŋ₂
+#lem: dam[spouse]; ki[place]; aŋ[measure]
+
+4.	{d}nin-ŋeš-zid-da-ka
+#lem: Ninŋešzidak[1]DN
+
+5.	nin-a-ni
+#lem: nin[lady]\ra
+
+@m column 2
+1.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}-ke₄
+#lem: Lagaš[1]SN
+
+4.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]SN
+
+5.	mu-na-du₃
+#lem: !du[build] +.
+
+6.	alan-na-ni
+#lem: alan[statue]
+
+@m column 3
+1.	mu-tud
+#lem: utud[bear] +.
+
+2.	{d}geštin-an-na-ke₄  
+#lem: Ŋeštinanak[1]DN
+
+3.	igi zid mu-ši-bar
+#lem: igi[eye]; zid[true]; bar[cvve]
+
+4.	mu-še₃ mu-na-še₂₁
+#lem: mu[name]; še[call] +.
+
+5.	e₂-a-ni-a mu-na-ni-kur₉(REC145)
+#lem: e[house]\a; kur[enter] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 6
+Gudea, ruler of Lagaš, who built the temple of Ninŋešzida and the temple of Ŋeštin-ana.
+
+@unit 2
+@span  i 1 - iii 5
+For Ŋeštin-ana, the lady ..., the beloved spouse of Ninŋešzida, his lady, Gudea, ruler of Lagaš, built her temple in Ŋirsu. He fashioned his statue, named it for her sake "Ŋeštin-ana looked at him with favour", and brought it before her into the temple.
+
+
+

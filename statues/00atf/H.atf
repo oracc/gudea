@@ -1,0 +1,93 @@
+&Q001547 = Gudea Statue H [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232281 = RIME 3/1, p. 050, E3/1.01.07, St H
+#@m=object statue
+@m column 1
+1.	{d}ba-u₂
+#lem: Bau[1]DN
+
+2.	munus sag₉-ga
+#lem: munus[woman]; sag[good]
+
+3.	dumu an-na
+#lem: dumu[child]; An[1]DN
+
+4.	nin iri#-kug-ga
+#lem: nin[lady]; Irikug[1]SN
+
+5.	nin he₂-ŋal₂# dumu an kug-ga
+#lem: nin[lady]; heŋal[plenty]\ak; dumu[child]; An[1]DN; kug[pure]
+
+6.	nin-a-ni
+#lem: nin[lady]\ra
+
+7.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+8.    ensi₂#
+#lem: ensik[ruler]
+
+9.	lagaš#{ki#}-ke₄
+#lem: Lagaš[1]SN
+
+@m column 2
+1.	ud e₂-tar-sir₂-sir₂
+#lem: ud[day]; Etarsirsir[1]TN
+
+2.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+3.	e₂ he₂-du₇ iri-kug-ga
+#lem: e[house]; hedu[ornament]; Irikug[1]SN
+
+4.	mu-na-du₃-a
+#lem: !du[build]\a
+
+5.	kur ma₂-gan{ki}-ta
+#lem: kur[land]; Magan[1]GN
+
+6.	{na₄}esi!(PA) im-ta-ed₃
+#lem: esi[diorite]; ed[ascend\t] +.
+
+7.	alan-na-ni-še₃
+#lem: alan[statue]
+
+8.	mu-tud
+#lem: utud[bear] +.
+
+@m column 3
+1.	nin dumu ki aŋ₂ an kug-ga-ke₄
+#lem: nin[lady]; dumu[child]; ki[place]; aŋ[measure]; an[sky]; kug[pure]
+
+2.	ama {d}ba-u₂
+#lem: ama[mother]; Bau[1]DN
+
+3.	e₂-tar-sir₂-sir₂-ta
+#lem: Etarsirsir[1]TN
+
+4.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+5.	nam#-til₃ mu-na-šum₂
+#lem: namtil[life]; šum[give] +.
+
+6.	mu-še₃ mu-na-še₂₁
+#lem: mu[name]; še[call] +.
+
+7.	e₂ iri-kug-ga-ka
+#lem: e[house]; Irikug[1]SN\a
+
+8.	mu-na-ni!(DU₃)-kur₉
+#lem: kur[enter] +.
+
+@translation unitary en project
+@unit 1
+@span i 1 - iii 8
+For Bau, the kind woman, the child of An, the lady of Iri-kug, the lady of abundance, the child of holy An, his lady, after building her beloved temple, the E-tarsirsir, the temple which is the ornament of Iri-kug, Gudea, ruler of Lagaš, transported diorite from the mountains of Magan, fashioned his statue from it, named it for her sake "The lady, the beloved child of holy An, mother Bau from E-tarsirsir, granted well-being to Gudea"; and brought it before her in the temple in Iri-kug.
+
+
+
+

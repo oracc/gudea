@@ -1,0 +1,250 @@
+&Q001545 = Gudea Statue F [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232279 = RIME 3/1, p. 046, E3/1.01.07, St F
+#@m=object shoulder
+
+#@surface shoulder
+
+1.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+2.	ensi₂
+#lem: ensik[ruler]
+
+3.	lagaš{ki}
+#lem: Lagaš[1]SN\ake
+
+4.	ur {d}ŋa₂-tum₃-dug₃
+#lem: ur[man]; Ŋatumdug[1]DN\akam +.
+
+#@m=object statue
+
+@m column 1
+1.	{d}ŋa₂-tum₃-dug₃
+#lem: Ŋatumdug[1]DN
+
+2.	ama lagaš{ki}
+#lem: ama[mother]; Lagaš[1]SN\ra
+
+3.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+4.	ensi₂
+#lem: ensik[ruler]
+
+5.	lagaš{ki}
+#lem: Lagaš[1]SN\ak
+
+6.	ur {d}ŋa₂-tum₃-dug₃#
+#lem: ur[man]; Ŋatumdug[1]DN\ak
+
+7.	arad₂ ki aŋ₂-zu
+#lem: arad[slave]; ki[place]; aŋ[measure]
+
+8.	lu₂ niŋ₂-du₇-e pa bi₂-e₃-a
+#lem: lu[person]; niŋdu[appropriate thing]\l; pa[branch]; e[go out]
+
+9.	e₂-ninnu-anzud₂{mušen}-babbar₂
+#lem: Eninnu-anzubabbar[1]TN
+
+10.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+11.	mu-du₃-a
+#lem: !du[build]
+
+12.	{d}ŋa₂-tum₃-dug₃
+#lem: Ŋatumdug[1]DN
+
+13.	nin-a-ne₂
+#lem: nin[lady]
+
+14.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+15.	iri ki aŋ₂-ŋa₂-ni-ta
+#lem: iri[city]; ki[place]; aŋ[measure]
+
+16.	unu₆ šuba₃-a
+#lem: unu[dwelling]; šuba[multicoloured]\a
+
+@m column 2
+1.	mu-ni-tud-da-a
+#lem: utud[bear]#mu.ni:~;a,a
+
+2.	e₂ {d}ŋa₂-tum₃-dug₃
+#lem: (S-DE-PRP e[house]; Ŋatumdug[1]DN
+
+3.	nin-a-na
+#lem: nin[lady]
+
+4.	du₃-de₃
+#lem: !du[build] )
+
+5.	u₃ nu-ma-ši-kur₉(REC145)
+#lem: u[sleep]; kur[enter] +.
+
+6.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+7.	ensi₂
+#lem: ensik[ruler]
+
+8.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+9.	ŋeštug₂ daŋal-kam
+#lem: ŋeštug[ear]; daŋal[wide]
+
+10.	arad₂ ni₂-tuku
+#lem: arad[slave]; nituku[pious]
+
+11.	nin-a-na-kam
+#lem: nin[lady]
+
+12.	bisaŋ {ŋeš}u₃-šub-ba-ka
+#lem: bisaŋ[frame]; ušub[brick-mold]\a
+
+13.	ŋeš ba-an-hur
+#lem: ŋeš[tree]; hur[scratch] +.
+
+14.	ka-al-ka
+#lem: kalak[trench]\a
+
+15.	urin ba-mul
+#lem: urin[standard]; mul[star//to shine]N'V/t +.
+
+16.	im-bi ki kug-ga
+#lem: im[clay]; ki[place]; kug[pure]\a
+
+17.	im-mi-lu
+#lem: lu[mix] +.
+
+18.	šeg₁₂-bi ki sikil-a
+#lem: šeg[brick]; ki[place]; sikil[pure]\a
+
+19.	im-mi-du₈
+#lem: du[spread] +.
+
+@m column 3
+1.	uš-bi mu-kug
+#lem: uš[foundation]; kug[pure] +.
+
+2.	izi i₃-im-ta-la₂
+#lem: izi[fire]; la[hang] +.
+
+3.	temen-be₂
+#lem: temen[foundation]\l
+
+4.	i₃ ir nun-ka
+#lem: i[oil]; ir[scent]; nun[prince]\a
+
+5.	šu tag ba-ni-dug₄
+#lem: šu[hand]; tag[touch]; dug[speak] +.
+
+6.	iri-kug-ga ki dadag-ga-a
+#lem: Irikug[1]SN; ki[place]; dadag[bright]\a
+
+7.	e₂ mu-na-du₃
+#lem: e[house]; !du[build] +.
+
+8.	{ŋeš}dur₂-ŋar mah nam-nin-ka-ni
+#lem: durŋar[chair]; mah[great]; namnin[ladyship]
+
+9.	mu-na-dim₂
+#lem: dim[create] +.
+
+10.	dub-šen kug-ga-ni
+#lem: dubšen[chest]; kug[pure]
+
+11.	mu-na-dim₂
+#lem: dim[create] +.
+
+12.	gud šu₄-dul₄-la
+#lem: gud[ox]; šudul[yoke]\a
+
+13.	si ba-ni-sa₂-sa₂
+#lem: si[horn]; sa[equal] +.
+
+14.	engar gud-ra-bi
+#lem: engar[farmer]; gudrah[drover]
+
+15.	im-mi-us₂
+#lem: us[follow] +.
+
+16.	ab₂ zid-da
+#lem: ab[cow]; zid[true]V/i
+
+17.	amar zid mu-ni-šar₂-šar₂
+#lem: amar[young]; zid[true]V/i; šar[numerous\t]'V +.
+
+18.	unud-bi
+#lem: unud[cowherd]
+
+19.	bi₂-us₂
+#lem: us[follow] +.
+
+@m column 4
+1.	u₈ zid-da
+#lem: u[ewe]; zid[true]V/i
+
+2.	sila₄ zid mu-ni-šar₂-šar₂
+#lem: sila[lamb]; zid[true]V/i; šar[numerous\t]'V +.
+
+3.	sipad-bi
+#lem: sipad[shepherd]
+
+4.	im-mi-us₂
+#lem: us[follow] +.
+
+5.	ud₅ zid-da
+#lem: uzud[goat]; zid[true]V/i
+
+6.	maš₂ zid mu-ni-šar₂-šar₂
+#lem: maš[goat]; zid[true]V/i; šar[numerous\t]'V +.
+
+7.	sipad-bi#
+#lem: sipad[shepherd]
+
+8.	im-mi-us₂#
+#lem: us[follow] +.
+
+9.	anše ama-gan-a
+#lem: anše[equid]; amagan[mother] +.
+
+10.	dur₃(|ANŠE.ARAD×KUR|) kaš₄-bi
+#lem: dur[donkey]; kaš[runner]\l
+
+11.	šu im-ma-ba
+#lem: šu[hand]; bar[cvve] +.
+
+12.	na-gada-bi
+#lem: nagada[herdsman]
+
+13.	bi₂-us₂
+#lem: us[follow] +.
+
+@translation unitary en project
+
+@unit 1
+@span 1 - 4
+Gudea, ruler of Lagaš, devotee of Ŋatumdug.
+
+@unit 2
+@span i 1 - ii 5
+For Ŋatumdug, the mother of Lagaš, Gudea, ruler of Lagaš, devotee of Ŋatumdug, your beloved slave, who brought about perfection and built Ninŋirsu's E-ninnnu-anzud-babbar, to whom Ŋatumdug, his lady, gave birth in the shining sanctuary @?of?@ Lagaš, her beloved city, was eager to build his lady's temple. 
+
+@unit 3
+@span ii 6 - iii 11
+Being a ruler of Lagaš with broad wisdom, and a slave reverent of his lady, Gudea made a drawing on the brick-mould's frame, and made a standard shine at the clay pit. He mixed the clay in a holy place, and made the (first) brick in an undefiled place. He purified the foundation pit by carrying around fire, and anointed the foundation pegs with oil of princely fragrance. He built the temple in Iri-kug on pure ground. He fashioned her lofty throne of ladyhood, (and) fashioned her holy treasure chest for her.
+
+@unit 4
+@span iii 12 - iv 13
+He organized yokes of oxen, and assigned farmers and ox drivers to them. He ensured that fecund cows gave birth to numerous healthy calves, and assigned cowherds to them. He ensured that fecund ewes gave birth to numerous healthy lambs, and assigned shepherds to them. He ensured that fecund goats gave birth to numerous healthy kids, and assigned shepherds to them. He let swift donkey stallions mate with breeding she-asses, and assigned herdsmen to them.
+
+
+
+

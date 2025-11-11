@@ -1,0 +1,96 @@
+&Q001559 = Gudea Statue U [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232293 = RIME 3/1, p. 062, E3/1.01.07, St U
+#@m=object shoulder
+
+$	2 lines missing
+
+3.	lagaš#[{ki}]
+#lem: Lagaš[1]SN
+
+4.	lu₂# [e₂]-sirara₆#
+#lem: lu[person]; Esirara[1]TN
+
+5.	e₂# {d}nanše#?
+#lem: e[house]; Nanše[1]DN
+
+6.	mu#-du₃-a
+#lem: !du[build]
+
+#@m=object statue
+
+@m column 1
+
+$	broken
+
+1'.	nin-a#?-[ni?]
+#lem: nin[lady]\ra
+
+2'.	gu₃-de₂#-[a]
+#lem: Gudea[1]RN
+
+3'.	ensi₂
+#lem: ensik[ruler]
+
+4'.	lagaš#{ki}
+#lem: Lagaš[1]SN
+
+5'.	[...] x#
+#lem: u; u
+
+6'.	[...] MU#
+#lem: u; u
+
+7'.	[...] x#
+#lem: u; u
+
+$ rest of column broken
+
+@m column 2
+
+$	broken
+
+1'.	x# [...]
+#lem: u; u
+
+2'.	gi-[gun₄] ki aŋ₂-ni
+#lem: giguna[terrace]; ki[place]; aŋ[measure]
+
+3'.	{šim}eren-na
+#lem: eren[cedar]\a
+
+4'.	mu-na-ni-du₃
+#lem: !du[build]
+
+$ rest of column broken
+
+@m column 3
+
+$	broken
+
+1'.	x# [...]
+#lem: u; u
+
+2'.	SAG#? [...] KA x# [...]
+#lem: u; u; u; u; u
+
+$ rest of column broken
+
+@translation unitary en project
+@unit 1
+@span 3 - 6
+… of Lagaš, who built the E-sirara, the temple of Nanše.
+
+@unit 2
+@span i 1' -  ii 4'
+For …, his lady, Gudea, ruler of Lagaš, …. … built his beloved @?divine audience chamber?@ from fragrant cedarwood ….
+
+@unit 3
+@span iii 1' -  iii 2'
+…
+
+
+

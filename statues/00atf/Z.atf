@@ -1,0 +1,46 @@
+&Q001564 = Gudea Statue Z [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232298 = RIME 3/1, p. 066, E3/1.01.07, St Z
+#@m=object statue
+
+@m column 1
+
+$	broken
+
+1'.	x# x#-[x]-a{ki}-ta
+#lem: u; u
+
+2'.	{na₄#}esi
+#lem: esi[diorite]
+
+3'.	im#-ta-ed₃
+#lem: ed[ascend\t]
+
+4'.	alan#-na-še₃
+#lem: alan[statue]
+
+5'.	[mu]-tud#
+#lem: utud[bear]
+
+$ rest of column broken
+
+@m column 2
+
+$	broken
+
+1'.	mu# [...]
+#lem: mu[name]; u
+
+$ rest of column broken
+
+@translation unitary en project
+@unit 1
+@span i 1' - ii 1'
+… transported diorite from …, fashioned his (own) statue from it, ….
+
+
+
+

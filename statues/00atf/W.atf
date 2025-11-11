@@ -1,0 +1,41 @@
+&Q001561 = Gudea Statue W [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232295 = RIME 3/1, p. 064, E3/1.01.07, St W
+#@m=object statue
+
+$	broken
+@m column 1'
+
+0.      [...]
+#lem: DN#~,ra
+
+1.	gu₃#-[de₂-a]
+#lem: Gudea[1]RN
+
+2.	ensi₂#
+#lem: ensik[ruler]
+
+3.	lagaš#[{ki}]
+#lem: Lagaš[1]SN\ake
+
+4.	niŋ₂-du₇-e pa [mu]-na-e₃#
+#lem: niŋdu[appropriate thing]\l; pa[branch]; e[go out]
+
+5.	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+6.	mu#-na-du₃#
+#lem: !du[build]
+
+$	broken
+
+@translation unitary en project
+@unit 1
+@span i 1 - i 6
+… Gudea, ruler of Lagaš, brought about perfection: he built his E-ninnu-anzud-babbar ….
+
+
+

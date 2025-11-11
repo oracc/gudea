@@ -1,0 +1,183 @@
+&Q001554 = Gudea Statue P [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232288 = RIME 3/1, p. 057, E3/1.01.07, St P
+#@m=object statue
+@m column 1
+1.	 ud {d}nin-ŋir₂-su
+#lem: ud[day]; Ninŋirsuk[1]DN
+
+2.	ur-saŋ kalag-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂-ke₄
+#lem: Enlil[1]DN
+
+4.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+5.	dumu {d}nin-a-zu
+#lem: dumu[child]; Ninazu[1]DN
+
+6.	ki aŋ₂ diŋir-re-ne-ra
+#lem: ki[place]; aŋ[measure]; diŋir[deity]
+
+7.	iri-a ki-ur₃
+#lem: iri[city]\a; kiʾur[foundation]
+
+@m column 2
+1.	mu-na-ni-ŋar-a
+#lem: ŋar[place]\a
+
+2.	ašag-ga gana₂ id₂
+#lem: ašag[field]; gana[field]; id[river]
+
+3.	mu-na-ni-ŋar-a
+#lem: ŋar[place]\a
+
+4.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+5.	ensi₂
+#lem: ensik[ruler]
+
+6.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+7.	lu₂ si-sa₂
+#lem: lu[person]; sisa[fair]
+
+8.	diŋir-ra-ne₂
+#lem: diŋir[deity]
+
+9.	ki aŋ₂-e
+#lem: ki[place]; aŋ[measure]
+
+10.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+11.	lugal-a-ni
+#lem: lugal[king]\ra
+
+12.	e₂-ninnu-anzud₂{mušen}-babbar₂-ra-ni
+#lem: Eninnu-anzubabbar[1]TN
+
+13.	e₂-ŋidru e₂ ub imin-na-ni
+#lem: Eŋidruk[1]TN; e[house]; ub[corner]; imin[seven]
+
+14.	mu-na-du₃-a
+#lem: !du[build]\a
+
+15.	{d}nanše
+#lem: Nanše[1]DN
+
+16.	nin uru₁₆
+#lem: nin[lady]; urun[exalted]
+
+@m column 3
+1.	nin-a-ni
+#lem: nin[lady]\ra
+
+2.	e₂-sirara₆
+#lem: Esirara[1]TN
+
+3.	kur e₂-ta il₂-la-ni
+#lem: kur[mountain(s)]; e[house]; il[raise]
+
+4.	mu-na-du₃
+#lem: !du[build] +.
+
+5.	diŋir gal-gal lagaš{ki}-ke₄-ne
+#lem: diŋir[deity]; gal[big]; Lagaš[1]SN\ra
+
+6.	e₂-ne-ne
+#lem: e[house]
+
+7.	mu-ne-du₃
+#lem: !du[build] +.
+
+8.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+9.	diŋir-ra-ni
+#lem: diŋir[deity]\ra
+
+10.	e₂ ŋir₂-su{ki}-ka-ni
+#lem: e[house]; Ŋirsu[1]SN
+
+11.	mu-na-du₃
+#lem: !du[build] +.
+
+12.	lu₂ diŋir-ŋu₁₀-gin₇
+#lem: lu[person]; diŋir[deity]
+
+13.	{d}nin-ŋir₂-su-ke₄
+#lem: Ninŋirsuk[1]DN
+
+@m column 4
+1.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+2.	uŋ₃-ŋa₂ gu₃ u₃-mu-na-ni-de₂-a
+#lem: uŋ[people]\a; gu[voice]; de[pour]\eE
+
+3.	e₂ diŋir-ŋa₂-ke₄
+#lem: e[house]; diŋir[deity]\l
+
+4.	igi X-la
+#lem: igi[eye]; u
+
+5.	na-ab-ak-ke₄
+#lem: ak[do] +.
+
+6.	mu-bi he₂-pad₃-de₃
+#lem: mu[name]; pad[name] +.
+
+7.	lu₂-bi gu₅-li-ŋu₁₀ he₂-am₃
+#lem: lu[person]; guli[friend]; me[be] +.
+
+8.	mu-ŋu₁₀ he₂-pad₃-de₃
+#lem: mu[name]; pad[name] +.
+
+@m column 5
+1.	alan-na-e
+#lem: alan[statue]\l
+
+2.	mu-tud
+#lem: utud[bear] +.
+
+3.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+4.	lu₂ e₂ du₃-a-ka
+#lem: lu[person]; e[house]; !du[build]
+
+5.	nam-til₃-la-ni
+#lem: namtil[life]
+
+6.	he₂-sud
+#lem: sud[distant] +.
+
+7.	mu-še₃ mu-na-še₂₁
+#lem: mu[name]; še[call] +.
+
+8.	e₂-a mu-na-ni-kur₉
+#lem: e[house]\a; kur[bring] +.
+
+@translation unitary en project
+@unit 1
+@span i 1 - iii 11
+When Ninŋirsu, the powerful warrior of Enlil, had established a dwelling in the city and established fields and canals on the agricultural land for Ninŋešzida, child of Ninazu, the beloved of the gods, (and when) for Ninŋirsu, his master, Gudea, ruler of Lagaš, the just person who is loved by his personal god, had built his E-ninnu-anzud-babbar and the E-ŋidru, his temple of seven niches, then for Nanše, the mighty lady, his lady, he built her E-sirara, the mountain rising from among the houses, for the great gods of Lagaš he built their temples, (and) for Ninŋešzida, his personal god, he built his temple in Ŋirsu.
+
+@unit 2
+@span iii 12 - iv 8
+The person whose personal god, just like my personal god, will have been addressed by Ninŋirsu in the crowd should not @?take exception?@ to the temple of my personal god, may he rather preserve its fame! May this person be my friend, (and) preserve my memory!
+
+@unit 3
+@span v 1 - v 8
+(Gudea) fashioned his (own) statue, named it for his sake "May the life of Gudea, the temple-builder, be prolonged!”, and brought it before him into the temple.
+
+
+

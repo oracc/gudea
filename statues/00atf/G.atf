@@ -1,0 +1,355 @@
+&Q001546 = Gudea Statue G [E3/1.01.07]
+@composite
+#project: gudea
+#atf: use unicode
+#atf: use mylines
+#link: source cdli:P232280 = RIME 3/1, p. 048, E3/1.01.07, St G
+#@m=object statue
+@m column 1
+1.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+2.	ur-saŋ kalag-ga
+#lem: ursaŋ[hero]; kalag[strong]
+
+3.	{d}en-lil₂-la₂
+#lem: Enlil[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]\ra +.
+
+5.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+6.	ensi₂
+#lem: ensik[ruler]
+
+7.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+8.	lu₂ e₂-ninnu
+#lem: lu[person]; Eninnu[1]TN
+
+9.	{d}nin-ŋir₂-su-ka
+#lem: Ninŋirsuk[1]DN
+
+10.	in-du₃-a
+#lem: !du[build]\eE
+
+11.	{d}nin-ŋir₂-su
+#lem: Ninŋirsuk[1]DN
+
+12.	lugal-a-ni
+#lem: lugal[king]\ra
+
+13.	e₂-ŋidru e₂ ub imin
+#lem: Eŋidruk[1]TN; e[house]; ub[corner]; imin[seven]
+
+14.	e₂ ŋidru-bi
+#lem: e[house]; ŋidru[scepter]
+
+15.	saŋ-bi-še₃ e₃-a
+#lem: saŋ[head]; e[go out]
+
+16.	{d}nin-ŋir₂-su-ke₄
+#lem: Ninŋirsuk[1]DN
+
+17.	nam dug₃ tar#-ra
+#lem: nam[fate]; dug[good]; tar[cut]
+
+18.	mu-na-du₃
+#lem: !du[build]
+
+@m column 2
+1.	niŋ₂-mussa
+#lem: niŋmussa[gift]
+
+2.	šag₄ hul₂-la
+#lem: šag[heart]; hul[rejoice]
+
+3.	{d}nin-ŋir₂-su-ke₄
+#lem: Ninŋirsuk[1]DN
+
+4.	{d}ba-u₂
+#lem: Bau[1]DN
+
+5.	dumu an-na
+#lem: dumu[child]; An[1]DN
+
+6.	dam ki aŋ₂-ni
+#lem: dam[spouse]; ki[place]; aŋ[measure]\ra
+
+7.	mu-na-ta-ak-ke₄
+#lem: ak[do]
+
+8.	diŋir-ra-ni
+#lem: diŋir[deity]
+
+9.	{d}nin-ŋeš-zid-da
+#lem: Ningišzida[1]DN
+
+10.	egir-be₂ ib₂-us₂
+#lem: egir[back]\l; us[follow]
+
+11.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+12.	ensi₂
+#lem: ensik[ruler]
+
+13.	lagaš{ki}-ke₄
+#lem: Lagaš[1]SN
+
+
+14.	ŋir₂-su{ki}-ta
+#lem: Ŋirsu[1]SN
+
+15.	iri-kug-še₃
+#lem: Irikug[1]SN
+
+16.	silim-ma im-da-be₂
+#lem: silim[healthy]\a; e[speak]
+
+17.	šag₄ mu-ba-ka
+#lem: šag[heart]; mu[year]\a
+
+@m column 3
+1.	kur ma₂-gan{ki}-ta
+#lem: kur[land]; Magan[1]GN
+
+2.	{na₄}esi im-ta-ed₃
+#lem: esi[diorite]; ed[ascend\t]
+
+3.	alan-na-še₃
+#lem: alan[statue]
+
+4.	mu-tud
+#lem: utud[bear]
+
+5.	ud zag-mu
+#lem: ud[day]; zagmuk[new year]\ak
+
+6.	ezen {d}ba-u₂
+#lem: ezem[festival]; Bau[1]DN
+
+7.	niŋ₂-mussa ak-da
+#lem: niŋmussa[gift]; ak[do]
+
+8.	1(aš) gud niga
+#lem: n; gud[ox]; niga[fattened]
+
+9.	1(aš) udu i₃
+#lem: n; udu[sheep]; i[oil]
+
+10.	3(aš) udu niga
+#lem: n; udu[sheep]; niga[fattened]
+
+@m column 4
+1.	6(aš) udu nita
+#lem: n; udu[sheep]; nita[male]
+
+2.	2(aš) sila₄
+#lem: n; sila[lamb]
+
+3.	7(aš) kurum₆ zu₂-lum
+#lem: n; kurum[ration]; zulum[date]
+
+4.	7(aš) sab i₃-nun
+#lem: n; sab[jar]; inun[butter]
+
+5.	7(aš) šag₄ ŋešnimbar
+#lem: n; šag[heart]; ŋešnimbar[palm]
+
+6.	7(aš) <is>-hu {ŋeš}peš₃
+#lem: n; ishu[string?]; peš[fig]
+
+7.	7(aš) ŋiri₃-lam
+#lem: n; ŋirlam[basket]
+
+8.	1(aš) ti₈-uz
+#lem: n; tiʾuz[bird]
+
+9.	7(aš) {mušen}gambi(|SAL.UŠ.DI.KID|)
+#lem: n; gambi[crane]
+
+10.	1(u@c) 5(aš) {mušen}kur-gi₁₆
+#lem: n; n; kurgi[goose]
+
+11. 	1(geš₂) mušen di₄-di₄
+#lem: n; mušen[bird]; didila[smaller]
+
+12.	is-hu-bi 1(u@c) 5(aš)
+#lem: ishu[string?]; n; n
+
+13.	1(geš₂) {ku₆}suhur-tun₃
+#lem: n; suhurtunbar[fish]
+
+14.	is-hu-bi 3(u@c)
+#lem: ishu[string?]; n
+
+15.	3(u@c) gun₂ lu{sar}
+#lem: n; gun[load]; lub[turnip]
+
+16. 	7(aš) gun₂ enₓ(|NE.GI|)-bar
+#lem: n; gun[load]; enbar[reed]
+
+17.	1(geš₂) gun₂ {ŋeš}ma-nu
+#lem: n; gun[load]; manu[wood]
+
+18.	niŋ₂-mussa {d}ba-u₂
+#lem: niŋmussa[gift]; Bau[1]DN
+
+19.	e₂ libir-a
+#lem: e[house]; libir[old]\ak
+
+20.	ud-bi-ta-kam
+#lem: udbita[former]
+
+21.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+@m column 5
+1.	ensi₂
+#lem: ensik[ruler]
+
+2.	lagaš{ki}-ke₄
+#lem: Lagaš[1]SN
+
+3.	ud {d}nin-ŋir₂-su
+#lem: ud[day]; Ninŋirsuk[1]DN
+
+4.	lugal-a-ni
+#lem: lugal[king]\ra
+
+5.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+6.	e₂-ninnu
+#lem: Eninnu[1]TN
+
+7.	mu-na-du₃-a
+#lem: !du[build]\a
+
+8.	{d}ba-u₂
+#lem: Bau[1]DN
+
+9.	nin-a-ni
+#lem: nin[lady]\ra
+
+10.	e₂ ki aŋ₂-ni
+#lem: e[house]; ki[place]; aŋ[measure]
+
+11.	e₂-tar-sir₂-sir₂
+#lem: Etarsirsir[1]TN
+
+12.	mu-na-du₃-a
+#lem: !du[build]\a
+
+13.	2(aš) gud niga
+#lem: n; gud[ox]; niga[fattened]
+
+14.	2(aš) udu i₃
+#lem: n; udu[sheep]; i[oil]
+
+15.	1(u@c) udu niga
+#lem: n; udu[sheep]; niga[fattened]
+
+16.	2(aš) sila₄
+#lem: n; sila[lamb]
+
+17.	7(aš) kurum₆ zu₂-lum
+#lem: n; kurum[ration]; zulum[date]
+
+18.	7(aš) sab i₃ nun
+#lem: n; sab[jar]; i[oil]; nun[prince]
+
+19.	7(aš) šag₄ ŋešnimbar
+#lem: n; šag[heart]; ŋešnimbar[palm]
+
+20.	7(aš) <is>-hu {ŋeš}peš₃
+#lem: n; ishu[string?]; peš[fig]
+
+21.	7(aš) giri₃-lam
+#lem: n; ŋirlam[basket]
+
+22.	1(u@c) 4(aš) a₂-an zu₂-lum
+#lem: n; n; aʾan[spadix]; zulum[date]
+
+@m column 6
+1.	1(u@c) 4(aš) ukuš₂ dusu
+#lem: n; n; ukuš[cucumber]; dupsik[basket]
+
+2.	1(aš) ti₈-uz
+#lem: n; tiʾuz[bird]
+
+3.	7(aš) {mušen}gambi(|SAL.UŠ.DI.KID|)
+#lem: n; gambi[crane]
+
+4.	1(u@c) kur-gi₁₆{mušen}
+#lem: n; kurgi[goose]
+
+5.	7(aš) i-zi{mušen}
+#lem: n; ezi[bird]
+
+6. 	1(geš₂) mušen di₄-di₄
+#lem: n; mušen[bird]; didila[smaller]
+
+7.	is-hu-bi 1(u@c) 5(aš)
+#lem: ishu[string?]; n; n
+
+8. 	1(geš₂) {ku₆}suhur-tun₃
+#lem: n; suhurtunbar[fish]
+
+9.	is-hu-bi 3(u@c)
+#lem: ishu[string?]; n
+
+10.	4(u@c) gun₂ lu{sar}
+#lem: n; gun[load]; lub[turnip]
+
+11.	7(aš) gun₂ enₓ(|NE.GI|)-bar
+#lem: n; gun[load]; enbar[reed]
+
+12.	1(geš₂) gun₂ {ŋeš}ma-nu
+#lem: n; gun[load]; manu[wood]
+
+13.	niŋ₂-mussa {d}ba-u₂
+#lem: niŋmussa[gift]; Bau[1]DN
+
+14.	e₂ gibil
+#lem: e[house]; gibil[new]
+
+15.	gu₃-de₂-a
+#lem: Gudea[1]RN
+
+16.	ensi₂
+#lem: ensik[ruler]
+
+17.	lagaš{ki}
+#lem: Lagaš[1]SN
+
+18.	lu₂# e₂# du₃-a-ke₄
+#lem: lu[person]; e[house]; !du[build]
+
+19.	ba#-an-dah-ha-am₃
+#lem: tah[add]
+
+@translation unitary en project
+@unit 1
+@span i 1 - ii 16
+For Ninŋirsu, the powerful warrior of Enlil, his master, Gudea, ruler of Lagaš, the builder of Ninŋirsu's E-ninnu, built Ninŋirsu, his master's E-ŋidru, the temple of seven niches, the temple whose scepter takes precedence, (and) for which Ninŋirsu decided a good fate. Ninŋirsu dispatches the joyful bridewealth of Bau, the child of An, his beloved spouse, from this (temple). (Gudea's) personal god, Ninŋešzida follows them, (and) Gudea, ruler of Lagaš, @?escorts?@ them from Ŋirsu to Iri-kug @?to congratulate (on the occasion)?@.
+
+@unit 2
+@span ii 17 - iii 4
+In this very year he transported diorite from the mountains of Magan, (and) fashioned his statue from it. 
+
+@unit 3
+@span iii 5 - iv 20
+At the turn of the year, at the festival of Bau, when the bridewealth is to be presented, the bridewealth for Bau consisted of these in the former, old temple: uz-bird, 7 cranes, 15 geese, 60 small birds in strings of 15, 60 @suḫurtun-carps in strings of 30, 30 @gun turnip, 7 @gun marsh reed, 60 @gun @manu wood.
+
+@unit 4
+@span iv 21 - vi 19
+After Gudea, ruler of Lagaš built his beloved temple, the E-ninnu, for Ninŋirsu, his master, (and) built her beloved temple, the E-tarsirsir, for Bau, his lady, the bridewealth for Bau consists of these in the new temple, increased by Gudea, ruler of Lagaš, the temple-builder: uz bird, 7 cranes, 10 geese, 7 @izi-birds, 60 small birds in strings of 15, 60 @suḫurtun-carps in strings of 30, 40 @gun turnip, 7 @gun marsh reed, 60 @gun @manu wood.
+
+
+
+
