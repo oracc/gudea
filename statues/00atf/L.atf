@@ -4,6 +4,7 @@
 #key: after http://cdli.ucla.edu/P431893
 #atf: use unicode
 #atf: lang sux
+#cfy: ccf gudea-statue.ccf
 # object composite text
 # surface a
 $ beginning broken

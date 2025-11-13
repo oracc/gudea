@@ -4,6 +4,9 @@
 #key: after http://oracc.org/etcsri/Q001557
 #atf: use unicode
 #link: source cdli:P232291 = RIME 3/1, p. 060, E3/1.01.07, St S
+#cfy: ccf gudea-statue.ccf
+
+@m=object statue
 
 @m column 1
 $	broken

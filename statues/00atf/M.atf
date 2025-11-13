@@ -4,8 +4,12 @@
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P232285 = RIME 3/1, p. 055, E3/1.01.07, St M
-#@m=object statue
-#@surface shoulder
+#cfy: ccf gudea-statue.ccf
+@m=object statue
+@m=surface shoulder
+
+@h1 Shoulder
+
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN
 
@@ -23,6 +27,10 @@
 
 6.	mu-du₃-a
 #lem: !du[build] +.
+
+@m=surface body
+
+@h1 Body
 
 @m column 1
 1.	{d}geštin-an-na

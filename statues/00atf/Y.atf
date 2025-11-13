@@ -4,7 +4,9 @@
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P232297 = RIME 3/1, p. 065, E3/1.01.07, St Y
-#@m=object statue
+#cfy: ccf gudea-statue.ccf
+
+@m=object statue
 
 @m column 1
 1'.	[{d}nin-ŋir₂-su]

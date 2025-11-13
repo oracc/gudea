@@ -3,8 +3,10 @@
 #project: gudea
 #atf: use unicode
 #atf: use mylines
+#cfy: ccf gudea-statue.ccf
 #link: source cdli:P232281 = RIME 3/1, p. 050, E3/1.01.07, St H
-#@m=object statue
+
+@m=object statue
 @m column 1
 1.	{d}ba-u₂
 #lem: Bau[1]DN

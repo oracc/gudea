@@ -4,7 +4,9 @@
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P232289 = RIME 3/1, p. 058, E3/1.01.07, St Q
-#@m=object statue
+#cfy: ccf gudea-statue.ccf
+
+@m=object statue
 @m column 1
 1.	{d}nin-ŋeš-zid-da
 #lem: Ningišzida[1]DN

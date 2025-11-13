@@ -3,11 +3,14 @@
 #project: gudea
 #atf: use unicode
 #atf: use mylines
+#cfy: ccf gudea-statue.ccf
 #link: source cdli:P232279 = RIME 3/1, p. 046, E3/1.01.07, St F
-#@m=object shoulder
 
-#@surface shoulder
+@m=object statue
 
+@m=surface shoulder
+
+@h1 Shoulder
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN
 
@@ -20,7 +23,8 @@
 4.	ur {d}ŋa₂-tum₃-dug₃
 #lem: ur[man]; Ŋatumdug[1]DN\akam +.
 
-#@m=object statue
+@m=surface body
+@h1 Body
 
 @m column 1
 1.	{d}ŋa₂-tum₃-dug₃

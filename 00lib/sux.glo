@@ -103,3 +103,10 @@
 @form keš₃(|U.AN.HI×GAD|){ki} /keš₃(|U.AN.HI×GAD|){ki} #~
 @sense SN 1
 @end entry
+
+@entry ur [he] IP
+@bases ur₅
+@form ur₅-gin₇ /ur₅ #~,gin
+@sense IP he
+@sense O thus
+@end entry

@@ -4,7 +4,9 @@
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P232293 = RIME 3/1, p. 062, E3/1.01.07, St U
-#@m=object shoulder
+#cfy: ccf gudea-statue.ccf
+
+@m=object shoulder
 
 $	2 lines missing
 

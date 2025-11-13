@@ -3,9 +3,10 @@
 #project: gudea
 #atf: use unicode
 #atf: use mylines
+#cfy: ccf gudea-statue.ccf
 #link: source cdli:P232287 = RIME 3/1, p. 057, E3/1.01.07, St O
-#@m=object statue
-#@surface shoulder
+@m=object statue
+@h1 Shoulder
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN
 

@@ -4,7 +4,8 @@
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P232296 = RIME 3/1, p. 065, E3/1.01.07, St X
-#@m=object statue
+#cfy: ccf gudea-statue.ccf
+@m=object statue
 
 1.	[{d}meš₃-lam]-ta#-[e₃]-a
 #lem: Meslamtaea[1]DN

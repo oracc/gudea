@@ -3,9 +3,13 @@
 #project: gudea
 #atf: use unicode
 #atf: use mylines
+#cfy: ccf gudea-statue.ccf
 #link: source cdli:P232282 = RIME 3/1, p. 051, E3/1.01.07, St I
-#@m=object statue
+
+@m=object statue
+
 #https://www.metmuseum.org/art/collection/search/329072
+
 @m column 1
 1.	ud {d}nin-ŋir₂-su
 #lem: ud[day]; Ninŋirsuk[1]DN

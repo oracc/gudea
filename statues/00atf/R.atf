@@ -4,7 +4,9 @@
 #key: after http://oracc.org/etcsri/Q001556
 #atf: use unicode
 #link: source cdli:P232290 = RIME 3/1, p. 059, E3/1.01.07, St R
-#@m=locator object statue
+#cfy: ccf gudea-statue.ccf
+
+@m=object statue
 @m column 1
 1.	gu₃-de₂-a
 #lem: Gudea[1]RN

@@ -4,7 +4,8 @@
 #atf: use unicode
 #atf: use mylines
 #link: source cdli:P232299 = RIME 3/1, p. 067, E3/1.01.07, St AA
-#@m=object statue
+
+@m=object statue
 
 @m column 1
 
