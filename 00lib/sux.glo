@@ -45,6 +45,12 @@
 @sense N poplar, black poplar
 @end entry
 
+@entry kalam [land] N
+@bases kalam
+@form kalam-e\eE /kalam #~,e
+@sense N land
+@end entry
+
 @entry kiŋsig [meal] N
 @bases kiŋ₂-sig₁₇; kiŋ₂-sig₁₉
 @form kiŋ₂-sig₁₉\ak /kiŋ₂-sig₁₉ #~,ak
@@ -66,6 +72,12 @@
 @bases lagašₓ(|LA.NU₁₁.BUR|){ki}
 @form lagašₓ(|LA.NU₁₁.BUR|){ki} /lagašₓ(|LA.NU₁₁.BUR|){ki} #~
 @sense SN 1
+@end entry
+
+@entry lugal [king] N
+@bases lugal
+@form lugal-ŋu₁₀\ra /lugal #~,ŋu.ra
+@sense N king
 @end entry
 
 @entry marza [rites] N
